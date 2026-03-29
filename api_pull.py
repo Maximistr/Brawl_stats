@@ -10,6 +10,7 @@ from dotenv import load_dotenv
 import subprocess
 import sys
 import importlib
+import streamlit as st
 
 packages = {
     "matplotlib": "matplotlib",
@@ -57,6 +58,6 @@ axes[0,0].set_xlabel('Power Level')
 axes[0,1].plot(tropy_data['Date'], tropy_data['Trophies'], marker='o', color='yellow')
 axes[0,1].set_title('Trophy Progression')
 axes[0,1].set_ylabel('Trophies')
-
+st.write("### Power Levels of Brawlers")
 plt.show()
 
