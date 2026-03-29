@@ -22,3 +22,8 @@ async def proxy(path: str, request: Request):
             headers={"Authorization": f"Bearer {API_KEY}"}
         )
     return response.json()
+@app.get("/testip")
+async def testip():
+    async with httpx.AsyncClient() as client:
+        r = await client.get("https://api.ipify.org?format=json")
+    return r.json()
