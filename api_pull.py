@@ -1,3 +1,15 @@
+packages = {
+    "matplotlib": "matplotlib",
+    "pandas": "pandas",
+    "numpy": "numpy",
+    "dotenv": "python-dotenv",
+}
+
+for import_name, install_name in packages.items():
+    if importlib.util.find_spec(import_name) is None:
+        print(f"Installing {install_name}...")
+        subprocess.check_call([sys.executable, "-m", "pip", "install", install_name])
+
 import os
 import requests
 import matplotlib.pyplot as plt
@@ -12,16 +24,7 @@ import sys
 import importlib
 import streamlit as st
 
-packages = {
-    "matplotlib": "matplotlib",
-    "pandas": "pandas",
-    "numpy": "numpy"
-}
 
-for import_name, install_name in packages.items():
-    if importlib.util.find_spec(import_name) is None:
-        print(f"Installing {install_name}...")
-        subprocess.check_call([sys.executable, "-m", "pip", "install", install_name])
 
 
 load_dotenv()
