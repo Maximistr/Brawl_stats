@@ -1,5 +1,5 @@
 matplotlib
 pandas
-streamlit
 numpy
-dotenv
+streamlit
+altair==4.2.2
