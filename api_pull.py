@@ -7,6 +7,21 @@ import numpy as np
 import csv
 from datetime import date
 from dotenv import load_dotenv
+import subprocess
+import sys
+import importlib
+
+packages = {
+    "matplotlib": "matplotlib",
+    "pandas": "pandas",
+    "numpy": "numpy"
+}
+
+for import_name, install_name in packages.items():
+    if importlib.util.find_spec(import_name) is None:
+        print(f"Installing {install_name}...")
+        subprocess.check_call([sys.executable, "-m", "pip", "install", install_name])
+
 
 load_dotenv()
 
