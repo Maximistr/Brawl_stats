@@ -16,14 +16,14 @@ load_dotenv()
 
 player_tag = "#JRLLR9QU"
 API_TOKEN = os.getenv('BS_API_KEY')
-URL = f"https://api.brawlstars.com/v1/"
+URL = "https://brawl-stats-on13.onrender.com/brawlstars/"
 
 def get_player(tag):
     """Fetch player info from Brawl Stars API"""
     url = f"{URL}players/{tag.replace('#', '%23')}"
-    headers = {'Authorization': f'Bearer {API_TOKEN}'}
-    response = requests.get(url, headers=headers)
+    response = requests.get(url)
     return response.json()
+
 def save_trophies_to_csv(player_data):
     """Save player's trophies to a CSV file"""
     trophies = player_data.get('trophies', 0)
@@ -31,6 +31,8 @@ def save_trophies_to_csv(player_data):
         writer = csv.writer(file)
         writer.writerow([date.today(), trophies])
 data = get_player(player_tag)
+print(json.dumps(data, indent=4))
+"""
 
 brawlers = pd.DataFrame(data["brawlers"])
 tropy_data = pd.read_csv('trophies.csv', names=['Date', 'Trophies'])
@@ -49,3 +51,4 @@ axes[0,1].set_ylabel('Trophies')
 st.write("### Power Levels of Brawlers")
 plt.show()
 
+"""
