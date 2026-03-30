@@ -29,9 +29,9 @@ tropy_line = px.line(tropy_data, x='Date', y='Trophies',
 
 with col1:
     st.write("### Distribution of Brawlers by Power Level") 
-    st.plotly_chart(power_bars, width=600)
+    st.plotly_chart(power_bars, width=1600)
 
 with col2:
     st.write("### Trophies Over Time")
-    st.plotly_chart(tropy_line, width=600)
+    st.plotly_chart(tropy_line, width=1600)
 
