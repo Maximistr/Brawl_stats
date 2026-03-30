@@ -30,7 +30,7 @@ tropy_line = px.line(tropy_data, x='Date', y='Trophies',
 tropy_line.update_traces(line_color="#F6FF00")
 
 with col1:
-    st.write("### Distribution of Brawlers by Power Level") 
+    st.write("### Power Levels of Brawlers") 
     st.plotly_chart(power_bars,width="stretch")
 
 with col2:
