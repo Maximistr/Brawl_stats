@@ -23,7 +23,7 @@ power_bars = px.bar(power_levels, x=power_levels.index, y=power_levels.values,
 power_bars.update_traces(textposition='outside')
 power_bars.update_xaxes(
     type='category', 
-    categoryorder='total ascending'
+    categoryorder='ascending'
 )
 
 tropy_line = px.line(tropy_data, x='Date', y='Trophies',
