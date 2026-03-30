@@ -19,7 +19,7 @@ power_bars = px.bar(power_levels, x=power_levels.index, y=power_levels.values,
              title='Distribution of Brawlers by Power Level',
              text=power_levels.values, template='plotly_dark',
              color=power_levels.index, text_auto=False,
-             height=400, width=600)
+             height=400, width=1000)
 power_bars.update_traces(textposition='outside')
 
 tropy_line = px.line(tropy_data, x='Date', y='Trophies',
@@ -29,9 +29,9 @@ tropy_line = px.line(tropy_data, x='Date', y='Trophies',
 
 with col1:
     st.write("### Distribution of Brawlers by Power Level") 
-    st.plotly_chart(power_bars, width=1600)
+    st.plotly_chart(power_bars, width= 1000)
 
 with col2:
     st.write("### Trophies Over Time")
-    st.plotly_chart(tropy_line, width=1600)
+    st.plotly_chart(tropy_line, width = 1000)
 
