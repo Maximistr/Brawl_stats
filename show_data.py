@@ -28,6 +28,7 @@ tropy_line = px.line(tropy_data, x='Date', y='Trophies',
              title='Trophies Over Time',
              template='plotly_dark')
 tropy_line.update_traces(line_color="#F6FF00")
+power_bars.update_layout(yaxis = dict(dtick = 500))
 
 with col1:
     st.write("### Power Levels of Brawlers") 
