@@ -21,16 +21,13 @@ power_bars = px.bar(power_levels, x=power_levels.index, y=power_levels.values,
              text=power_levels.values, template='plotly_dark',
              text_auto=False)
 power_bars.update_traces(textposition='outside')
-power_bars.update_layout(
-    xaxis = dict(
-        tickmode = 'linear',
-        dtick = 1
-    )
-)
+power_bars.update_layout(xaxis = dict(tickmode = 'linear',dtick = 1))
+
 tropy_line = px.line(tropy_data, x='Date', y='Trophies',
              labels={'Date': 'Date', 'Trophies': 'Trophies'},
              title='Trophies Over Time',
-             template='plotly_dark',height=500, width=600)
+             template='plotly_dark')
+tropy_line.update_traces(line_color="#F6FF00")
 
 with col1:
     st.write("### Distribution of Brawlers by Power Level") 
