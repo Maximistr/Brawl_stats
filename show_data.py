@@ -7,7 +7,7 @@ import streamlit as st
 
 with open('player_data.json', 'r') as file:
     data = json.load(file)
-    
+
 col1, col2, col3 = st.columns(3)
 st.set_page_config(layout="wide")
     
@@ -20,8 +20,7 @@ power_bars = px.bar(power_levels, x=power_levels.index, y=power_levels.values,
              title='Distribution of Brawlers by Power Level',
              text=power_levels.values, template='plotly_dark',
              text_auto=False)
-power_bars.update_traces(textposition='outside')
-power_bars.update_layout(height=500, width=800)
+power_bars.update_traces(textposition='outside',dtick=1)
 
 tropy_line = px.line(tropy_data, x='Date', y='Trophies',
              labels={'Date': 'Date', 'Trophies': 'Trophies'},
