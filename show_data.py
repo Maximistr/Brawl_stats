@@ -18,7 +18,8 @@ power_bars = px.bar(power_levels, x=power_levels.index, y=power_levels.values,
              labels={'x': 'Power Level', 'y': 'Number of Brawlers'},
              title='Distribution of Brawlers by Power Level',
              text=power_levels.values, template='plotly_dark',
-             color=power_levels.index, text_auto=False)
+             color=power_levels.index, text_auto=False,
+             height=400, width=600)
 power_bars.update_traces(textposition='outside')
 
 tropy_line = px.line(tropy_data, x='Date', y='Trophies',
