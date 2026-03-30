@@ -11,7 +11,7 @@ load_dotenv()
 
 player_tag = "#JRLLR9QU"
 API_TOKEN = os.getenv('BS_API_KEY')
-URL = "https://developer.brawlstars.com/v1/"
+URL = "https://bsproxy.royaleapi.dev/v1/"
 
 def get_player(tag):
     """Fetch player info from Brawl Stars API"""
@@ -27,5 +27,8 @@ def save_trophies_to_csv(player_data):
     with open('trophies.csv', mode='a', newline='') as file:
         writer = csv.writer(file)
         writer.writerow([date.today(), trophies])
+        
+if __name__ == "__main__":
+    player_data =get_player(player_tag)
+    save_trophies_to_csv(player_data)
 
-get_player(player_tag)
