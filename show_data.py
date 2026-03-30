@@ -21,9 +21,7 @@ power_bars = px.bar(power_levels, x=power_levels.index, y=power_levels.values,
              text=power_levels.values, template='plotly_dark',
              text_auto=False)
 power_bars.update_traces(textposition='outside')
-power_bars.update_xaxes( 
-    categoryorder='category ascending'
-)
+power_bars.update_layout(dtick = 1)
 
 tropy_line = px.line(tropy_data, x='Date', y='Trophies',
              labels={'Date': 'Date', 'Trophies': 'Trophies'},
