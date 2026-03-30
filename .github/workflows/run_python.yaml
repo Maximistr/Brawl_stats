@@ -1,0 +1,38 @@
+name: Scheduled Python Run
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at 00:00 UTC
+  workflow_dispatch:   # Manual trigger button
+
+permissions:
+  contents: write      # Required to push changes back to the repo
+
+jobs:
+  run-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.14'
+
+      - name: Install dependencies
+        run: |
+          pip install requests python-dotenv
+
+      - name: Run Python script
+        env:
+          BS_API_KEY: ${{ secrets.BS_API_KEY }}
+        run: python api_pull.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Automated data update" || echo "No changes to commit"
+          git push
