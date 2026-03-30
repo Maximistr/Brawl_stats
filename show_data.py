@@ -23,6 +23,6 @@ axes[0,1].plot(tropy_data['Date'], tropy_data['Trophies'], marker='o', color='ye
 axes[0,1].set_title('Trophy Progression')
 axes[0,1].set_ylabel('Trophies')
 st.write("### Trophy Progression Over Time")
-st.pyplot(figure)
+st.pyplot(axes[0,1])
 st.write("### Power Levels of Brawlers")
-plt.show()
+st.pyplot(axes[0,0])
