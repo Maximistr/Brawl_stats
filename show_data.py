@@ -8,7 +8,7 @@ import streamlit as st
 with open('player_data.json', 'r') as file:
     data = json.load(file)
     
-col1, col2 = st.columns(2)
+col1, col2, col3 = st.columns(3)
 st.set_page_config(layout="wide")
     
 brawlers = pd.DataFrame(data["brawlers"])
