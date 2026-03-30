@@ -32,4 +32,3 @@ def save_trophies_to_csv(player_data):
 if __name__ == "__main__":
     player_data =get_player(player_tag)
     save_trophies_to_csv(player_data)
-print(player_data)
