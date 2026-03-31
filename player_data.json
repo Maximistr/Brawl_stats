@@ -63,9 +63,9 @@
         }
       ],
       "buffies": {
-        "gadget": false,
+        "gadget": true,
         "starPower": false,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -105,7 +105,7 @@
       ],
       "hyperCharges": [],
       "buffies": {
-        "gadget": false,
+        "gadget": true,
         "starPower": false,
         "hyperCharge": false
       }
@@ -317,7 +317,7 @@
       "buffies": {
         "gadget": false,
         "starPower": false,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -447,7 +447,7 @@
         }
       ],
       "buffies": {
-        "gadget": false,
+        "gadget": true,
         "starPower": false,
         "hyperCharge": false
       }
@@ -631,7 +631,7 @@
       "buffies": {
         "gadget": false,
         "starPower": false,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -989,7 +989,7 @@
       "buffies": {
         "gadget": false,
         "starPower": true,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -1458,7 +1458,7 @@
       ],
       "hyperCharges": [],
       "buffies": {
-        "gadget": false,
+        "gadget": true,
         "starPower": true,
         "hyperCharge": false
       }
