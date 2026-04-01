@@ -5,14 +5,14 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 81896,
-  "highestTrophies": 81900,
+  "trophies": 81994,
+  "highestTrophies": 81998,
   "totalPrestigeLevel": 54,
   "expLevel": 209,
-  "expPoints": 225012,
+  "expPoints": 225192,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 10269,
-  "soloVictories": 1711,
+  "3vs3Victories": 10280,
+  "soloVictories": 1712,
   "duoVictories": 1266,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
@@ -63,9 +63,9 @@
         }
       ],
       "buffies": {
-        "gadget": false,
+        "gadget": true,
         "starPower": false,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -105,7 +105,7 @@
       ],
       "hyperCharges": [],
       "buffies": {
-        "gadget": false,
+        "gadget": true,
         "starPower": false,
         "hyperCharge": false
       }
@@ -317,7 +317,7 @@
       "buffies": {
         "gadget": false,
         "starPower": false,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -447,7 +447,7 @@
         }
       ],
       "buffies": {
-        "gadget": false,
+        "gadget": true,
         "starPower": false,
         "hyperCharge": false
       }
@@ -631,7 +631,7 @@
       "buffies": {
         "gadget": false,
         "starPower": false,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -989,7 +989,7 @@
       "buffies": {
         "gadget": false,
         "starPower": true,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -1195,7 +1195,7 @@
       "name": "CARL",
       "power": 8,
       "rank": 3,
-      "trophies": 740,
+      "trophies": 737,
       "highestTrophies": 743,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
@@ -1458,7 +1458,7 @@
       ],
       "hyperCharges": [],
       "buffies": {
-        "gadget": false,
+        "gadget": true,
         "starPower": true,
         "hyperCharge": false
       }
@@ -1892,7 +1892,7 @@
       "name": "LOU",
       "power": 11,
       "rank": 4,
-      "trophies": 814,
+      "trophies": 810,
       "highestTrophies": 818,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
@@ -2207,8 +2207,8 @@
       "name": "GROM",
       "power": 9,
       "rank": 4,
-      "trophies": 826,
-      "highestTrophies": 834,
+      "trophies": 832,
+      "highestTrophies": 836,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 10,
@@ -2746,10 +2746,10 @@
       "name": "CHESTER",
       "power": 11,
       "rank": 5,
-      "trophies": 1169,
-      "highestTrophies": 1187,
+      "trophies": 1208,
+      "highestTrophies": 1212,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 3,
       "maxWinStreak": 12,
       "skin": {
         "id": 29001133,
@@ -3502,8 +3502,8 @@
       "name": "LILY",
       "power": 11,
       "rank": 5,
-      "trophies": 1276,
-      "highestTrophies": 1283,
+      "trophies": 1285,
+      "highestTrophies": 1289,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 10,
@@ -3901,10 +3901,10 @@
       "name": "LUMI",
       "power": 9,
       "rank": 3,
-      "trophies": 715,
-      "highestTrophies": 715,
+      "trophies": 737,
+      "highestTrophies": 740,
       "prestigeLevel": 0,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
         "id": 29001215,
@@ -4150,10 +4150,10 @@
       "name": "MINA",
       "power": 10,
       "rank": 4,
-      "trophies": 849,
-      "highestTrophies": 853,
+      "trophies": 861,
+      "highestTrophies": 861,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 9,
       "skin": {
         "id": 29001319,
@@ -4344,10 +4344,10 @@
       "name": "SIRIUS",
       "power": 11,
       "rank": 5,
-      "trophies": 1135,
-      "highestTrophies": 1146,
+      "trophies": 1152,
+      "highestTrophies": 1158,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 33,
       "skin": {
         "id": 29001401,
