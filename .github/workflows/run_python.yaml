@@ -2,7 +2,7 @@ name: Scheduled Python Run
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at 00:00 UTC
+    - cron: '30 21 * * *' # Runs daily at 00:00 UTC
   workflow_dispatch:   # Manual trigger button
 
 permissions:
