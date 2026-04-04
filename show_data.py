@@ -25,6 +25,14 @@ power_bars = px.bar(power_levels, x=power_levels.index, y=power_levels.values,
              text_auto=False)
 power_bars.update_traces(textposition='outside')
 power_bars.update_layout(xaxis = dict(tickmode = 'linear',dtick = 1))
+
+tropy_line = px.line(tropy_data, x='Date', y='Trophies',
+             labels={'Date': 'Date', 'Trophies': 'Trophies'},
+             title='Trophies Over Time',
+             template='plotly_dark')
+tropy_line.update_traces(line_color="#F6FF00")
+tropy_line.update_layout(margin=dict(r=50))
+
 def get_rank_label(rank):
     if rank == 1:
         return '0-250'
@@ -41,18 +49,6 @@ tier_colors=["#9a3f2e", "#f67114", "#9895cd", "#faaf0d", "#b26dfd","#f4639a","#f
 if len(rank_labels) > 7:
     for i in range(len(rank_labels) - 7):
         tier_colors.append("#f4ed66")
-
-tropy_line = px.line(tropy_data, x='Date', y='Trophies',
-             labels={'Date': 'Date', 'Trophies': 'Trophies'},
-             title='Trophies Over Time',
-             template='plotly_dark')
-tropy_line.update_traces(line_color="#F6FF00")
-tropy_line.update_layout(
-    xaxis = dict(
-        dtick = 86400000,
-        tickformat = '%b %e'
-    )
-)
 
 rank_pie = px.pie(rank_counts, names=rank_labels, values=rank_counts.values,
              title='Distribution of Brawlers by Rank')
