@@ -59,7 +59,7 @@ with col1:
 
 with col2:
     st.write("### Trophies Over Time")
-    st.plotly_chart(tropy_line,width="stretch")
+    st.plotly_chart(tropy_line,width="content")
 
 with col3:
     st.write("### Ranks of Brawlers")
