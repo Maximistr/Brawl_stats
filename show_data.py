@@ -47,7 +47,7 @@ tropy_line = px.line(tropy_data, x='Date', y='Trophies',
              title='Trophies Over Time',
              template='plotly_dark')
 tropy_line.update_traces(line_color="#F6FF00")
-
+power_bars.update_layout(xaxis = dict(tickmode = 'linear'))
 
 rank_pie = px.pie(rank_counts, names=rank_labels, values=rank_counts.values,
              title='Distribution of Brawlers by Rank')
