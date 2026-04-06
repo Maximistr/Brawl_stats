@@ -5,14 +5,14 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 83202,
-  "highestTrophies": 83202,
+  "trophies": 83227,
+  "highestTrophies": 83230,
   "totalPrestigeLevel": 55,
   "expLevel": 210,
-  "expPoints": 226819,
+  "expPoints": 226848,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 10400,
-  "soloVictories": 1715,
+  "3vs3Victories": 10401,
+  "soloVictories": 1716,
   "duoVictories": 1266,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
@@ -3682,7 +3682,12 @@
       ],
       "gears": [],
       "starPowers": [],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23001002,
+          "name": "THE BIG CHEESE"
+        }
+      ],
       "buffies": {
         "gadget": false,
         "starPower": false,
@@ -3801,8 +3806,8 @@
       "name": "JUJU",
       "power": 9,
       "rank": 3,
-      "trophies": 707,
-      "highestTrophies": 710,
+      "trophies": 719,
+      "highestTrophies": 722,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 22,
@@ -3848,10 +3853,10 @@
       "name": "MEEPLE",
       "power": 7,
       "rank": 3,
-      "trophies": 639,
-      "highestTrophies": 639,
+      "trophies": 652,
+      "highestTrophies": 652,
       "prestigeLevel": 0,
-      "currentWinStreak": 3,
+      "currentWinStreak": 4,
       "maxWinStreak": 9,
       "skin": {
         "id": 29001106,
