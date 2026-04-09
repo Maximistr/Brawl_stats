@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 83317,
-  "highestTrophies": 83317,
+  "trophies": 83491,
+  "highestTrophies": 83497,
   "totalPrestigeLevel": 55,
   "expLevel": 210,
-  "expPoints": 227090,
+  "expPoints": 227472,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 10420,
+  "3vs3Victories": 10445,
   "soloVictories": 1716,
   "duoVictories": 1266,
   "bestRoboRumbleTime": 12,
@@ -551,10 +551,10 @@
       "name": "MORTIS",
       "power": 11,
       "rank": 5,
-      "trophies": 1172,
+      "trophies": 1166,
       "highestTrophies": 1172,
       "prestigeLevel": 1,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 8,
       "skin": {
         "id": 29000173,
@@ -815,14 +815,14 @@
       "name": "TARA",
       "power": 11,
       "rank": 5,
-      "trophies": 1090,
+      "trophies": 1095,
       "highestTrophies": 1095,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29001163,
-        "name": "SHUKUTEKI TARA"
+        "id": 29000509,
+        "name": "TEMPEST TARA"
       },
       "gadgets": [
         {
@@ -2746,10 +2746,10 @@
       "name": "CHESTER",
       "power": 11,
       "rank": 5,
-      "trophies": 1236,
+      "trophies": 1238,
       "highestTrophies": 1243,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 12,
       "skin": {
         "id": 29001133,
@@ -4213,8 +4213,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 10,
       "skin": {
-        "id": 29001292,
-        "name": "ZIGGY"
+        "id": 29001321,
+        "name": "DARK WIZARD ZIGGY"
       },
       "gadgets": [
         {
@@ -4398,8 +4398,8 @@
       "name": "NAJIA",
       "power": 11,
       "rank": 3,
-      "trophies": 505,
-      "highestTrophies": 509,
+      "trophies": 678,
+      "highestTrophies": 684,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 12,
