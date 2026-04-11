@@ -9,9 +9,9 @@
   "highestTrophies": 83537,
   "totalPrestigeLevel": 55,
   "expLevel": 210,
-  "expPoints": 227524,
+  "expPoints": 227564,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 10451,
+  "3vs3Victories": 10455,
   "soloVictories": 1716,
   "duoVictories": 1266,
   "bestRoboRumbleTime": 12,
@@ -1454,6 +1454,10 @@
         {
           "id": 23000198,
           "name": "BAD KARMA"
+        },
+        {
+          "id": 23000199,
+          "name": "HYPE"
         }
       ],
       "hyperCharges": [],
@@ -2085,8 +2089,8 @@
       "currentWinStreak": 3,
       "maxWinStreak": 11,
       "skin": {
-        "id": 29000741,
-        "name": "SANTA STU"
+        "id": 29000265,
+        "name": "STU"
       },
       "gadgets": [
         {
