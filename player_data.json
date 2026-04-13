@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 84095,
-  "highestTrophies": 84099,
+  "trophies": 84135,
+  "highestTrophies": 84139,
   "totalPrestigeLevel": 57,
   "expLevel": 211,
-  "expPoints": 228313,
+  "expPoints": 228477,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 10503,
+  "3vs3Victories": 10512,
   "soloVictories": 1721,
   "duoVictories": 1266,
   "bestRoboRumbleTime": 12,
@@ -978,6 +978,10 @@
         {
           "id": 23000104,
           "name": "POWER GRAB"
+        },
+        {
+          "id": 23000153,
+          "name": "SPONGE"
         }
       ],
       "hyperCharges": [
@@ -2211,8 +2215,8 @@
       "name": "GROM",
       "power": 11,
       "rank": 4,
-      "trophies": 845,
-      "highestTrophies": 849,
+      "trophies": 872,
+      "highestTrophies": 876,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 10,
@@ -4407,10 +4411,10 @@
       "name": "NAJIA",
       "power": 11,
       "rank": 4,
-      "trophies": 819,
-      "highestTrophies": 819,
+      "trophies": 832,
+      "highestTrophies": 836,
       "prestigeLevel": 0,
-      "currentWinStreak": 7,
+      "currentWinStreak": 0,
       "maxWinStreak": 12,
       "skin": {
         "id": 29001510,
