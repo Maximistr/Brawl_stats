@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 84135,
-  "highestTrophies": 84139,
+  "trophies": 84158,
+  "highestTrophies": 84158,
   "totalPrestigeLevel": 57,
   "expLevel": 211,
-  "expPoints": 228477,
+  "expPoints": 228573,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 10512,
+  "3vs3Victories": 10519,
   "soloVictories": 1721,
   "duoVictories": 1266,
   "bestRoboRumbleTime": 12,
@@ -1514,10 +1514,10 @@
       "name": "MAX",
       "power": 11,
       "rank": 4,
-      "trophies": 758,
-      "highestTrophies": 761,
+      "trophies": 768,
+      "highestTrophies": 768,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 6,
       "skin": {
         "id": 29000998,
@@ -2215,8 +2215,8 @@
       "name": "GROM",
       "power": 11,
       "rank": 4,
-      "trophies": 872,
-      "highestTrophies": 876,
+      "trophies": 889,
+      "highestTrophies": 893,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 10,
@@ -2511,7 +2511,12 @@
         "id": 29000825,
         "name": "MOTHRA EVE"
       },
-      "gadgets": [],
+      "gadgets": [
+        {
+          "id": 23000454,
+          "name": "GOTTA GO!"
+        }
+      ],
       "gears": [],
       "starPowers": [],
       "hyperCharges": [
@@ -4411,7 +4416,7 @@
       "name": "NAJIA",
       "power": 11,
       "rank": 4,
-      "trophies": 832,
+      "trophies": 828,
       "highestTrophies": 836,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
