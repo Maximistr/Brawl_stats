@@ -5,14 +5,14 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 84158,
-  "highestTrophies": 84158,
-  "totalPrestigeLevel": 57,
+  "trophies": 85187,
+  "highestTrophies": 85187,
+  "totalPrestigeLevel": 58,
   "expLevel": 211,
-  "expPoints": 228573,
+  "expPoints": 229405,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 10519,
-  "soloVictories": 1721,
+  "3vs3Victories": 10578,
+  "soloVictories": 1723,
   "duoVictories": 1266,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
@@ -2215,7 +2215,7 @@
       "name": "GROM",
       "power": 11,
       "rank": 4,
-      "trophies": 889,
+      "trophies": 888,
       "highestTrophies": 893,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
@@ -4072,6 +4072,10 @@
       ],
       "starPowers": [
         {
+          "id": 23000938,
+          "name": "ADVANCED TECHNIQUES"
+        },
+        {
           "id": 23000939,
           "name": "GRATUITY INCLUDED"
         }
@@ -4153,6 +4157,10 @@
         {
           "id": 23001000,
           "name": "FOR THE QUEEN!"
+        },
+        {
+          "id": 23001001,
+          "name": "WORKER ANTS"
         }
       ],
       "gears": [],
@@ -4249,6 +4257,10 @@
         {
           "id": 23001047,
           "name": "THUNDERSTRUCK"
+        },
+        {
+          "id": 23001048,
+          "name": "THE GREAT ZIGGINI"
         }
       ],
       "hyperCharges": [],
@@ -4415,12 +4427,12 @@
       "id": 16000103,
       "name": "NAJIA",
       "power": 11,
-      "rank": 4,
-      "trophies": 828,
-      "highestTrophies": 836,
-      "prestigeLevel": 0,
-      "currentWinStreak": 0,
-      "maxWinStreak": 12,
+      "rank": 5,
+      "trophies": 1858,
+      "highestTrophies": 1858,
+      "prestigeLevel": 1,
+      "currentWinStreak": 22,
+      "maxWinStreak": 27,
       "skin": {
         "id": 29001510,
         "name": "NAJIA"
