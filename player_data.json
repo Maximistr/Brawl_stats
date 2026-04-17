@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 85461,
+  "trophies": 85455,
   "highestTrophies": 85461,
   "totalPrestigeLevel": 58,
   "expLevel": 211,
-  "expPoints": 229723,
+  "expPoints": 229779,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 10596,
+  "3vs3Victories": 10599,
   "soloVictories": 1723,
   "duoVictories": 1266,
   "bestRoboRumbleTime": 12,
@@ -2377,7 +2377,7 @@
     {
       "id": 16000052,
       "name": "MEG",
-      "power": 9,
+      "power": 11,
       "rank": 3,
       "trophies": 597,
       "highestTrophies": 597,
@@ -4233,10 +4233,10 @@
       "name": "ZIGGY",
       "power": 9,
       "rank": 3,
-      "trophies": 664,
+      "trophies": 658,
       "highestTrophies": 664,
       "prestigeLevel": 0,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 10,
       "skin": {
         "id": 29001321,
