@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 85777,
-  "highestTrophies": 85782,
+  "trophies": 85846,
+  "highestTrophies": 85846,
   "totalPrestigeLevel": 59,
   "expLevel": 212,
-  "expPoints": 230319,
+  "expPoints": 230457,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 10636,
+  "3vs3Victories": 10648,
   "soloVictories": 1723,
   "duoVictories": 1266,
   "bestRoboRumbleTime": 12,
@@ -991,7 +991,7 @@
         }
       ],
       "buffies": {
-        "gadget": false,
+        "gadget": true,
         "starPower": true,
         "hyperCharge": true
       }
@@ -1097,10 +1097,10 @@
       "name": "LEON",
       "power": 11,
       "rank": 5,
-      "trophies": 1051,
-      "highestTrophies": 1066,
+      "trophies": 1089,
+      "highestTrophies": 1089,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 3,
       "maxWinStreak": 8,
       "skin": {
         "id": 29000801,
@@ -1136,7 +1136,7 @@
         }
       ],
       "buffies": {
-        "gadget": false,
+        "gadget": true,
         "starPower": true,
         "hyperCharge": false
       }
@@ -2314,7 +2314,7 @@
     {
       "id": 16000050,
       "name": "GRIFF",
-      "power": 7,
+      "power": 10,
       "rank": 3,
       "trophies": 549,
       "highestTrophies": 549,
@@ -2697,10 +2697,10 @@
       "name": "GUS",
       "power": 8,
       "rank": 4,
-      "trophies": 754,
-      "highestTrophies": 754,
+      "trophies": 774,
+      "highestTrophies": 777,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 6,
       "skin": {
         "id": 29001231,
@@ -4432,10 +4432,10 @@
       "name": "NAJIA",
       "power": 11,
       "rank": 5,
-      "trophies": 1941,
-      "highestTrophies": 1941,
+      "trophies": 1952,
+      "highestTrophies": 1952,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 2,
       "maxWinStreak": 27,
       "skin": {
         "id": 29001510,
