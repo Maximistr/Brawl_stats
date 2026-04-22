@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 85984,
-  "highestTrophies": 85984,
-  "totalPrestigeLevel": 59,
+  "trophies": 86196,
+  "highestTrophies": 86196,
+  "totalPrestigeLevel": 60,
   "expLevel": 212,
-  "expPoints": 230677,
+  "expPoints": 230945,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 10665,
+  "3vs3Victories": 10686,
   "soloVictories": 1724,
   "duoVictories": 1266,
   "bestRoboRumbleTime": 12,
@@ -63,8 +63,8 @@
         }
       ],
       "buffies": {
-        "gadget": true,
-        "starPower": false,
+        "gadget": false,
+        "starPower": true,
         "hyperCharge": true
       }
     },
@@ -105,8 +105,8 @@
       ],
       "hyperCharges": [],
       "buffies": {
-        "gadget": true,
-        "starPower": false,
+        "gadget": false,
+        "starPower": true,
         "hyperCharge": false
       }
     },
@@ -152,8 +152,8 @@
         }
       ],
       "buffies": {
-        "gadget": true,
-        "starPower": false,
+        "gadget": false,
+        "starPower": true,
         "hyperCharge": false
       }
     },
@@ -447,8 +447,8 @@
         }
       ],
       "buffies": {
-        "gadget": true,
-        "starPower": false,
+        "gadget": false,
+        "starPower": true,
         "hyperCharge": false
       }
     },
@@ -590,8 +590,8 @@
         }
       ],
       "buffies": {
-        "gadget": false,
-        "starPower": true,
+        "gadget": true,
+        "starPower": false,
         "hyperCharge": true
       }
     },
@@ -948,10 +948,10 @@
       "name": "FRANK",
       "power": 11,
       "rank": 5,
-      "trophies": 1023,
+      "trophies": 1033,
       "highestTrophies": 1041,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 9,
       "skin": {
         "id": 29000045,
@@ -1237,10 +1237,10 @@
       "name": "BIBI",
       "power": 11,
       "rank": 5,
-      "trophies": 1283,
+      "trophies": 1276,
       "highestTrophies": 1283,
       "prestigeLevel": 1,
-      "currentWinStreak": 9,
+      "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
         "id": 29000682,
@@ -1285,9 +1285,9 @@
         }
       ],
       "buffies": {
-        "gadget": false,
-        "starPower": true,
-        "hyperCharge": false
+        "gadget": true,
+        "starPower": false,
+        "hyperCharge": true
       }
     },
     {
@@ -1451,6 +1451,10 @@
         {
           "id": 23000274,
           "name": "FRIENDZONER"
+        },
+        {
+          "id": 23000459,
+          "name": "ACID SPRAY"
         }
       ],
       "gears": [],
@@ -2378,11 +2382,11 @@
       "id": 16000052,
       "name": "MEG",
       "power": 11,
-      "rank": 3,
-      "trophies": 706,
-      "highestTrophies": 706,
+      "rank": 4,
+      "trophies": 806,
+      "highestTrophies": 810,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
         "id": 29000510,
@@ -2764,10 +2768,10 @@
       "name": "CHESTER",
       "power": 11,
       "rank": 5,
-      "trophies": 1308,
-      "highestTrophies": 1316,
+      "trophies": 1318,
+      "highestTrophies": 1318,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 12,
       "skin": {
         "id": 29001133,
@@ -2858,10 +2862,10 @@
       "name": "MANDY",
       "power": 11,
       "rank": 5,
-      "trophies": 1029,
-      "highestTrophies": 1034,
+      "trophies": 1050,
+      "highestTrophies": 1050,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 2,
       "maxWinStreak": 10,
       "skin": {
         "id": 29001172,
@@ -3057,7 +3061,12 @@
           "name": "TAKE COVER!"
         }
       ],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23000893,
+          "name": "HOMING FISH-ILES"
+        }
+      ],
       "buffies": {
         "gadget": false,
         "starPower": false,
@@ -3683,10 +3692,10 @@
       "name": "MOE",
       "power": 7,
       "rank": 1,
-      "trophies": 197,
-      "highestTrophies": 199,
+      "trophies": 227,
+      "highestTrophies": 227,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 9,
       "skin": {
         "id": 29000977,
@@ -3926,7 +3935,12 @@
       ],
       "gears": [],
       "starPowers": [],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23001033,
+          "name": "AIN'T NO HALF-SUPERING"
+        }
+      ],
       "buffies": {
         "gadget": false,
         "starPower": false,
@@ -4356,7 +4370,7 @@
     },
     {
       "id": 16000101,
-      "name": "GLOWBERT",
+      "name": "GLOWY",
       "power": 9,
       "rank": 3,
       "trophies": 561,
@@ -4366,7 +4380,7 @@
       "maxWinStreak": 15,
       "skin": {
         "id": 29001400,
-        "name": "GLOWBERT"
+        "name": "GLOWY"
       },
       "gadgets": [
         {
@@ -4431,11 +4445,11 @@
       "id": 16000103,
       "name": "NAJIA",
       "power": 11,
-      "rank": 5,
-      "trophies": 1952,
-      "highestTrophies": 1952,
-      "prestigeLevel": 1,
-      "currentWinStreak": 2,
+      "rank": 6,
+      "trophies": 2000,
+      "highestTrophies": 2014,
+      "prestigeLevel": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 27,
       "skin": {
         "id": 29001510,
@@ -4452,6 +4466,10 @@
         {
           "id": 23001216,
           "name": "POISONOUS PROTECTOR"
+        },
+        {
+          "id": 23001217,
+          "name": "VENOMOUS"
         }
       ],
       "hyperCharges": [],
