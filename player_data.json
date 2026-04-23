@@ -5,17 +5,27 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 86196,
-  "highestTrophies": 86196,
+  "trophies": 86366,
+  "highestTrophies": 86366,
   "totalPrestigeLevel": 60,
   "expLevel": 212,
-  "expPoints": 230945,
+  "expPoints": 231283,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 10686,
+  "3vs3Victories": 10713,
   "soloVictories": 1724,
   "duoVictories": 1266,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
+  "rankedSeasonId": 44,
+  "rankedRank": 9,
+  "rankedRankName": "GOLD III",
+  "rankedElo": 2665,
+  "highestSeasonRankedRank": 9,
+  "highestSeasonRankedRankName": "GOLD III",
+  "highestSeasonRankedElo": 2665,
+  "highestAllTimeRankedRank": 14,
+  "highestAllTimeRankedRankName": "MYTHIC II",
+  "highestAllTimeRankedElo": 5307,
   "club": {
     "tag": "#2PGGYUP22",
     "name": "Druh\u00e1 \u0160ance"
@@ -63,8 +73,8 @@
         }
       ],
       "buffies": {
-        "gadget": false,
-        "starPower": true,
+        "gadget": true,
+        "starPower": false,
         "hyperCharge": true
       }
     },
@@ -105,8 +115,8 @@
       ],
       "hyperCharges": [],
       "buffies": {
-        "gadget": false,
-        "starPower": true,
+        "gadget": true,
+        "starPower": false,
         "hyperCharge": false
       }
     },
@@ -152,8 +162,8 @@
         }
       ],
       "buffies": {
-        "gadget": false,
-        "starPower": true,
+        "gadget": true,
+        "starPower": false,
         "hyperCharge": false
       }
     },
@@ -447,8 +457,8 @@
         }
       ],
       "buffies": {
-        "gadget": false,
-        "starPower": true,
+        "gadget": true,
+        "starPower": false,
         "hyperCharge": false
       }
     },
@@ -590,8 +600,8 @@
         }
       ],
       "buffies": {
-        "gadget": true,
-        "starPower": false,
+        "gadget": false,
+        "starPower": true,
         "hyperCharge": true
       }
     },
@@ -815,14 +825,14 @@
       "name": "TARA",
       "power": 11,
       "rank": 5,
-      "trophies": 1111,
-      "highestTrophies": 1111,
+      "trophies": 1136,
+      "highestTrophies": 1136,
       "prestigeLevel": 1,
-      "currentWinStreak": 2,
+      "currentWinStreak": 4,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29001163,
-        "name": "SHUKUTEKI TARA"
+        "id": 29000282,
+        "name": "MISFORTUNE TARA"
       },
       "gadgets": [
         {
@@ -1146,10 +1156,10 @@
       "name": "ROSA",
       "power": 11,
       "rank": 5,
-      "trophies": 1068,
-      "highestTrophies": 1070,
+      "trophies": 1076,
+      "highestTrophies": 1081,
       "prestigeLevel": 1,
-      "currentWinStreak": 3,
+      "currentWinStreak": 0,
       "maxWinStreak": 18,
       "skin": {
         "id": 29000992,
@@ -1237,8 +1247,8 @@
       "name": "BIBI",
       "power": 11,
       "rank": 5,
-      "trophies": 1276,
-      "highestTrophies": 1283,
+      "trophies": 1279,
+      "highestTrophies": 1286,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 9,
@@ -1285,8 +1295,8 @@
         }
       ],
       "buffies": {
-        "gadget": true,
-        "starPower": false,
+        "gadget": false,
+        "starPower": true,
         "hyperCharge": true
       }
     },
@@ -1804,11 +1814,11 @@
       "name": "COLETTE",
       "power": 11,
       "rank": 5,
-      "trophies": 1014,
-      "highestTrophies": 1014,
+      "trophies": 1098,
+      "highestTrophies": 1101,
       "prestigeLevel": 1,
-      "currentWinStreak": 5,
-      "maxWinStreak": 6,
+      "currentWinStreak": 2,
+      "maxWinStreak": 7,
       "skin": {
         "id": 29000762,
         "name": "MIDORI PAWLETTE"
@@ -1904,10 +1914,10 @@
       "name": "LOU",
       "power": 11,
       "rank": 4,
-      "trophies": 839,
-      "highestTrophies": 839,
+      "trophies": 863,
+      "highestTrophies": 863,
       "prestigeLevel": 0,
-      "currentWinStreak": 3,
+      "currentWinStreak": 1,
       "maxWinStreak": 12,
       "skin": {
         "id": 29000306,
@@ -2318,12 +2328,12 @@
     {
       "id": 16000050,
       "name": "GRIFF",
-      "power": 10,
+      "power": 11,
       "rank": 3,
-      "trophies": 549,
-      "highestTrophies": 549,
+      "trophies": 572,
+      "highestTrophies": 572,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 3,
       "maxWinStreak": 5,
       "skin": {
         "id": 29000453,
@@ -2768,10 +2778,10 @@
       "name": "CHESTER",
       "power": 11,
       "rank": 5,
-      "trophies": 1318,
+      "trophies": 1304,
       "highestTrophies": 1318,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 12,
       "skin": {
         "id": 29001133,
@@ -3692,10 +3702,10 @@
       "name": "MOE",
       "power": 7,
       "rank": 1,
-      "trophies": 227,
-      "highestTrophies": 227,
+      "trophies": 238,
+      "highestTrophies": 238,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 2,
       "maxWinStreak": 9,
       "skin": {
         "id": 29000977,
@@ -4072,6 +4082,10 @@
       },
       "gadgets": [
         {
+          "id": 23000940,
+          "name": "GRACIOUS HOST"
+        },
+        {
           "id": 23000941,
           "name": "HENSOJUTSU"
         }
@@ -4446,8 +4460,8 @@
       "name": "NAJIA",
       "power": 11,
       "rank": 6,
-      "trophies": 2000,
-      "highestTrophies": 2014,
+      "trophies": 2006,
+      "highestTrophies": 2016,
       "prestigeLevel": 2,
       "currentWinStreak": 0,
       "maxWinStreak": 27,
