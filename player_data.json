@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 86366,
-  "highestTrophies": 86366,
+  "trophies": 86542,
+  "highestTrophies": 86556,
   "totalPrestigeLevel": 60,
   "expLevel": 212,
-  "expPoints": 231283,
+  "expPoints": 231699,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 10713,
+  "3vs3Victories": 10738,
   "soloVictories": 1724,
   "duoVictories": 1266,
   "bestRoboRumbleTime": 12,
@@ -958,10 +958,10 @@
       "name": "FRANK",
       "power": 11,
       "rank": 5,
-      "trophies": 1033,
-      "highestTrophies": 1041,
+      "trophies": 1039,
+      "highestTrophies": 1044,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
         "id": 29000045,
@@ -1247,8 +1247,8 @@
       "name": "BIBI",
       "power": 11,
       "rank": 5,
-      "trophies": 1279,
-      "highestTrophies": 1286,
+      "trophies": 1282,
+      "highestTrophies": 1289,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 9,
@@ -1761,14 +1761,14 @@
       "name": "SURGE",
       "power": 11,
       "rank": 5,
-      "trophies": 1029,
-      "highestTrophies": 1029,
+      "trophies": 1040,
+      "highestTrophies": 1040,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 2,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000292,
-        "name": "DIY SURGE"
+        "id": 29000416,
+        "name": "SURGE KONG"
       },
       "gadgets": [
         {
@@ -1814,10 +1814,10 @@
       "name": "COLETTE",
       "power": 11,
       "rank": 5,
-      "trophies": 1098,
+      "trophies": 1092,
       "highestTrophies": 1101,
       "prestigeLevel": 1,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
         "id": 29000762,
@@ -2330,11 +2330,11 @@
       "name": "GRIFF",
       "power": 11,
       "rank": 3,
-      "trophies": 572,
-      "highestTrophies": 572,
+      "trophies": 646,
+      "highestTrophies": 646,
       "prestigeLevel": 0,
-      "currentWinStreak": 3,
-      "maxWinStreak": 5,
+      "currentWinStreak": 1,
+      "maxWinStreak": 6,
       "skin": {
         "id": 29000453,
         "name": "SLEIGHER GRIFF"
@@ -2346,7 +2346,12 @@
         }
       ],
       "gears": [],
-      "starPowers": [],
+      "starPowers": [
+        {
+          "id": 23000398,
+          "name": "BUSINESS RESILIENCE"
+        }
+      ],
       "hyperCharges": [
         {
           "id": 23000971,
@@ -2393,8 +2398,8 @@
       "name": "MEG",
       "power": 11,
       "rank": 4,
-      "trophies": 806,
-      "highestTrophies": 810,
+      "trophies": 898,
+      "highestTrophies": 902,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 9,
@@ -2996,10 +3001,10 @@
       "name": "MAISIE",
       "power": 11,
       "rank": 5,
-      "trophies": 1004,
+      "trophies": 1000,
       "highestTrophies": 1004,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 6,
       "skin": {
         "id": 29000993,
