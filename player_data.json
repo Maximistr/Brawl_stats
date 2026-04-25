@@ -5,14 +5,14 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 86542,
-  "highestTrophies": 86556,
+  "trophies": 86616,
+  "highestTrophies": 86616,
   "totalPrestigeLevel": 60,
   "expLevel": 212,
-  "expPoints": 231699,
+  "expPoints": 231929,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 10738,
-  "soloVictories": 1724,
+  "3vs3Victories": 10749,
+  "soloVictories": 1725,
   "duoVictories": 1266,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
@@ -467,14 +467,14 @@
       "name": "DYNAMIKE",
       "power": 11,
       "rank": 5,
-      "trophies": 1043,
-      "highestTrophies": 1048,
+      "trophies": 1057,
+      "highestTrophies": 1057,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 8,
       "skin": {
-        "id": 29000775,
-        "name": "DYNASTY MIKE"
+        "id": 29001088,
+        "name": "SUGAR BOMB MIKE"
       },
       "gadgets": [
         {
@@ -1528,10 +1528,10 @@
       "name": "MAX",
       "power": 11,
       "rank": 4,
-      "trophies": 768,
+      "trophies": 765,
       "highestTrophies": 768,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 6,
       "skin": {
         "id": 29000998,
@@ -1718,7 +1718,7 @@
       "name": "SPROUT",
       "power": 9,
       "rank": 4,
-      "trophies": 794,
+      "trophies": 791,
       "highestTrophies": 797,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
@@ -3136,8 +3136,8 @@
       "name": "DOUG",
       "power": 9,
       "rank": 5,
-      "trophies": 1000,
-      "highestTrophies": 1001,
+      "trophies": 1019,
+      "highestTrophies": 1024,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 10,
@@ -3713,8 +3713,8 @@
       "currentWinStreak": 2,
       "maxWinStreak": 9,
       "skin": {
-        "id": 29000977,
-        "name": "MONTEREY MOE"
+        "id": 29001062,
+        "name": "MOON DRILLER MOE"
       },
       "gadgets": [
         {
@@ -3851,11 +3851,11 @@
       "id": 16000087,
       "name": "JUJU",
       "power": 9,
-      "rank": 3,
-      "trophies": 715,
-      "highestTrophies": 722,
+      "rank": 4,
+      "trophies": 762,
+      "highestTrophies": 762,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 2,
       "maxWinStreak": 22,
       "skin": {
         "id": 29001104,
