@@ -5,24 +5,24 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 87043,
+  "trophies": 87039,
   "highestTrophies": 87043,
   "totalPrestigeLevel": 60,
   "expLevel": 213,
-  "expPoints": 232613,
+  "expPoints": 232835,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 10784,
+  "3vs3Victories": 10799,
   "soloVictories": 1730,
   "duoVictories": 1267,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
   "rankedSeasonId": 44,
-  "rankedRank": 9,
-  "rankedRankName": "GOLD III",
-  "rankedElo": 2665,
-  "highestSeasonRankedRank": 9,
-  "highestSeasonRankedRankName": "GOLD III",
-  "highestSeasonRankedElo": 2665,
+  "rankedRank": 10,
+  "rankedRankName": "DIAMOND I",
+  "rankedElo": 3108,
+  "highestSeasonRankedRank": 10,
+  "highestSeasonRankedRankName": "DIAMOND I",
+  "highestSeasonRankedElo": 3108,
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
@@ -178,8 +178,8 @@
       "currentWinStreak": 1,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000837,
-        "name": "SUPER RANGER BROCK RED"
+        "id": 29000841,
+        "name": "SUPER RANGER BROCK BLACK"
       },
       "gadgets": [
         {
@@ -1820,8 +1820,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000762,
-        "name": "MIDORI PAWLETTE"
+        "id": 29000588,
+        "name": "INSPECTOR COLETTE"
       },
       "gadgets": [
         {
@@ -2330,16 +2330,20 @@
       "name": "GRIFF",
       "power": 11,
       "rank": 4,
-      "trophies": 805,
+      "trophies": 801,
       "highestTrophies": 805,
       "prestigeLevel": 0,
-      "currentWinStreak": 4,
+      "currentWinStreak": 0,
       "maxWinStreak": 6,
       "skin": {
         "id": 29000453,
         "name": "SLEIGHER GRIFF"
       },
       "gadgets": [
+        {
+          "id": 23000399,
+          "name": "PIGGY BANK"
+        },
         {
           "id": 23000487,
           "name": "COIN SHOWER"
@@ -2561,8 +2565,8 @@
       "currentWinStreak": 1,
       "maxWinStreak": 19,
       "skin": {
-        "id": 29001278,
-        "name": "TRICKY JANET"
+        "id": 29001595,
+        "name": "URAVITY: JANET"
       },
       "gadgets": [
         {
@@ -3168,7 +3172,12 @@
           "name": "SELF SERVICE"
         }
       ],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23001006,
+          "name": "FREE TOPPINGS"
+        }
+      ],
       "buffies": {
         "gadget": false,
         "starPower": false,
