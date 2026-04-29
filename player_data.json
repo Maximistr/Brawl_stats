@@ -5,24 +5,24 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 87039,
-  "highestTrophies": 87043,
-  "totalPrestigeLevel": 60,
+  "trophies": 87341,
+  "highestTrophies": 87351,
+  "totalPrestigeLevel": 62,
   "expLevel": 213,
-  "expPoints": 232835,
+  "expPoints": 233457,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 10799,
-  "soloVictories": 1730,
+  "3vs3Victories": 10833,
+  "soloVictories": 1731,
   "duoVictories": 1267,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
   "rankedSeasonId": 44,
-  "rankedRank": 10,
-  "rankedRankName": "DIAMOND I",
-  "rankedElo": 3108,
-  "highestSeasonRankedRank": 10,
-  "highestSeasonRankedRankName": "DIAMOND I",
-  "highestSeasonRankedElo": 3108,
+  "rankedRank": 11,
+  "rankedRankName": "DIAMOND II",
+  "rankedElo": 3860,
+  "highestSeasonRankedRank": 11,
+  "highestSeasonRankedRankName": "DIAMOND II",
+  "highestSeasonRankedElo": 3860,
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
@@ -2329,10 +2329,10 @@
       "id": 16000050,
       "name": "GRIFF",
       "power": 11,
-      "rank": 4,
-      "trophies": 801,
-      "highestTrophies": 805,
-      "prestigeLevel": 0,
+      "rank": 5,
+      "trophies": 1000,
+      "highestTrophies": 1005,
+      "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 6,
       "skin": {
@@ -2401,11 +2401,11 @@
       "id": 16000052,
       "name": "MEG",
       "power": 11,
-      "rank": 4,
-      "trophies": 898,
-      "highestTrophies": 902,
-      "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "rank": 5,
+      "trophies": 1011,
+      "highestTrophies": 1011,
+      "prestigeLevel": 1,
+      "currentWinStreak": 7,
       "maxWinStreak": 9,
       "skin": {
         "id": 29000510,
@@ -2881,10 +2881,10 @@
       "name": "MANDY",
       "power": 11,
       "rank": 5,
-      "trophies": 1050,
+      "trophies": 1045,
       "highestTrophies": 1050,
       "prestigeLevel": 1,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 10,
       "skin": {
         "id": 29001172,
@@ -3754,10 +3754,10 @@
       "name": "KENJI",
       "power": 11,
       "rank": 5,
-      "trophies": 1059,
+      "trophies": 1054,
       "highestTrophies": 1071,
       "prestigeLevel": 1,
-      "currentWinStreak": 6,
+      "currentWinStreak": 0,
       "maxWinStreak": 15,
       "skin": {
         "id": 29001189,
@@ -4423,7 +4423,12 @@
           "name": "PARASITISM"
         }
       ],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23001221,
+          "name": "YOU NEED A FRIEND"
+        }
+      ],
       "buffies": {
         "gadget": false,
         "starPower": false,
@@ -4500,7 +4505,12 @@
           "name": "VENOMOUS"
         }
       ],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23001283,
+          "name": "TWIN SNAKES"
+        }
+      ],
       "buffies": {
         "gadget": false,
         "starPower": false,
