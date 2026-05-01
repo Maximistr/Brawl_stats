@@ -5,14 +5,14 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 87398,
-  "highestTrophies": 87439,
-  "totalPrestigeLevel": 62,
+  "trophies": 87838,
+  "highestTrophies": 87838,
+  "totalPrestigeLevel": 64,
   "expLevel": 213,
-  "expPoints": 233777,
+  "expPoints": 234259,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 10850,
-  "soloVictories": 1731,
+  "3vs3Victories": 10869,
+  "soloVictories": 1741,
   "duoVictories": 1268,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
@@ -467,14 +467,14 @@
       "name": "DYNAMIKE",
       "power": 11,
       "rank": 5,
-      "trophies": 1220,
-      "highestTrophies": 1229,
+      "trophies": 1224,
+      "highestTrophies": 1231,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 10,
       "skin": {
-        "id": 29001050,
-        "name": "ROMANTIC DYNAMIKE"
+        "id": 29001088,
+        "name": "SUGAR BOMB MIKE"
       },
       "gadgets": [
         {
@@ -561,8 +561,8 @@
       "name": "MORTIS",
       "power": 11,
       "rank": 5,
-      "trophies": 1199,
-      "highestTrophies": 1209,
+      "trophies": 1208,
+      "highestTrophies": 1215,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 8,
@@ -1401,10 +1401,10 @@
       "name": "BEA",
       "power": 11,
       "rank": 5,
-      "trophies": 1004,
-      "highestTrophies": 1004,
+      "trophies": 1011,
+      "highestTrophies": 1016,
       "prestigeLevel": 1,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
         "id": 29000284,
@@ -1527,12 +1527,12 @@
       "id": 16000032,
       "name": "MAX",
       "power": 11,
-      "rank": 4,
-      "trophies": 765,
-      "highestTrophies": 768,
-      "prestigeLevel": 0,
-      "currentWinStreak": 0,
-      "maxWinStreak": 6,
+      "rank": 5,
+      "trophies": 1001,
+      "highestTrophies": 1001,
+      "prestigeLevel": 1,
+      "currentWinStreak": 5,
+      "maxWinStreak": 7,
       "skin": {
         "id": 29000998,
         "name": "ANGEL MAX"
@@ -1718,8 +1718,8 @@
       "name": "SPROUT",
       "power": 9,
       "rank": 4,
-      "trophies": 791,
-      "highestTrophies": 797,
+      "trophies": 807,
+      "highestTrophies": 811,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 4,
@@ -1814,14 +1814,14 @@
       "name": "COLETTE",
       "power": 11,
       "rank": 5,
-      "trophies": 1092,
-      "highestTrophies": 1101,
+      "trophies": 1102,
+      "highestTrophies": 1102,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000588,
-        "name": "INSPECTOR COLETTE"
+        "id": 29000762,
+        "name": "MIDORI PAWLETTE"
       },
       "gadgets": [
         {
@@ -1913,11 +1913,11 @@
       "id": 16000041,
       "name": "LOU",
       "power": 11,
-      "rank": 4,
-      "trophies": 863,
-      "highestTrophies": 863,
-      "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "rank": 5,
+      "trophies": 1006,
+      "highestTrophies": 1006,
+      "prestigeLevel": 1,
+      "currentWinStreak": 7,
       "maxWinStreak": 12,
       "skin": {
         "id": 29000306,
@@ -2010,10 +2010,10 @@
       "name": "EDGAR",
       "power": 11,
       "rank": 5,
-      "trophies": 1104,
-      "highestTrophies": 1104,
+      "trophies": 1109,
+      "highestTrophies": 1115,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 12,
       "skin": {
         "id": 29000997,
@@ -2101,14 +2101,14 @@
       "name": "STU",
       "power": 11,
       "rank": 5,
-      "trophies": 1037,
-      "highestTrophies": 1037,
+      "trophies": 1050,
+      "highestTrophies": 1050,
       "prestigeLevel": 1,
-      "currentWinStreak": 3,
+      "currentWinStreak": 4,
       "maxWinStreak": 11,
       "skin": {
-        "id": 29000265,
-        "name": "STU"
+        "id": 29000741,
+        "name": "SANTA STU"
       },
       "gadgets": [
         {
@@ -4424,6 +4424,10 @@
       "gears": [],
       "starPowers": [
         {
+          "id": 23001181,
+          "name": "BIOTIC ECOSYSTEM"
+        },
+        {
           "id": 23001182,
           "name": "PARASITISM"
         }
@@ -4445,7 +4449,7 @@
       "name": "SIRIUS",
       "power": 11,
       "rank": 5,
-      "trophies": 1165,
+      "trophies": 1162,
       "highestTrophies": 1174,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
@@ -4458,6 +4462,10 @@
         {
           "id": 23001191,
           "name": "A STARR IS BORN"
+        },
+        {
+          "id": 23001192,
+          "name": "MASTER OF SHADOWS"
         }
       ],
       "gears": [],
