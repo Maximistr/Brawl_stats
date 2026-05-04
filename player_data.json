@@ -5,15 +5,15 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 88326,
-  "highestTrophies": 88333,
+  "trophies": 88364,
+  "highestTrophies": 88364,
   "totalPrestigeLevel": 64,
   "expLevel": 214,
-  "expPoints": 235311,
+  "expPoints": 235467,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 10936,
+  "3vs3Victories": 10943,
   "soloVictories": 1742,
-  "duoVictories": 1270,
+  "duoVictories": 1272,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
   "rankedSeasonId": 44,
@@ -467,14 +467,14 @@
       "name": "DYNAMIKE",
       "power": 11,
       "rank": 5,
-      "trophies": 1217,
-      "highestTrophies": 1231,
+      "trophies": 1238,
+      "highestTrophies": 1238,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 2,
       "maxWinStreak": 10,
       "skin": {
-        "id": 29001050,
-        "name": "ROMANTIC DYNAMIKE"
+        "id": 29001088,
+        "name": "SUGAR BOMB MIKE"
       },
       "gadgets": [
         {
@@ -561,7 +561,7 @@
       "name": "MORTIS",
       "power": 11,
       "rank": 5,
-      "trophies": 1221,
+      "trophies": 1210,
       "highestTrophies": 1228,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
@@ -1209,10 +1209,10 @@
       "name": "CARL",
       "power": 8,
       "rank": 4,
-      "trophies": 754,
-      "highestTrophies": 754,
+      "trophies": 777,
+      "highestTrophies": 781,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 5,
       "skin": {
         "id": 29000308,
@@ -1820,8 +1820,8 @@
       "currentWinStreak": 1,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29001008,
-        "name": "IMPIE COLETTE"
+        "id": 29000588,
+        "name": "INSPECTOR COLETTE"
       },
       "gadgets": [
         {
@@ -2330,8 +2330,8 @@
       "name": "GRIFF",
       "power": 11,
       "rank": 5,
-      "trophies": 1000,
-      "highestTrophies": 1005,
+      "trophies": 1005,
+      "highestTrophies": 1010,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 6,
