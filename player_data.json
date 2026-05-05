@@ -5,14 +5,14 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 88364,
-  "highestTrophies": 88364,
+  "trophies": 89160,
+  "highestTrophies": 89163,
   "totalPrestigeLevel": 64,
   "expLevel": 214,
-  "expPoints": 235467,
+  "expPoints": 236264,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 10943,
-  "soloVictories": 1742,
+  "3vs3Victories": 10991,
+  "soloVictories": 1743,
   "duoVictories": 1272,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
@@ -473,8 +473,8 @@
       "currentWinStreak": 2,
       "maxWinStreak": 10,
       "skin": {
-        "id": 29001088,
-        "name": "SUGAR BOMB MIKE"
+        "id": 29000775,
+        "name": "DYNASTY MIKE"
       },
       "gadgets": [
         {
@@ -1549,6 +1549,10 @@
       ],
       "gears": [],
       "starPowers": [
+        {
+          "id": 23000210,
+          "name": "SUPER CHARGED"
+        },
         {
           "id": 23000211,
           "name": "RUN N GUN"
@@ -4528,6 +4532,40 @@
           "name": "TWIN SNAKES"
         }
       ],
+      "buffies": {
+        "gadget": false,
+        "starPower": false,
+        "hyperCharge": false
+      }
+    },
+    {
+      "id": 16000104,
+      "name": "DAMIAN",
+      "power": 10,
+      "rank": 4,
+      "trophies": 796,
+      "highestTrophies": 799,
+      "prestigeLevel": 0,
+      "currentWinStreak": 0,
+      "maxWinStreak": 26,
+      "skin": {
+        "id": 29001564,
+        "name": "DAMIAN"
+      },
+      "gadgets": [
+        {
+          "id": 23001247,
+          "name": "SPIRITUAL HEALING"
+        }
+      ],
+      "gears": [],
+      "starPowers": [
+        {
+          "id": 23001246,
+          "name": "VULGAR DISPLAY OF PUNCH"
+        }
+      ],
+      "hyperCharges": [],
       "buffies": {
         "gadget": false,
         "starPower": false,
