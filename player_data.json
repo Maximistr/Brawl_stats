@@ -5,21 +5,21 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 89411,
-  "highestTrophies": 89421,
+  "trophies": 89709,
+  "highestTrophies": 89715,
   "totalPrestigeLevel": 65,
   "expLevel": 215,
-  "expPoints": 236634,
+  "expPoints": 237156,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 11022,
+  "3vs3Victories": 11050,
   "soloVictories": 1743,
-  "duoVictories": 1272,
+  "duoVictories": 1275,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
   "rankedSeasonId": 44,
-  "rankedRank": 14,
-  "rankedRankName": "MYTHIC II",
-  "rankedElo": 5089,
+  "rankedRank": 13,
+  "rankedRankName": "MYTHIC I",
+  "rankedElo": 4717,
   "highestSeasonRankedRank": 14,
   "highestSeasonRankedRankName": "MYTHIC II",
   "highestSeasonRankedElo": 5169,
@@ -230,10 +230,10 @@
       "name": "RICO",
       "power": 11,
       "rank": 5,
-      "trophies": 1038,
-      "highestTrophies": 1038,
+      "trophies": 1035,
+      "highestTrophies": 1044,
       "prestigeLevel": 1,
-      "currentWinStreak": 3,
+      "currentWinStreak": 0,
       "maxWinStreak": 8,
       "skin": {
         "id": 29000925,
@@ -467,10 +467,10 @@
       "name": "DYNAMIKE",
       "power": 11,
       "rank": 5,
-      "trophies": 1238,
-      "highestTrophies": 1238,
+      "trophies": 1248,
+      "highestTrophies": 1248,
       "prestigeLevel": 1,
-      "currentWinStreak": 2,
+      "currentWinStreak": 3,
       "maxWinStreak": 10,
       "skin": {
         "id": 29000775,
@@ -561,10 +561,10 @@
       "name": "MORTIS",
       "power": 11,
       "rank": 5,
-      "trophies": 1210,
+      "trophies": 1224,
       "highestTrophies": 1228,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 2,
       "maxWinStreak": 8,
       "skin": {
         "id": 29000173,
@@ -1247,7 +1247,7 @@
       "name": "BIBI",
       "power": 11,
       "rank": 5,
-      "trophies": 1275,
+      "trophies": 1268,
       "highestTrophies": 1289,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
@@ -1482,7 +1482,7 @@
       "buffies": {
         "gadget": true,
         "starPower": true,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -1818,14 +1818,14 @@
       "name": "COLETTE",
       "power": 11,
       "rank": 5,
-      "trophies": 1134,
-      "highestTrophies": 1134,
+      "trophies": 1144,
+      "highestTrophies": 1150,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 2,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000588,
-        "name": "INSPECTOR COLETTE"
+        "id": 29000762,
+        "name": "MIDORI PAWLETTE"
       },
       "gadgets": [
         {
@@ -1857,7 +1857,7 @@
       "buffies": {
         "gadget": false,
         "starPower": false,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -2014,10 +2014,10 @@
       "name": "EDGAR",
       "power": 11,
       "rank": 5,
-      "trophies": 1109,
-      "highestTrophies": 1115,
+      "trophies": 1251,
+      "highestTrophies": 1251,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 6,
       "maxWinStreak": 12,
       "skin": {
         "id": 29000997,
@@ -2059,7 +2059,7 @@
       "buffies": {
         "gadget": false,
         "starPower": false,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -2067,10 +2067,10 @@
       "name": "RUFFS",
       "power": 7,
       "rank": 3,
-      "trophies": 645,
+      "trophies": 642,
       "highestTrophies": 645,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
         "id": 29001108,
@@ -2233,8 +2233,8 @@
       "name": "GROM",
       "power": 11,
       "rank": 5,
-      "trophies": 1014,
-      "highestTrophies": 1019,
+      "trophies": 1019,
+      "highestTrophies": 1024,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 10,
@@ -3696,6 +3696,10 @@
       },
       "gadgets": [
         {
+          "id": 23000774,
+          "name": "SNAPPY SHOOTING"
+        },
+        {
           "id": 23000775,
           "name": "TACTICAL RETREAT"
         }
@@ -3729,10 +3733,10 @@
       "name": "MOE",
       "power": 7,
       "rank": 2,
-      "trophies": 249,
-      "highestTrophies": 250,
+      "trophies": 283,
+      "highestTrophies": 283,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 9,
       "skin": {
         "id": 29001062,
@@ -4370,12 +4374,12 @@
     {
       "id": 16000100,
       "name": "GIGI",
-      "power": 10,
+      "power": 11,
       "rank": 3,
-      "trophies": 530,
-      "highestTrophies": 531,
+      "trophies": 626,
+      "highestTrophies": 632,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
         "id": 29001404,
@@ -4402,7 +4406,12 @@
           "name": "A HELPING HAND"
         }
       ],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23001211,
+          "name": "PAS DE DEUX"
+        }
+      ],
       "buffies": {
         "gadget": false,
         "starPower": false,
@@ -4412,7 +4421,7 @@
     {
       "id": 16000101,
       "name": "GLOWY",
-      "power": 9,
+      "power": 10,
       "rank": 3,
       "trophies": 561,
       "highestTrophies": 561,
