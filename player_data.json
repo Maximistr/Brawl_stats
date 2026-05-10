@@ -11,7 +11,7 @@
   "expLevel": 215,
   "expPoints": 238191,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 11109,
+  "3vs3Victories": 11110,
   "soloVictories": 1745,
   "duoVictories": 1283,
   "bestRoboRumbleTime": 12,
@@ -4023,7 +4023,12 @@
           "name": "HALF-TIME"
         }
       ],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23000980,
+          "name": "DRUM SOLO"
+        }
+      ],
       "buffies": {
         "gadget": false,
         "starPower": false,
