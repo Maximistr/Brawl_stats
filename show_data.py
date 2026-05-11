@@ -15,7 +15,6 @@ brawlers = pd.DataFrame(data["brawlers"])
 tropy_data = pd.read_csv('trophies.csv', names=['Date', 'Trophies'])
 power_levels = brawlers['power'].value_counts()
 rank_counts = sorted(brawlers['rank'].value_counts().items(), key=lambda x: x[0])
-print(rank_counts)
 rank_counts = pd.Series({rank: count for rank, count in rank_counts})
 
 power_bars = px.bar(power_levels, x=power_levels.index, y=power_levels.values,

@@ -18,8 +18,8 @@ def get_player(tag):
     url = f"{URL}players/{tag.replace('#', '%23')}"
     headers = {'Authorization': f'Bearer {API_TOKEN}'}
     response = requests.get(url, headers=headers)
-    with open('player_data.json', 'w') as file:
-        json.dump(response.json(), file, indent=2)
+    with open('battlelog.json', 'w', encoding="utf-8") as file:
+        json.dump(response.json(), file,ensure_ascii=False, indent=2)
     return response.json()
     
 def save_trophies_to_csv(player_data):
