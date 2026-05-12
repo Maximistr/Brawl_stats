@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 90601,
-  "highestTrophies": 90601,
+  "trophies": 90644,
+  "highestTrophies": 90644,
   "totalPrestigeLevel": 66,
   "expLevel": 215,
-  "expPoints": 238457,
+  "expPoints": 238529,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 11129,
+  "3vs3Victories": 11133,
   "soloVictories": 1745,
   "duoVictories": 1283,
   "bestRoboRumbleTime": 12,
@@ -178,8 +178,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000841,
-        "name": "SUPER RANGER BROCK BLACK"
+        "id": 29000837,
+        "name": "SUPER RANGER BROCK RED"
       },
       "gadgets": [
         {
@@ -4432,12 +4432,12 @@
     {
       "id": 16000101,
       "name": "GLOWY",
-      "power": 10,
+      "power": 11,
       "rank": 3,
-      "trophies": 561,
-      "highestTrophies": 561,
+      "trophies": 604,
+      "highestTrophies": 604,
       "prestigeLevel": 0,
-      "currentWinStreak": 2,
+      "currentWinStreak": 3,
       "maxWinStreak": 15,
       "skin": {
         "id": 29001400,
