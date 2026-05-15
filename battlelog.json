@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 91075,
+  "trophies": 91073,
   "highestTrophies": 91075,
   "totalPrestigeLevel": 66,
   "expLevel": 216,
-  "expPoints": 239066,
+  "expPoints": 239114,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 11155,
+  "3vs3Victories": 11158,
   "soloVictories": 1745,
   "duoVictories": 1296,
   "bestRoboRumbleTime": 12,
@@ -2203,6 +2203,10 @@
         {
           "id": 23000378,
           "name": "WINDUP"
+        },
+        {
+          "id": 23000462,
+          "name": "RESIDUE"
         }
       ],
       "gears": [],
@@ -4343,10 +4347,10 @@
       "name": "PIERCE",
       "power": 10,
       "rank": 2,
-      "trophies": 465,
+      "trophies": 463,
       "highestTrophies": 465,
       "prestigeLevel": 0,
-      "currentWinStreak": 4,
+      "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
         "id": 29001432,
