@@ -5,21 +5,21 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 91073,
-  "highestTrophies": 91075,
+  "trophies": 91525,
+  "highestTrophies": 91531,
   "totalPrestigeLevel": 66,
   "expLevel": 216,
-  "expPoints": 239114,
+  "expPoints": 239752,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 11158,
+  "3vs3Victories": 11193,
   "soloVictories": 1745,
-  "duoVictories": 1296,
+  "duoVictories": 1305,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
   "rankedSeasonId": 44,
   "rankedRank": 13,
   "rankedRankName": "MYTHIC I",
-  "rankedElo": 4700,
+  "rankedElo": 4736,
   "highestSeasonRankedRank": 14,
   "highestSeasonRankedRankName": "MYTHIC II",
   "highestSeasonRankedElo": 5169,
@@ -1209,10 +1209,10 @@
       "name": "CARL",
       "power": 8,
       "rank": 4,
-      "trophies": 777,
-      "highestTrophies": 781,
+      "trophies": 787,
+      "highestTrophies": 787,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 5,
       "skin": {
         "id": 29000308,
@@ -1448,10 +1448,10 @@
       "name": "EMZ",
       "power": 9,
       "rank": 4,
-      "trophies": 793,
-      "highestTrophies": 796,
+      "trophies": 803,
+      "highestTrophies": 803,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 5,
       "skin": {
         "id": 29000657,
@@ -2014,8 +2014,8 @@
       "name": "EDGAR",
       "power": 11,
       "rank": 5,
-      "trophies": 1299,
-      "highestTrophies": 1307,
+      "trophies": 1331,
+      "highestTrophies": 1338,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 12,
@@ -2373,7 +2373,7 @@
       "buffies": {
         "gadget": false,
         "starPower": false,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -2533,11 +2533,11 @@
       "name": "EVE",
       "power": 8,
       "rank": 2,
-      "trophies": 300,
-      "highestTrophies": 300,
+      "trophies": 364,
+      "highestTrophies": 364,
       "prestigeLevel": 0,
       "currentWinStreak": 1,
-      "maxWinStreak": 3,
+      "maxWinStreak": 5,
       "skin": {
         "id": 29000825,
         "name": "MOTHRA EVE"
@@ -2759,12 +2759,12 @@
     {
       "id": 16000062,
       "name": "BUSTER",
-      "power": 9,
+      "power": 10,
       "rank": 3,
-      "trophies": 674,
-      "highestTrophies": 674,
+      "trophies": 704,
+      "highestTrophies": 704,
       "prestigeLevel": 0,
-      "currentWinStreak": 2,
+      "currentWinStreak": 1,
       "maxWinStreak": 10,
       "skin": {
         "id": 29001225,
@@ -2777,7 +2777,12 @@
         }
       ],
       "gears": [],
-      "starPowers": [],
+      "starPowers": [
+        {
+          "id": 23000519,
+          "name": "BLOCKBUSTER"
+        }
+      ],
       "hyperCharges": [
         {
           "id": 23000921,
@@ -2795,10 +2800,10 @@
       "name": "CHESTER",
       "power": 11,
       "rank": 5,
-      "trophies": 1482,
-      "highestTrophies": 1482,
+      "trophies": 1529,
+      "highestTrophies": 1547,
       "prestigeLevel": 1,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 12,
       "skin": {
         "id": 29001133,
@@ -3882,10 +3887,10 @@
       "name": "JUJU",
       "power": 9,
       "rank": 4,
-      "trophies": 762,
+      "trophies": 759,
       "highestTrophies": 762,
       "prestigeLevel": 0,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 22,
       "skin": {
         "id": 29001104,
@@ -3962,11 +3967,11 @@
       "id": 16000090,
       "name": "OLLIE",
       "power": 7,
-      "rank": 1,
-      "trophies": 234,
-      "highestTrophies": 234,
+      "rank": 2,
+      "trophies": 253,
+      "highestTrophies": 253,
       "prestigeLevel": 0,
-      "currentWinStreak": 7,
+      "currentWinStreak": 8,
       "maxWinStreak": 9,
       "skin": {
         "id": 29001277,
@@ -3997,10 +4002,10 @@
       "name": "LUMI",
       "power": 9,
       "rank": 4,
-      "trophies": 745,
-      "highestTrophies": 751,
+      "trophies": 766,
+      "highestTrophies": 766,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 2,
       "maxWinStreak": 9,
       "skin": {
         "id": 29001215,
@@ -4293,7 +4298,12 @@
           "name": "BLOWN AWAY"
         }
       ],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23001138,
+          "name": "TRIPLECANE"
+        }
+      ],
       "buffies": {
         "gadget": false,
         "starPower": false,
@@ -4305,10 +4315,10 @@
       "name": "ZIGGY",
       "power": 9,
       "rank": 3,
-      "trophies": 726,
-      "highestTrophies": 726,
+      "trophies": 732,
+      "highestTrophies": 738,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 10,
       "skin": {
         "id": 29001321,
@@ -4347,10 +4357,10 @@
       "name": "PIERCE",
       "power": 10,
       "rank": 2,
-      "trophies": 463,
-      "highestTrophies": 465,
+      "trophies": 473,
+      "highestTrophies": 473,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 9,
       "skin": {
         "id": 29001432,
@@ -4437,9 +4447,9 @@
       "id": 16000101,
       "name": "GLOWY",
       "power": 11,
-      "rank": 3,
-      "trophies": 601,
-      "highestTrophies": 604,
+      "rank": 4,
+      "trophies": 761,
+      "highestTrophies": 764,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 15,
@@ -4505,6 +4515,10 @@
         {
           "id": 23001189,
           "name": "DUSK RUNNERS"
+        },
+        {
+          "id": 23001190,
+          "name": "THE DARKEST STARR"
         }
       ],
       "hyperCharges": [
@@ -4567,10 +4581,10 @@
       "name": "DAMIAN",
       "power": 10,
       "rank": 5,
-      "trophies": 1221,
-      "highestTrophies": 1221,
+      "trophies": 1267,
+      "highestTrophies": 1267,
       "prestigeLevel": 1,
-      "currentWinStreak": 11,
+      "currentWinStreak": 13,
       "maxWinStreak": 26,
       "skin": {
         "id": 29001564,
