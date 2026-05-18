@@ -13,6 +13,7 @@ st.set_page_config(layout="wide")
     
 brawlers = pd.DataFrame(data["brawlers"])
 tropy_data = pd.read_csv('trophies.csv', names=['Date', 'Trophies'])
+elo_data = pd.read_csv('elo.csv', names=['Date', 'ELO'])
 power_levels = brawlers['power'].value_counts()
 rank_counts = sorted(brawlers['rank'].value_counts().items(), key=lambda x: x[0])
 rank_counts = pd.Series({rank: count for rank, count in rank_counts})
@@ -31,6 +32,13 @@ tropy_line = px.line(tropy_data, x='Date', y='Trophies',
              template='plotly_dark')
 tropy_line.update_traces(line_color="#F6FF00")
 tropy_line.update_layout(margin=dict(r=50))
+
+elo_line = px.line(elo_data, x='Date', y='ELO',
+             labels={'Date': 'Date', 'ELO': 'ELO'},
+             title='Ranked ELO Over Time',
+             template='plotly_dark')
+elo_line.update_traces(line_color="#006EFF")
+elo_line.update_layout(margin=dict(r=50))
 
 def get_rank_label(rank):
     if rank == 1:
@@ -57,11 +65,16 @@ with col1:
     st.write("### Power Levels of Brawlers") 
     st.plotly_chart(power_bars,width="stretch")
 
+    st.write("### Ranks of Brawlers")
+    st.plotly_chart(rank_pie,width="stretch")
+
 with col2:
     st.write("### Trophies Over Time")
     st.plotly_chart(tropy_line,width="stretch")
 
+    st.write("### Ranked ELO Over Time")
+    st.plotly_chart(elo_line,width="stretch")
+
 with col3:
-    st.write("### Ranks of Brawlers")
-    st.plotly_chart(rank_pie,width="stretch")
+    pass
     

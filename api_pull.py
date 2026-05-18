@@ -28,7 +28,14 @@ def save_trophies_to_csv(player_data):
     with open('trophies.csv', mode='a', newline='') as file:
         writer = csv.writer(file)
         writer.writerow([date.today(), trophies])
+def save_elo_to_csv(player_data):
+    """Save player's ELO to a CSV file"""
+    elo = player_data.get("rankedElo", 0)
+    with open('elo.csv', mode='a', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow([date.today(), elo])
         
 if __name__ == "__main__":
     player_data =get_player(player_tag)
     save_trophies_to_csv(player_data)
+    save_elo_to_csv(player_data)
