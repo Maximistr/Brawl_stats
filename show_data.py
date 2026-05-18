@@ -90,6 +90,10 @@ with col3:
     with st.container():
         img_col, text_col = st.columns([1, 2])
         with img_col:
-            st.image("Images/gadget.webp", width=80)
+            st.image("Images/gadget.webp", width=100)
+            st.image("Images/starpower.webp", width=100)
+            st.image("Images/hyper.png", width=100)
         with text_col:
-            st.metric(label="Total Gadgets", value=f"{gadgets}/{len(brawlers)}")
+            st.metric(label="Total Gadgets", value=f"{gadgets}/{len(brawlers)*2}")
+            st.metric(label="Total Starpowers", value=f"{starpowers}/{len(brawlers)*2}")
+            st.metric(label="Total Hypers", value=f"{len(brawlers) - hypers_missing}/{len(brawlers)}")
