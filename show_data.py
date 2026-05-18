@@ -87,6 +87,7 @@ with col2:
 
 with col3:
     st.write("### Gadgets, Star Powers and Hypers")
+    st.write("###")
     with st.container():
         img_col, text_col = st.columns([1, 2])
         with img_col:
