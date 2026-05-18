@@ -16,6 +16,9 @@ st.set_page_config(layout="wide")
 brawlers = pd.DataFrame(data["brawlers"])
 tropy_data = pd.read_csv('trophies.csv', names=['Date', 'Trophies'])
 elo_data = pd.read_csv('elo.csv', names=['Date', 'ELO'])
+hypers_missing = (brawlers['hyperCharges'].str.len() == 0).sum()
+gadgets = brawlers["gadgets"].str.len().sum()
+starpowers = brawlers["starPowers"].str.len().sum()
 power_levels = brawlers['power'].value_counts()
 rank_counts = sorted(brawlers['rank'].value_counts().items(), key=lambda x: x[0])
 rank_counts = pd.Series({rank: count for rank, count in rank_counts})
@@ -83,5 +86,6 @@ with col2:
     st.plotly_chart(elo_line,width="stretch")
 
 with col3:
-    pass
-    
+    st.write("### Gadgets, Star Powers, and Hypers")
+    st.image("images/gadget.webp", width=50)
+    st.write(f"Total Gadgets: {gadgets}/{len(brawlers)}")   
