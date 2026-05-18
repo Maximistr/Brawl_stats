@@ -52,9 +52,10 @@ def get_rank_label(rank):
         return '750-1000'
     elif rank >= 5:
         return f'{1000 * (rank - 4)}-{1000 * (rank - 3)}'
+ranks = [0,0,0,0,0,0,0]
 rank_labels = [get_rank_label(rank) for rank in rank_counts.index]
 tier_colors=["#9a3f2e", "#f67114", "#9895cd", "#faaf0d", "#b26dfd","#f4639a","#f4ed66"]
-ranks = [0,0,0,0,0,0,0]
+
 if len(rank_labels) > 7:
     for i in range(len(rank_labels) - 7):
         tier_colors.append("#f4ed66")
