@@ -94,6 +94,6 @@ with col3:
             st.image("Images/starpower.webp", width=100)
             st.image("Images/hyper.png", width=100)
         with text_col:
-            st.metric(label="Total Gadgets", value=f"{gadgets}/{len(brawlers)*2}",width=100)
-            st.metric(label="Total Starpowers", value=f"{starpowers}/{len(brawlers)*2}",width=100)
-            st.metric(label="Total Hypers", value=f"{len(brawlers) - hypers_missing}/{len(brawlers)}",width=100)
+            st.metric(label="Total Gadgets", value=f"{gadgets}/{len(brawlers)*2}",height=100)
+            st.metric(label="Total Starpowers", value=f"{starpowers}/{len(brawlers)*2}",height=100)
+            st.metric(label="Total Hypers", value=f"{len(brawlers) - hypers_missing}/{len(brawlers)}",height=100)
