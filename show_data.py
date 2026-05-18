@@ -91,7 +91,7 @@ with col3:
         st.markdown(
             f"""
             <div style="display: flex; align-items: center; background-color: #1e1e1e; padding: 15px; border-radius: 10px;">
-                <img src="app/static/Images/gadget.webp" style="width: 80px; height: auto; margin-right: 20px;">
+                <img src="Images/gadget.webp" style="width: 80px; height: auto; margin-right: 20px;">
                 <div>
                     <h4 style="margin: 0; color: white;">Total Gadgets</h4>
                     <p style="margin: 0; font-size: 20px; font-weight: bold; color: #f67114;">{gadgets} / {len(brawlers)}</p>
