@@ -88,15 +88,8 @@ with col2:
 with col3:
     st.write("### Gadgets, Star Powers, and Hypers")
     with st.container():
-        st.markdown(
-            f"""
-            <div style="display: flex; align-items: center;">
-                <img src="static/Images/gadget.webp" style="width: 80px; height: auto; margin-right: 20px;">
-                <div>
-                    <h4 style="margin: 0; color: white;">Total Gadgets</h4>
-                    <p style="margin: 0; font-size: 30px; font-weight: bold; color: #f67114;">{gadgets} / {len(brawlers)}</p>
-                </div>
-            </div>
-            """,
-            unsafe_allow_html=True,
-        )
+        img_col, text_col = st.columns([1, 2])
+        with img_col:
+            st.image("Images/gadget.webp", width=80)
+        with text_col:
+            st.metric(label="Total Gadgets", value=f"{gadgets}/{len(brawlers)}")
