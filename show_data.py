@@ -41,7 +41,6 @@ elo_line.update_traces(line_color="#006EFF")
 elo_line.update_layout(margin=dict(r=50))
 
 def get_rank_label(rank):
-    ranks[rank -1] += 1
     if rank == 1:
         return '0-250'
     elif rank == 2:
@@ -50,19 +49,17 @@ def get_rank_label(rank):
         return '500-750'
     elif rank == 4:
         return '750-1000'
-    elif rank >= 5:
+    else:
         return f'{1000 * (rank - 4)}-{1000 * (rank - 3)}'
-ranks = [0,0,0,0,0,0,0]
-rank_labels = [get_rank_label(rank) for rank in rank_counts.index]
-tier_colors=["#9a3f2e", "#f67114", "#9895cd", "#faaf0d", "#b26dfd","#f4639a","#f4ed66"]
 
-if len(rank_labels) > 7:
-    for i in range(len(rank_labels) - 7):
-        tier_colors.append("#f4ed66")
-        ranks.append(0)
-for x in range(len(ranks)):
-    if ranks[x] == 0:
-        tier_colors.remove(tier_colors[x])
+rank_labels = [get_rank_label(rank) for rank in rank_counts.index]
+base_colors = ["#9a3f2e", "#f67114", "#9895cd", "#faaf0d", "#b26dfd", "#f4639a", "#f4ed66"]
+
+if len(rank_labels) > len(base_colors):
+    tier_colors = base_colors + ["#f4ed66"] * (len(rank_labels) - len(base_colors))
+else:
+    tier_colors = base_colors[:len(rank_labels)]
+
 rank_pie = px.pie(rank_counts, names=rank_labels, values=rank_counts.values,
              title='Distribution of Brawlers by Rank')
 rank_pie.update_traces(marker_colors=tier_colors, textinfo='percent+label', textposition='inside')
