@@ -9,6 +9,7 @@ with open('player_data.json', 'r') as file:
     data = json.load(file)
 
 col1, col2, col3 = st.columns(3)
+st.title("Brawl Stars Player Data Visualization")
 st.set_page_config(layout="wide")
     
 brawlers = pd.DataFrame(data["brawlers"])
