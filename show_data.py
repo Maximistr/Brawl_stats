@@ -8,7 +8,7 @@ import streamlit as st
 with open('player_data.json', 'r') as file:
     data = json.load(file)
 
-st.title("Brawl Stars Player Data Visualization")
+st.title("Brawl Stars Player Data Visualization", anchor="main-title")
 col1, col2, col3 = st.columns(3)
 
 st.set_page_config(layout="wide")
