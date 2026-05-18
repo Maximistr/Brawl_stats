@@ -90,11 +90,11 @@ with col3:
     with st.container():
         st.markdown(
             f"""
-            <div style="display: flex; align-items: center; background-color: #1e1e1e; padding: 15px; border-radius: 10px;">
+            <div style="display: flex; align-items: center; background-color: #000000;">
                 <img src="Images/gadget.webp" style="width: 80px; height: auto; margin-right: 20px;">
                 <div>
                     <h4 style="margin: 0; color: white;">Total Gadgets</h4>
-                    <p style="margin: 0; font-size: 20px; font-weight: bold; color: #f67114;">{gadgets} / {len(brawlers)}</p>
+                    <p style="margin: 0; font-size: 30px; font-weight: bold; color: #f67114;">{gadgets} / {len(brawlers)}</p>
                 </div>
             </div>
             """,
