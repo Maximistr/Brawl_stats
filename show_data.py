@@ -90,7 +90,7 @@ with col3:
     with st.container():
         st.markdown(
             f"""
-            <div style="display: flex; align-items: center; background-color: #000000;">
+            <div style="display: flex; align-items: center;">
                 <img src="Images/gadget.webp" style="width: 80px; height: auto; margin-right: 20px;">
                 <div>
                     <h4 style="margin: 0; color: white;">Total Gadgets</h4>
