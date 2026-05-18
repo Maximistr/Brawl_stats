@@ -86,7 +86,7 @@ with col2:
     st.plotly_chart(elo_line,width="stretch")
 
 with col3:
-    st.write("### Gadgets, Star Powers, and Hypers")
+    st.write("### Gadgets, Star Powers and Hypers")
     with st.container():
         img_col, text_col = st.columns([1, 2])
         with img_col:
