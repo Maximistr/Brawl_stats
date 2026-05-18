@@ -87,5 +87,5 @@ with col2:
 
 with col3:
     st.write("### Gadgets, Star Powers, and Hypers")
-    st.image("Images/gadget.webp", width=50)
-    st.write(f"Total Gadgets: {gadgets}/{len(brawlers)}")   
+    st.image("Images/gadget.webp", width=150, caption=f"Total Gadgets: {gadgets}/{len(brawlers)}" , caption_side="right")
+
