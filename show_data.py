@@ -88,7 +88,18 @@ with col2:
 with col3:
     st.write("### Gadgets, Star Powers and Hypers")
     st.write("###")
+    st.html(
+    """
+    <style>
+    [data-testid="stHorizontalBlock"].no-stack {
+        flex-direction: row !important;
+        flex-wrap: nowrap !important;
+    }
+    </style>
+    """
+    )
     with st.container():
+        st.html("<div class='no-stack'>")
         img_col, text_col = st.columns([1, 2])
         with img_col:
             st.image("Images/gadget.webp", width=100)
@@ -98,3 +109,4 @@ with col3:
             st.metric(label="Total Gadgets", value=f"{gadgets}/{len(brawlers)*2}",height=100)
             st.metric(label="Total Starpowers", value=f"{starpowers}/{len(brawlers)*2}",height=100)
             st.metric(label="Total Hypers", value=f"{len(brawlers) - hypers_missing}/{len(brawlers)}",height=100)
+        st.html("</div>")
