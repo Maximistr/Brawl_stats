@@ -88,19 +88,8 @@ with col2:
 with col3:
     st.write("### Gadgets, Star Powers and Hypers")
     st.write("###")
-    image_url = "Images/gadget.webp"
-    text_content =f"Total Gadgets: \n {gadgets}/{len(brawlers)*2}"
-
-    # 2. Combine them into a single HTML structure
-    flex_layout = f"""
-    <div style="display: flex; align-items: center; gap: 20px;">
-        <img src="{image_url}" style="width: 150px; border-radius: 10px;">
-        <div>{text_content}</div>
-    </div>
-    """
-    # 3. Render it in Streamlit
-    st.markdown(flex_layout, unsafe_allow_html=True)
     with st.container():
+        st.set_page_config(layout="wide")
         img_col, text_col = st.columns([1, 2])
         with img_col:
             st.image("Images/gadget.webp", width=100)
