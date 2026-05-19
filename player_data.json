@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 91565,
-  "highestTrophies": 91571,
+  "trophies": 91631,
+  "highestTrophies": 91631,
   "totalPrestigeLevel": 66,
   "expLevel": 216,
-  "expPoints": 239972,
+  "expPoints": 240088,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 11205,
+  "3vs3Victories": 11216,
   "soloVictories": 1745,
   "duoVictories": 1305,
   "bestRoboRumbleTime": 12,
@@ -2580,6 +2580,10 @@
         {
           "id": 23000472,
           "name": "DROP THE BASS"
+        },
+        {
+          "id": 23000473,
+          "name": "BACKSTAGE PASS"
         }
       ],
       "gears": [],
@@ -3046,6 +3050,10 @@
         {
           "id": 23000569,
           "name": "PINPOINT PRECISION"
+        },
+        {
+          "id": 23000570,
+          "name": "TREMORS"
         }
       ],
       "hyperCharges": [
@@ -4270,10 +4278,10 @@
     {
       "id": 16000097,
       "name": "MINA",
-      "power": 10,
+      "power": 11,
       "rank": 5,
-      "trophies": 1007,
-      "highestTrophies": 1007,
+      "trophies": 1063,
+      "highestTrophies": 1063,
       "prestigeLevel": 1,
       "currentWinStreak": 2,
       "maxWinStreak": 9,
@@ -4452,10 +4460,10 @@
       "name": "GLOWY",
       "power": 11,
       "rank": 4,
-      "trophies": 780,
-      "highestTrophies": 786,
+      "trophies": 790,
+      "highestTrophies": 790,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 15,
       "skin": {
         "id": 29001400,
@@ -4602,6 +4610,10 @@
       ],
       "gears": [],
       "starPowers": [
+        {
+          "id": 23001245,
+          "name": "CROWDKILL"
+        },
         {
           "id": 23001246,
           "name": "VULGAR DISPLAY OF PUNCH"
