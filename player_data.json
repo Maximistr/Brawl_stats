@@ -5,14 +5,14 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 91726,
-  "highestTrophies": 91731,
-  "totalPrestigeLevel": 66,
+  "trophies": 91997,
+  "highestTrophies": 91999,
+  "totalPrestigeLevel": 67,
   "expLevel": 216,
-  "expPoints": 240240,
+  "expPoints": 240604,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 11228,
-  "soloVictories": 1745,
+  "3vs3Victories": 11252,
+  "soloVictories": 1749,
   "duoVictories": 1305,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
@@ -335,10 +335,10 @@
       "name": "BARLEY",
       "power": 8,
       "rank": 3,
-      "trophies": 661,
-      "highestTrophies": 661,
+      "trophies": 677,
+      "highestTrophies": 677,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 2,
       "maxWinStreak": 7,
       "skin": {
         "id": 29000059,
@@ -707,14 +707,14 @@
       "name": "BO",
       "power": 7,
       "rank": 3,
-      "trophies": 543,
-      "highestTrophies": 543,
+      "trophies": 551,
+      "highestTrophies": 551,
       "prestigeLevel": 0,
-      "currentWinStreak": 3,
-      "maxWinStreak": 3,
+      "currentWinStreak": 4,
+      "maxWinStreak": 4,
       "skin": {
-        "id": 29000441,
-        "name": "HO HO HO BO"
+        "id": 29000094,
+        "name": "MECHA BO"
       },
       "gadgets": [
         {
@@ -1448,10 +1448,10 @@
       "name": "EMZ",
       "power": 9,
       "rank": 4,
-      "trophies": 803,
-      "highestTrophies": 803,
+      "trophies": 817,
+      "highestTrophies": 817,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 2,
       "maxWinStreak": 5,
       "skin": {
         "id": 29000657,
@@ -1722,11 +1722,11 @@
       "name": "SPROUT",
       "power": 9,
       "rank": 4,
-      "trophies": 820,
-      "highestTrophies": 824,
+      "trophies": 882,
+      "highestTrophies": 882,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
-      "maxWinStreak": 4,
+      "currentWinStreak": 5,
+      "maxWinStreak": 5,
       "skin": {
         "id": 29001161,
         "name": "TANUKI SPROUT"
@@ -3742,7 +3742,12 @@
           "name": "PUMPING UP"
         }
       ],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23000933,
+          "name": "RECALL OF DUTY"
+        }
+      ],
       "buffies": {
         "gadget": false,
         "starPower": false,
@@ -4233,10 +4238,10 @@
       "name": "TRUNK",
       "power": 9,
       "rank": 2,
-      "trophies": 397,
-      "highestTrophies": 397,
+      "trophies": 408,
+      "highestTrophies": 410,
       "prestigeLevel": 0,
-      "currentWinStreak": 3,
+      "currentWinStreak": 0,
       "maxWinStreak": 10,
       "skin": {
         "id": 29001501,
@@ -4368,9 +4373,9 @@
       "id": 16000099,
       "name": "PIERCE",
       "power": 10,
-      "rank": 2,
-      "trophies": 473,
-      "highestTrophies": 473,
+      "rank": 3,
+      "trophies": 500,
+      "highestTrophies": 500,
       "prestigeLevel": 0,
       "currentWinStreak": 1,
       "maxWinStreak": 9,
@@ -4459,10 +4464,10 @@
       "id": 16000101,
       "name": "GLOWY",
       "power": 11,
-      "rank": 4,
-      "trophies": 873,
-      "highestTrophies": 878,
-      "prestigeLevel": 0,
+      "rank": 5,
+      "trophies": 1006,
+      "highestTrophies": 1011,
+      "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 15,
       "skin": {
