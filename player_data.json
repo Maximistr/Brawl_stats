@@ -5,24 +5,24 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 92192,
-  "highestTrophies": 92192,
+  "trophies": 92494,
+  "highestTrophies": 92494,
   "totalPrestigeLevel": 67,
   "expLevel": 217,
-  "expPoints": 240874,
+  "expPoints": 241507,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 11264,
-  "soloVictories": 1752,
+  "3vs3Victories": 11310,
+  "soloVictories": 1753,
   "duoVictories": 1305,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
   "rankedSeasonId": 45,
-  "rankedRank": 7,
-  "rankedRankName": "GOLD I",
-  "rankedElo": 1500,
-  "highestSeasonRankedRank": 7,
-  "highestSeasonRankedRankName": "GOLD I",
-  "highestSeasonRankedElo": 1500,
+  "rankedRank": 8,
+  "rankedRankName": "GOLD II",
+  "rankedElo": 2389,
+  "highestSeasonRankedRank": 8,
+  "highestSeasonRankedRankName": "GOLD II",
+  "highestSeasonRankedElo": 2438,
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
@@ -572,10 +572,10 @@
       "name": "MORTIS",
       "power": 11,
       "rank": 5,
-      "trophies": 1237,
+      "trophies": 1226,
       "highestTrophies": 1237,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 8,
       "skin": {
         "id": 29000173,
@@ -748,7 +748,7 @@
       "buffies": {
         "gadget": false,
         "starPower": false,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -1972,10 +1972,10 @@
       "name": "BYRON",
       "power": 9,
       "rank": 5,
-      "trophies": 1000,
-      "highestTrophies": 1000,
+      "trophies": 1093,
+      "highestTrophies": 1098,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 27,
       "skin": {
         "id": 29001279,
@@ -2578,14 +2578,14 @@
       "name": "JANET",
       "power": 11,
       "rank": 5,
-      "trophies": 1005,
+      "trophies": 1000,
       "highestTrophies": 1010,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 19,
       "skin": {
-        "id": 29001595,
-        "name": "URAVITY: JANET"
+        "id": 29000707,
+        "name": "LUNAR JANET"
       },
       "gadgets": [
         {
@@ -2776,14 +2776,14 @@
       "name": "BUSTER",
       "power": 11,
       "rank": 4,
-      "trophies": 772,
-      "highestTrophies": 772,
+      "trophies": 883,
+      "highestTrophies": 887,
       "prestigeLevel": 0,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 10,
       "skin": {
-        "id": 29001225,
-        "name": "BLESSED BUSTER"
+        "id": 29000594,
+        "name": "CHAINSAW BUSTER"
       },
       "gadgets": [
         {
@@ -2819,8 +2819,8 @@
       "name": "CHESTER",
       "power": 11,
       "rank": 5,
-      "trophies": 1529,
-      "highestTrophies": 1547,
+      "trophies": 1595,
+      "highestTrophies": 1604,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 12,
@@ -3301,8 +3301,8 @@
       "name": "CHARLIE",
       "power": 5,
       "rank": 2,
-      "trophies": 451,
-      "highestTrophies": 451,
+      "trophies": 458,
+      "highestTrophies": 462,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 6,
@@ -3377,10 +3377,10 @@
       "name": "KIT",
       "power": 11,
       "rank": 5,
-      "trophies": 1116,
-      "highestTrophies": 1122,
+      "trophies": 1149,
+      "highestTrophies": 1149,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 3,
       "maxWinStreak": 15,
       "skin": {
         "id": 29001076,
@@ -4566,10 +4566,10 @@
       "name": "NAJIA",
       "power": 11,
       "rank": 6,
-      "trophies": 2152,
+      "trophies": 2160,
       "highestTrophies": 2162,
       "prestigeLevel": 2,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 27,
       "skin": {
         "id": 29001510,
