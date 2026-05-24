@@ -5,14 +5,14 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 92854,
-  "highestTrophies": 92854,
+  "trophies": 93036,
+  "highestTrophies": 93044,
   "totalPrestigeLevel": 67,
   "expLevel": 217,
-  "expPoints": 242024,
+  "expPoints": 242327,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 11348,
-  "soloVictories": 1754,
+  "3vs3Victories": 11372,
+  "soloVictories": 1755,
   "duoVictories": 1307,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
@@ -32,9 +32,9 @@
         "id": 0,
         "modeId": 0
       },
-      "bestTimeInSeconds": 212,
-      "difficulty": 5,
-      "difficultyName": "Impossible"
+      "bestTimeInSeconds": 246,
+      "difficulty": 6,
+      "difficultyName": "Impossible II"
     }
   ],
   "club": {
@@ -572,10 +572,10 @@
       "name": "MORTIS",
       "power": 11,
       "rank": 5,
-      "trophies": 1226,
+      "trophies": 1236,
       "highestTrophies": 1237,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 8,
       "skin": {
         "id": 29000173,
@@ -931,14 +931,14 @@
       "name": "PENNY",
       "power": 8,
       "rank": 3,
-      "trophies": 546,
-      "highestTrophies": 546,
+      "trophies": 562,
+      "highestTrophies": 562,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 2,
       "maxWinStreak": 5,
       "skin": {
-        "id": 29000088,
-        "name": "BUNNY PENNY"
+        "id": 29000165,
+        "name": "DARK BUNNY PENNY"
       },
       "gadgets": [
         {
@@ -1118,8 +1118,8 @@
       "name": "LEON",
       "power": 11,
       "rank": 5,
-      "trophies": 1155,
-      "highestTrophies": 1167,
+      "trophies": 1180,
+      "highestTrophies": 1186,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 8,
@@ -1159,7 +1159,7 @@
       "buffies": {
         "gadget": true,
         "starPower": true,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -1322,8 +1322,8 @@
       "currentWinStreak": 1,
       "maxWinStreak": 8,
       "skin": {
-        "id": 29001226,
-        "name": "ASCENDED 8-BIT"
+        "id": 29000849,
+        "name": "PIANO 8-BIT"
       },
       "gadgets": [
         {
@@ -1501,10 +1501,10 @@
       "name": "MR. P",
       "power": 9,
       "rank": 3,
-      "trophies": 663,
-      "highestTrophies": 670,
+      "trophies": 694,
+      "highestTrophies": 694,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 2,
       "maxWinStreak": 8,
       "skin": {
         "id": 29000912,
@@ -1686,8 +1686,8 @@
       "name": "NANI",
       "power": 11,
       "rank": 5,
-      "trophies": 1004,
-      "highestTrophies": 1004,
+      "trophies": 1005,
+      "highestTrophies": 1005,
       "prestigeLevel": 1,
       "currentWinStreak": 4,
       "maxWinStreak": 10,
@@ -2025,8 +2025,8 @@
       "name": "EDGAR",
       "power": 11,
       "rank": 5,
-      "trophies": 1323,
-      "highestTrophies": 1338,
+      "trophies": 1380,
+      "highestTrophies": 1388,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 12,
@@ -2625,10 +2625,10 @@
       "name": "BONNIE",
       "power": 7,
       "rank": 3,
-      "trophies": 519,
-      "highestTrophies": 519,
+      "trophies": 535,
+      "highestTrophies": 535,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 2,
       "maxWinStreak": 5,
       "skin": {
         "id": 29000892,
@@ -2646,7 +2646,12 @@
       ],
       "gears": [],
       "starPowers": [],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23001003,
+          "name": "DAREDEVIL"
+        }
+      ],
       "buffies": {
         "gadget": false,
         "starPower": false,
@@ -2776,8 +2781,8 @@
       "name": "BUSTER",
       "power": 11,
       "rank": 4,
-      "trophies": 923,
-      "highestTrophies": 929,
+      "trophies": 938,
+      "highestTrophies": 942,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 10,
@@ -3670,10 +3675,10 @@
       "name": "BERRY",
       "power": 9,
       "rank": 3,
-      "trophies": 581,
+      "trophies": 579,
       "highestTrophies": 581,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 6,
       "skin": {
         "id": 29001059,
@@ -3717,10 +3722,10 @@
       "name": "CLANCY",
       "power": 9,
       "rank": 3,
-      "trophies": 640,
+      "trophies": 655,
       "highestTrophies": 657,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 5,
       "skin": {
         "id": 29001167,
@@ -4249,7 +4254,7 @@
       "name": "TRUNK",
       "power": 9,
       "rank": 2,
-      "trophies": 478,
+      "trophies": 476,
       "highestTrophies": 478,
       "prestigeLevel": 0,
       "currentWinStreak": 5,
