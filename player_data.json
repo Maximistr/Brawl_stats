@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 93036,
-  "highestTrophies": 93044,
+  "trophies": 93057,
+  "highestTrophies": 93064,
   "totalPrestigeLevel": 67,
   "expLevel": 217,
-  "expPoints": 242327,
+  "expPoints": 242375,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 11372,
+  "3vs3Victories": 11377,
   "soloVictories": 1755,
   "duoVictories": 1307,
   "bestRoboRumbleTime": 12,
@@ -572,10 +572,10 @@
       "name": "MORTIS",
       "power": 11,
       "rank": 5,
-      "trophies": 1236,
-      "highestTrophies": 1237,
+      "trophies": 1252,
+      "highestTrophies": 1259,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 8,
       "skin": {
         "id": 29000173,
@@ -599,6 +599,10 @@
         }
       ],
       "starPowers": [
+        {
+          "id": 23000087,
+          "name": "CREEPY HARVEST"
+        },
         {
           "id": 23000154,
           "name": "COILED SNAKE"
@@ -2781,8 +2785,8 @@
       "name": "BUSTER",
       "power": 11,
       "rank": 4,
-      "trophies": 938,
-      "highestTrophies": 942,
+      "trophies": 943,
+      "highestTrophies": 948,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 10,
