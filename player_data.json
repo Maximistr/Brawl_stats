@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 93057,
+  "trophies": 93063,
   "highestTrophies": 93064,
   "totalPrestigeLevel": 67,
   "expLevel": 217,
-  "expPoints": 242375,
+  "expPoints": 242424,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 11377,
+  "3vs3Victories": 11382,
   "soloVictories": 1755,
   "duoVictories": 1307,
   "bestRoboRumbleTime": 12,
@@ -26,17 +26,6 @@
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
-  "bestBossFightSpeedrunTimes": [
-    {
-      "event": {
-        "id": 0,
-        "modeId": 0
-      },
-      "bestTimeInSeconds": 246,
-      "difficulty": 6,
-      "difficultyName": "Impossible II"
-    }
-  ],
   "club": {
     "tag": "#2PGGYUP22",
     "name": "Druhá Šance"
@@ -1026,10 +1015,10 @@
       "name": "GENE",
       "power": 8,
       "rank": 3,
-      "trophies": 504,
-      "highestTrophies": 504,
+      "trophies": 511,
+      "highestTrophies": 511,
       "prestigeLevel": 0,
-      "currentWinStreak": 2,
+      "currentWinStreak": 3,
       "maxWinStreak": 5,
       "skin": {
         "id": 29001017,
@@ -2375,6 +2364,10 @@
       "gears": [],
       "starPowers": [
         {
+          "id": 23000397,
+          "name": "KEEP THE CHANGE"
+        },
+        {
           "id": 23000398,
           "name": "BUSINESS RESILIENCE"
         }
@@ -2714,10 +2707,10 @@
       "name": "SAM",
       "power": 7,
       "rank": 3,
-      "trophies": 502,
+      "trophies": 501,
       "highestTrophies": 502,
       "prestigeLevel": 0,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 5,
       "skin": {
         "id": 29001098,
