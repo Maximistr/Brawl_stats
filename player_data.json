@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 93063,
-  "highestTrophies": 93064,
+  "trophies": 93176,
+  "highestTrophies": 93182,
   "totalPrestigeLevel": 67,
   "expLevel": 217,
-  "expPoints": 242424,
+  "expPoints": 242606,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 11382,
+  "3vs3Victories": 11393,
   "soloVictories": 1755,
   "duoVictories": 1307,
   "bestRoboRumbleTime": 12,
@@ -653,10 +653,10 @@
       "name": "POCO",
       "power": 11,
       "rank": 5,
-      "trophies": 1122,
-      "highestTrophies": 1122,
+      "trophies": 1133,
+      "highestTrophies": 1133,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 2,
       "maxWinStreak": 8,
       "skin": {
         "id": 29001336,
@@ -1514,7 +1514,12 @@
         }
       ],
       "gears": [],
-      "starPowers": [],
+      "starPowers": [
+        {
+          "id": 23000205,
+          "name": "REVOLVING DOOR"
+        }
+      ],
       "hyperCharges": [
         {
           "id": 23000899,
@@ -4478,7 +4483,7 @@
       "name": "GLOWY",
       "power": 11,
       "rank": 5,
-      "trophies": 1006,
+      "trophies": 1000,
       "highestTrophies": 1011,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
@@ -4635,6 +4640,40 @@
         {
           "id": 23001246,
           "name": "VULGAR DISPLAY OF PUNCH"
+        }
+      ],
+      "hyperCharges": [],
+      "buffies": {
+        "gadget": false,
+        "starPower": false,
+        "hyperCharge": false
+      }
+    },
+    {
+      "id": 16000105,
+      "name": "STARR NOVA",
+      "power": 9,
+      "rank": 1,
+      "trophies": 108,
+      "highestTrophies": 108,
+      "prestigeLevel": 0,
+      "currentWinStreak": 8,
+      "maxWinStreak": 8,
+      "skin": {
+        "id": 29001599,
+        "name": "STARR NOVA"
+      },
+      "gadgets": [
+        {
+          "id": 23001256,
+          "name": "SHINING STARR OF FRIENDSHIP AND JUSTICE"
+        }
+      ],
+      "gears": [],
+      "starPowers": [
+        {
+          "id": 23001253,
+          "name": "POWER LEVEL: MAXIMUM"
         }
       ],
       "hyperCharges": [],
