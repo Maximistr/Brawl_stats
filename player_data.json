@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 93176,
-  "highestTrophies": 93182,
+  "trophies": 93289,
+  "highestTrophies": 93289,
   "totalPrestigeLevel": 67,
   "expLevel": 217,
-  "expPoints": 242606,
+  "expPoints": 242746,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 11393,
+  "3vs3Victories": 11402,
   "soloVictories": 1755,
   "duoVictories": 1307,
   "bestRoboRumbleTime": 12,
@@ -4654,11 +4654,11 @@
       "name": "STARR NOVA",
       "power": 9,
       "rank": 1,
-      "trophies": 108,
-      "highestTrophies": 108,
+      "trophies": 221,
+      "highestTrophies": 221,
       "prestigeLevel": 0,
-      "currentWinStreak": 8,
-      "maxWinStreak": 8,
+      "currentWinStreak": 1,
+      "maxWinStreak": 13,
       "skin": {
         "id": 29001599,
         "name": "STARR NOVA"
