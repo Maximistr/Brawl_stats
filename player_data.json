@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 93289,
-  "highestTrophies": 93289,
+  "trophies": 93303,
+  "highestTrophies": 93303,
   "totalPrestigeLevel": 67,
   "expLevel": 217,
-  "expPoints": 242746,
+  "expPoints": 242902,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 11402,
+  "3vs3Victories": 11413,
   "soloVictories": 1755,
   "duoVictories": 1307,
   "bestRoboRumbleTime": 12,
@@ -26,6 +26,17 @@
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
+  "bestBossFightSpeedrunTimes": [
+    {
+      "event": {
+        "id": 0,
+        "modeId": 0
+      },
+      "bestTimeInSeconds": 190,
+      "difficulty": 8,
+      "difficultyName": "Impossible IV"
+    }
+  ],
   "club": {
     "tag": "#2PGGYUP22",
     "name": "Druhá Šance"
@@ -2783,10 +2794,10 @@
       "name": "BUSTER",
       "power": 11,
       "rank": 4,
-      "trophies": 943,
-      "highestTrophies": 948,
+      "trophies": 966,
+      "highestTrophies": 966,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 2,
       "maxWinStreak": 10,
       "skin": {
         "id": 29000594,
@@ -2826,7 +2837,7 @@
       "name": "CHESTER",
       "power": 11,
       "rank": 5,
-      "trophies": 1604,
+      "trophies": 1595,
       "highestTrophies": 1616,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
@@ -4629,6 +4640,10 @@
         {
           "id": 23001247,
           "name": "SPIRITUAL HEALING"
+        },
+        {
+          "id": 23001248,
+          "name": "WALL OF SOUND"
         }
       ],
       "gears": [],
@@ -4664,6 +4679,10 @@
         "name": "STARR NOVA"
       },
       "gadgets": [
+        {
+          "id": 23001255,
+          "name": "FLOATY TIME"
+        },
         {
           "id": 23001256,
           "name": "SHINING STARR OF FRIENDSHIP AND JUSTICE"
