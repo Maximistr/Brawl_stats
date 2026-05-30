@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 93303,
-  "highestTrophies": 93303,
+  "trophies": 93627,
+  "highestTrophies": 93627,
   "totalPrestigeLevel": 67,
-  "expLevel": 217,
-  "expPoints": 242902,
+  "expLevel": 218,
+  "expPoints": 243298,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 11413,
+  "3vs3Victories": 11443,
   "soloVictories": 1755,
   "duoVictories": 1307,
   "bestRoboRumbleTime": 12,
@@ -32,7 +32,7 @@
         "id": 0,
         "modeId": 0
       },
-      "bestTimeInSeconds": 190,
+      "bestTimeInSeconds": 130,
       "difficulty": 8,
       "difficultyName": "Impossible IV"
     }
@@ -128,7 +128,7 @@
       "buffies": {
         "gadget": true,
         "starPower": false,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -2794,10 +2794,10 @@
       "name": "BUSTER",
       "power": 11,
       "rank": 4,
-      "trophies": 966,
+      "trophies": 962,
       "highestTrophies": 966,
       "prestigeLevel": 0,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 10,
       "skin": {
         "id": 29000594,
@@ -3027,8 +3027,8 @@
       "currentWinStreak": 1,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000703,
-        "name": "SCORPION WILLOW"
+        "id": 29001000,
+        "name": "DEMON WILLOW"
       },
       "gadgets": [
         {
@@ -4668,12 +4668,12 @@
       "id": 16000105,
       "name": "STARR NOVA",
       "power": 9,
-      "rank": 1,
-      "trophies": 221,
-      "highestTrophies": 221,
+      "rank": 3,
+      "trophies": 549,
+      "highestTrophies": 549,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
-      "maxWinStreak": 13,
+      "currentWinStreak": 4,
+      "maxWinStreak": 17,
       "skin": {
         "id": 29001599,
         "name": "STARR NOVA"
