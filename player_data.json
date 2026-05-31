@@ -5,14 +5,14 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 93627,
-  "highestTrophies": 93627,
-  "totalPrestigeLevel": 67,
+  "trophies": 93792,
+  "highestTrophies": 93800,
+  "totalPrestigeLevel": 68,
   "expLevel": 218,
-  "expPoints": 243298,
+  "expPoints": 243569,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 11443,
-  "soloVictories": 1755,
+  "3vs3Victories": 11459,
+  "soloVictories": 1756,
   "duoVictories": 1307,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
@@ -1503,12 +1503,12 @@
     {
       "id": 16000031,
       "name": "MR. P",
-      "power": 9,
-      "rank": 3,
-      "trophies": 694,
-      "highestTrophies": 694,
+      "power": 11,
+      "rank": 4,
+      "trophies": 766,
+      "highestTrophies": 766,
       "prestigeLevel": 0,
-      "currentWinStreak": 2,
+      "currentWinStreak": 1,
       "maxWinStreak": 8,
       "skin": {
         "id": 29000912,
@@ -2034,8 +2034,8 @@
       "name": "EDGAR",
       "power": 11,
       "rank": 5,
-      "trophies": 1380,
-      "highestTrophies": 1388,
+      "trophies": 1382,
+      "highestTrophies": 1390,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 12,
@@ -2267,6 +2267,10 @@
         "name": "BUNNY GROM"
       },
       "gadgets": [
+        {
+          "id": 23000385,
+          "name": "WATCHTOWER"
+        },
         {
           "id": 23000460,
           "name": "RADIO CHECK"
@@ -2793,11 +2797,11 @@
       "id": 16000062,
       "name": "BUSTER",
       "power": 11,
-      "rank": 4,
-      "trophies": 962,
-      "highestTrophies": 966,
-      "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "rank": 5,
+      "trophies": 1008,
+      "highestTrophies": 1008,
+      "prestigeLevel": 1,
+      "currentWinStreak": 4,
       "maxWinStreak": 10,
       "skin": {
         "id": 29000594,
@@ -4669,10 +4673,10 @@
       "name": "STARR NOVA",
       "power": 9,
       "rank": 3,
-      "trophies": 549,
-      "highestTrophies": 549,
+      "trophies": 594,
+      "highestTrophies": 598,
       "prestigeLevel": 0,
-      "currentWinStreak": 4,
+      "currentWinStreak": 0,
       "maxWinStreak": 17,
       "skin": {
         "id": 29001599,
