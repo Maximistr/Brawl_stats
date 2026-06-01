@@ -5,14 +5,14 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 93792,
-  "highestTrophies": 93800,
+  "trophies": 93966,
+  "highestTrophies": 93975,
   "totalPrestigeLevel": 68,
   "expLevel": 218,
-  "expPoints": 243569,
+  "expPoints": 243853,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 11459,
-  "soloVictories": 1756,
+  "3vs3Victories": 11473,
+  "soloVictories": 1759,
   "duoVictories": 1307,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
@@ -26,17 +26,6 @@
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
-  "bestBossFightSpeedrunTimes": [
-    {
-      "event": {
-        "id": 0,
-        "modeId": 0
-      },
-      "bestTimeInSeconds": 130,
-      "difficulty": 8,
-      "difficultyName": "Impossible IV"
-    }
-  ],
   "club": {
     "tag": "#2PGGYUP22",
     "name": "Druhá Šance"
@@ -1128,8 +1117,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 8,
       "skin": {
-        "id": 29000801,
-        "name": "RADIANT MECHA\nLEON"
+        "id": 29000771,
+        "name": "MECHA LEON"
       },
       "gadgets": [
         {
@@ -1505,10 +1494,10 @@
       "name": "MR. P",
       "power": 11,
       "rank": 4,
-      "trophies": 766,
-      "highestTrophies": 766,
+      "trophies": 853,
+      "highestTrophies": 861,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 8,
       "skin": {
         "id": 29000912,
@@ -2841,8 +2830,8 @@
       "name": "CHESTER",
       "power": 11,
       "rank": 5,
-      "trophies": 1595,
-      "highestTrophies": 1616,
+      "trophies": 1610,
+      "highestTrophies": 1619,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 12,
@@ -2945,6 +2934,10 @@
         "name": "WITCH MANDY"
       },
       "gadgets": [
+        {
+          "id": 23000545,
+          "name": "CARAMELIZE"
+        },
         {
           "id": 23000546,
           "name": "COOKIE CRUMBS"
@@ -3491,8 +3484,8 @@
       "currentWinStreak": 1,
       "maxWinStreak": 10,
       "skin": {
-        "id": 29000903,
-        "name": "HARPY MELODIE"
+        "id": 29000773,
+        "name": "MELODIE"
       },
       "gadgets": [
         {
@@ -3937,10 +3930,10 @@
       "name": "JUJU",
       "power": 9,
       "rank": 4,
-      "trophies": 759,
-      "highestTrophies": 762,
+      "trophies": 781,
+      "highestTrophies": 781,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 2,
       "maxWinStreak": 22,
       "skin": {
         "id": 29001104,
@@ -4673,10 +4666,10 @@
       "name": "STARR NOVA",
       "power": 9,
       "rank": 3,
-      "trophies": 594,
-      "highestTrophies": 598,
+      "trophies": 644,
+      "highestTrophies": 644,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 4,
       "maxWinStreak": 17,
       "skin": {
         "id": 29001599,
