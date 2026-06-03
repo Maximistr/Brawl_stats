@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 94152,
-  "highestTrophies": 94152,
+  "trophies": 94196,
+  "highestTrophies": 94200,
   "totalPrestigeLevel": 68,
   "expLevel": 218,
-  "expPoints": 244061,
+  "expPoints": 244263,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 11491,
+  "3vs3Victories": 11508,
   "soloVictories": 1759,
   "duoVictories": 1307,
   "bestRoboRumbleTime": 12,
@@ -26,6 +26,17 @@
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
+  "bestBossFightSpeedrunTimes": [
+    {
+      "event": {
+        "id": 0,
+        "modeId": 0
+      },
+      "bestTimeInSeconds": 119,
+      "difficulty": 10,
+      "difficultyName": "Impossible VI"
+    }
+  ],
   "club": {
     "tag": "#2PGGYUP22",
     "name": "Druhá Šance"
@@ -721,8 +732,8 @@
       "currentWinStreak": 4,
       "maxWinStreak": 4,
       "skin": {
-        "id": 29000094,
-        "name": "MECHA BO"
+        "id": 29001049,
+        "name": "CUPID BO"
       },
       "gadgets": [
         {
@@ -1498,10 +1509,10 @@
       "name": "MR. P",
       "power": 11,
       "rank": 4,
-      "trophies": 967,
-      "highestTrophies": 967,
+      "trophies": 990,
+      "highestTrophies": 994,
       "prestigeLevel": 0,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 8,
       "skin": {
         "id": 29000912,
@@ -2355,8 +2366,8 @@
       "name": "GRIFF",
       "power": 11,
       "rank": 5,
-      "trophies": 1005,
-      "highestTrophies": 1010,
+      "trophies": 1026,
+      "highestTrophies": 1031,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 6,
@@ -3287,6 +3298,10 @@
         "name": "ELECTROID CHUCK"
       },
       "gadgets": [
+        {
+          "id": 23000611,
+          "name": "REROUTING"
+        },
         {
           "id": 23000612,
           "name": "GHOST TRAIN"
