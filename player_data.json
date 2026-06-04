@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 94196,
-  "highestTrophies": 94200,
-  "totalPrestigeLevel": 68,
+  "trophies": 94816,
+  "highestTrophies": 94816,
+  "totalPrestigeLevel": 69,
   "expLevel": 218,
-  "expPoints": 244263,
+  "expPoints": 245050,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 11508,
+  "3vs3Victories": 11561,
   "soloVictories": 1759,
   "duoVictories": 1307,
   "bestRoboRumbleTime": 12,
@@ -26,17 +26,6 @@
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
-  "bestBossFightSpeedrunTimes": [
-    {
-      "event": {
-        "id": 0,
-        "modeId": 0
-      },
-      "bestTimeInSeconds": 119,
-      "difficulty": 10,
-      "difficultyName": "Impossible VI"
-    }
-  ],
   "club": {
     "tag": "#2PGGYUP22",
     "name": "Druhá Šance"
@@ -668,10 +657,10 @@
       "name": "POCO",
       "power": 11,
       "rank": 5,
-      "trophies": 1133,
+      "trophies": 1127,
       "highestTrophies": 1133,
       "prestigeLevel": 1,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 8,
       "skin": {
         "id": 29001336,
@@ -1030,10 +1019,10 @@
       "name": "GENE",
       "power": 8,
       "rank": 3,
-      "trophies": 511,
+      "trophies": 507,
       "highestTrophies": 511,
       "prestigeLevel": 0,
-      "currentWinStreak": 3,
+      "currentWinStreak": 0,
       "maxWinStreak": 5,
       "skin": {
         "id": 29001017,
@@ -1126,10 +1115,10 @@
       "name": "LEON",
       "power": 11,
       "rank": 5,
-      "trophies": 1201,
-      "highestTrophies": 1201,
+      "trophies": 1209,
+      "highestTrophies": 1216,
       "prestigeLevel": 1,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 8,
       "skin": {
         "id": 29000771,
@@ -1508,11 +1497,11 @@
       "id": 16000031,
       "name": "MR. P",
       "power": 11,
-      "rank": 4,
-      "trophies": 990,
-      "highestTrophies": 994,
-      "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "rank": 5,
+      "trophies": 1007,
+      "highestTrophies": 1007,
+      "prestigeLevel": 1,
+      "currentWinStreak": 2,
       "maxWinStreak": 8,
       "skin": {
         "id": 29000912,
@@ -1599,11 +1588,11 @@
       "name": "JACKY",
       "power": 11,
       "rank": 5,
-      "trophies": 1009,
-      "highestTrophies": 1009,
+      "trophies": 1126,
+      "highestTrophies": 1126,
       "prestigeLevel": 1,
-      "currentWinStreak": 8,
-      "maxWinStreak": 9,
+      "currentWinStreak": 14,
+      "maxWinStreak": 14,
       "skin": {
         "id": 29000916,
         "name": "CUTTLEFISH JACKY"
@@ -1789,14 +1778,14 @@
       "name": "SURGE",
       "power": 11,
       "rank": 5,
-      "trophies": 1040,
-      "highestTrophies": 1040,
+      "trophies": 1072,
+      "highestTrophies": 1072,
       "prestigeLevel": 1,
-      "currentWinStreak": 2,
+      "currentWinStreak": 5,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000416,
-        "name": "SURGE KONG"
+        "id": 29000783,
+        "name": "SURGENIE"
       },
       "gadgets": [
         {
@@ -1848,8 +1837,8 @@
       "currentWinStreak": 2,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000762,
-        "name": "MIDORI PAWLETTE"
+        "id": 29001008,
+        "name": "IMPIE COLETTE"
       },
       "gadgets": [
         {
@@ -1983,7 +1972,7 @@
     {
       "id": 16000042,
       "name": "BYRON",
-      "power": 9,
+      "power": 11,
       "rank": 5,
       "trophies": 1088,
       "highestTrophies": 1098,
@@ -2038,7 +2027,7 @@
       "name": "EDGAR",
       "power": 11,
       "rank": 5,
-      "trophies": 1382,
+      "trophies": 1374,
       "highestTrophies": 1390,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
@@ -3204,13 +3193,13 @@
     {
       "id": 16000071,
       "name": "DOUG",
-      "power": 9,
+      "power": 11,
       "rank": 5,
-      "trophies": 1014,
-      "highestTrophies": 1024,
+      "trophies": 1363,
+      "highestTrophies": 1371,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
-      "maxWinStreak": 10,
+      "maxWinStreak": 11,
       "skin": {
         "id": 29001221,
         "name": "KNIGHT DOUG"
@@ -4178,10 +4167,10 @@
       "name": "KAZE",
       "power": 11,
       "rank": 5,
-      "trophies": 1237,
-      "highestTrophies": 1244,
+      "trophies": 1352,
+      "highestTrophies": 1352,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 3,
       "maxWinStreak": 16,
       "skin": {
         "id": 29001208,
