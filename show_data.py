@@ -86,10 +86,12 @@ with col2:
     st.plotly_chart(elo_line,width="stretch")
 
 with col3:
+    
+    st.write(f"### Total Brawlers: {len(brawlers)}, ")
     st.write("### Gadgets, Star Powers and Hypers")
     st.write("###")
     with st.container():
-        st.set_page_config(layout="wide")
+        
         img_col, text_col = st.columns([1, 2])
         with img_col:
             st.image("Images/gadget.webp", width=100)
