@@ -4,10 +4,11 @@ import re
 from email.header import decode_header
 from playwright.sync_api import sync_playwright
 import time
+import os
 
 imap_server, port = "imap.gmail.com", 993
 email_address = "maximistr100@gmail.com"
-password = "gwih vzow qpqy tnvq"
+password =  os.getenv('EMAIL_CODE')
 verification_code = None
 
 with sync_playwright() as p:

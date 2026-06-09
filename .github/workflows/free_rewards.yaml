@@ -1,0 +1,27 @@
+name: Free Rewards Automation
+
+on:
+  schedule:
+    - cron: '0 10 * * *' # Runs daily at 10:00 UTC
+  workflow_dispatch:   # Manual trigger button
+
+jobs:
+  free-rewards:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.14'
+
+      - name: Install dependencies
+        run: |
+          pip install playwright python-dotenv
+
+      - name: Run Free Rewards Script
+        env:
+          EMAIL_CODE: ${{ secrets.EMAIL_CODE }}
+        run: python free_rewards.py
