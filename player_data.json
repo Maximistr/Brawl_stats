@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 96257,
-  "highestTrophies": 96260,
+  "trophies": 96277,
+  "highestTrophies": 96280,
   "totalPrestigeLevel": 69,
   "expLevel": 219,
-  "expPoints": 247244,
+  "expPoints": 247276,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 11706,
+  "3vs3Victories": 11708,
   "soloVictories": 1764,
   "duoVictories": 1311,
   "bestRoboRumbleTime": 12,
@@ -1759,6 +1759,10 @@
         {
           "id": 23000240,
           "name": "OVERGROWTH"
+        },
+        {
+          "id": 23000241,
+          "name": "PHOTOSYNTHESIS"
         }
       ],
       "hyperCharges": [
@@ -2165,7 +2169,7 @@
       "name": "BELLE",
       "power": 7,
       "rank": 3,
-      "trophies": 597,
+      "trophies": 595,
       "highestTrophies": 600,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
@@ -2791,10 +2795,10 @@
       "name": "BUSTER",
       "power": 11,
       "rank": 5,
-      "trophies": 1008,
-      "highestTrophies": 1008,
+      "trophies": 1019,
+      "highestTrophies": 1022,
       "prestigeLevel": 1,
-      "currentWinStreak": 4,
+      "currentWinStreak": 0,
       "maxWinStreak": 10,
       "skin": {
         "id": 29000594,
@@ -3195,10 +3199,10 @@
       "name": "DOUG",
       "power": 11,
       "rank": 5,
-      "trophies": 1727,
-      "highestTrophies": 1727,
+      "trophies": 1738,
+      "highestTrophies": 1738,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 2,
       "maxWinStreak": 11,
       "skin": {
         "id": 29001221,
