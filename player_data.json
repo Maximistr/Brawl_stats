@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 96277,
-  "highestTrophies": 96280,
+  "trophies": 96622,
+  "highestTrophies": 96646,
   "totalPrestigeLevel": 69,
-  "expLevel": 219,
-  "expPoints": 247276,
+  "expLevel": 220,
+  "expPoints": 247886,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 11708,
+  "3vs3Victories": 11746,
   "soloVictories": 1764,
   "duoVictories": 1311,
   "bestRoboRumbleTime": 12,
@@ -514,10 +514,10 @@
       "name": "EL PRIMO",
       "power": 11,
       "rank": 5,
-      "trophies": 1009,
-      "highestTrophies": 1009,
+      "trophies": 1029,
+      "highestTrophies": 1029,
       "prestigeLevel": 1,
-      "currentWinStreak": 5,
+      "currentWinStreak": 6,
       "maxWinStreak": 7,
       "skin": {
         "id": 29000030,
@@ -561,8 +561,8 @@
       "name": "MORTIS",
       "power": 11,
       "rank": 5,
-      "trophies": 1301,
-      "highestTrophies": 1325,
+      "trophies": 1367,
+      "highestTrophies": 1383,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 8,
@@ -1115,14 +1115,14 @@
       "name": "LEON",
       "power": 11,
       "rank": 5,
-      "trophies": 1228,
-      "highestTrophies": 1242,
+      "trophies": 1286,
+      "highestTrophies": 1293,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 8,
       "skin": {
-        "id": 29000801,
-        "name": "RADIANT MECHA\nLEON"
+        "id": 29000771,
+        "name": "MECHA LEON"
       },
       "gadgets": [
         {
@@ -1142,6 +1142,10 @@
         }
       ],
       "starPowers": [
+        {
+          "id": 23000119,
+          "name": "SMOKE TRAILS"
+        },
         {
           "id": 23000141,
           "name": "INVISIHEAL"
@@ -1456,8 +1460,8 @@
       "name": "EMZ",
       "power": 9,
       "rank": 4,
-      "trophies": 918,
-      "highestTrophies": 922,
+      "trophies": 981,
+      "highestTrophies": 989,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 5,
@@ -2122,10 +2126,10 @@
       "name": "STU",
       "power": 11,
       "rank": 5,
-      "trophies": 1111,
-      "highestTrophies": 1117,
+      "trophies": 1157,
+      "highestTrophies": 1157,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 4,
       "maxWinStreak": 11,
       "skin": {
         "id": 29000741,
@@ -2207,10 +2211,10 @@
       "name": "SQUEAK",
       "power": 11,
       "rank": 5,
-      "trophies": 1016,
-      "highestTrophies": 1016,
+      "trophies": 1067,
+      "highestTrophies": 1077,
       "prestigeLevel": 1,
-      "currentWinStreak": 7,
+      "currentWinStreak": 0,
       "maxWinStreak": 19,
       "skin": {
         "id": 29000569,
@@ -2301,10 +2305,10 @@
       "name": "BUZZ",
       "power": 11,
       "rank": 5,
-      "trophies": 1010,
-      "highestTrophies": 1032,
+      "trophies": 1033,
+      "highestTrophies": 1038,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
         "id": 29000343,
@@ -2838,7 +2842,7 @@
       "name": "CHESTER",
       "power": 11,
       "rank": 5,
-      "trophies": 1637,
+      "trophies": 1629,
       "highestTrophies": 1646,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
@@ -3199,10 +3203,10 @@
       "name": "DOUG",
       "power": 11,
       "rank": 5,
-      "trophies": 1738,
-      "highestTrophies": 1738,
+      "trophies": 1744,
+      "highestTrophies": 1750,
       "prestigeLevel": 1,
-      "currentWinStreak": 2,
+      "currentWinStreak": 3,
       "maxWinStreak": 11,
       "skin": {
         "id": 29001221,
@@ -3906,6 +3910,10 @@
         {
           "id": 23000834,
           "name": "LONGARMS"
+        },
+        {
+          "id": 23000835,
+          "name": "JUMP SCARE"
         }
       ],
       "gears": [
@@ -4323,8 +4331,8 @@
       "name": "MINA",
       "power": 11,
       "rank": 5,
-      "trophies": 1115,
-      "highestTrophies": 1121,
+      "trophies": 1135,
+      "highestTrophies": 1141,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 9,
