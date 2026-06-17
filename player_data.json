@@ -5,11 +5,11 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 98153,
+  "trophies": 98147,
   "highestTrophies": 98153,
   "totalPrestigeLevel": 72,
   "expLevel": 221,
-  "expPoints": 250159,
+  "expPoints": 250167,
   "isQualifiedFromChampionshipChallenge": false,
   "3vs3Victories": 11907,
   "soloVictories": 1764,
@@ -4017,10 +4017,10 @@
       "name": "MEEPLE",
       "power": 7,
       "rank": 4,
-      "trophies": 763,
+      "trophies": 757,
       "highestTrophies": 763,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
         "id": 29001106,
