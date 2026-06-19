@@ -5,14 +5,14 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 98289,
-  "highestTrophies": 98297,
-  "totalPrestigeLevel": 72,
+  "trophies": 98790,
+  "highestTrophies": 98795,
+  "totalPrestigeLevel": 74,
   "expLevel": 221,
-  "expPoints": 250629,
+  "expPoints": 251224,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 11936,
-  "soloVictories": 1764,
+  "3vs3Victories": 11966,
+  "soloVictories": 1771,
   "duoVictories": 1312,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
@@ -514,10 +514,10 @@
       "name": "EL PRIMO",
       "power": 11,
       "rank": 5,
-      "trophies": 1045,
-      "highestTrophies": 1045,
+      "trophies": 1071,
+      "highestTrophies": 1076,
       "prestigeLevel": 1,
-      "currentWinStreak": 7,
+      "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
         "id": 29001603,
@@ -926,16 +926,16 @@
     {
       "id": 16000019,
       "name": "PENNY",
-      "power": 9,
-      "rank": 3,
-      "trophies": 572,
-      "highestTrophies": 574,
+      "power": 11,
+      "rank": 4,
+      "trophies": 786,
+      "highestTrophies": 789,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 5,
       "skin": {
-        "id": 29000088,
-        "name": "BUNNY PENNY"
+        "id": 29000165,
+        "name": "DARK BUNNY PENNY"
       },
       "gadgets": [
         {
@@ -948,7 +948,12 @@
         }
       ],
       "gears": [],
-      "starPowers": [],
+      "starPowers": [
+        {
+          "id": 23000099,
+          "name": "HEAVY COFFERS"
+        }
+      ],
       "hyperCharges": [
         {
           "id": 23000861,
@@ -3222,10 +3227,10 @@
       "name": "DOUG",
       "power": 11,
       "rank": 5,
-      "trophies": 1744,
-      "highestTrophies": 1750,
+      "trophies": 1755,
+      "highestTrophies": 1755,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 2,
       "maxWinStreak": 11,
       "skin": {
         "id": 29001221,
@@ -4405,11 +4410,11 @@
       "id": 16000098,
       "name": "ZIGGY",
       "power": 9,
-      "rank": 4,
-      "trophies": 952,
-      "highestTrophies": 960,
-      "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "rank": 5,
+      "trophies": 1010,
+      "highestTrophies": 1010,
+      "prestigeLevel": 1,
+      "currentWinStreak": 5,
       "maxWinStreak": 10,
       "skin": {
         "id": 29001321,
@@ -4721,11 +4726,11 @@
       "id": 16000105,
       "name": "STARR NOVA",
       "power": 9,
-      "rank": 4,
-      "trophies": 809,
-      "highestTrophies": 809,
-      "prestigeLevel": 0,
-      "currentWinStreak": 2,
+      "rank": 5,
+      "trophies": 1001,
+      "highestTrophies": 1001,
+      "prestigeLevel": 1,
+      "currentWinStreak": 8,
       "maxWinStreak": 17,
       "skin": {
         "id": 29001599,
