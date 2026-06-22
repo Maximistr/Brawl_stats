@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 98808,
-  "highestTrophies": 98808,
-  "totalPrestigeLevel": 74,
+  "trophies": 99225,
+  "highestTrophies": 99227,
+  "totalPrestigeLevel": 76,
   "expLevel": 221,
-  "expPoints": 251240,
+  "expPoints": 251844,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 11968,
+  "3vs3Victories": 12008,
   "soloVictories": 1771,
   "duoVictories": 1312,
   "bestRoboRumbleTime": 12,
@@ -74,7 +74,7 @@
       ],
       "buffies": {
         "gadget": true,
-        "starPower": false,
+        "starPower": true,
         "hyperCharge": true
       }
     },
@@ -927,12 +927,12 @@
       "id": 16000019,
       "name": "PENNY",
       "power": 11,
-      "rank": 4,
-      "trophies": 786,
-      "highestTrophies": 789,
-      "prestigeLevel": 0,
-      "currentWinStreak": 0,
-      "maxWinStreak": 5,
+      "rank": 5,
+      "trophies": 1011,
+      "highestTrophies": 1011,
+      "prestigeLevel": 1,
+      "currentWinStreak": 9,
+      "maxWinStreak": 9,
       "skin": {
         "id": 29000165,
         "name": "DARK BUNNY PENNY"
@@ -1224,12 +1224,12 @@
     {
       "id": 16000025,
       "name": "CARL",
-      "power": 8,
+      "power": 11,
       "rank": 4,
-      "trophies": 787,
-      "highestTrophies": 787,
+      "trophies": 829,
+      "highestTrophies": 831,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 5,
       "skin": {
         "id": 29000308,
@@ -1246,7 +1246,12 @@
         }
       ],
       "gears": [],
-      "starPowers": [],
+      "starPowers": [
+        {
+          "id": 23000145,
+          "name": "PROTECTIVE PIROUETTE"
+        }
+      ],
       "hyperCharges": [
         {
           "id": 23000910,
@@ -1747,10 +1752,10 @@
       "id": 16000037,
       "name": "SPROUT",
       "power": 9,
-      "rank": 4,
-      "trophies": 943,
-      "highestTrophies": 947,
-      "prestigeLevel": 0,
+      "rank": 5,
+      "trophies": 1003,
+      "highestTrophies": 1008,
+      "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 6,
       "skin": {
@@ -1969,6 +1974,10 @@
       ],
       "gears": [],
       "starPowers": [
+        {
+          "id": 23000324,
+          "name": "SUPERCOOL"
+        },
         {
           "id": 23000325,
           "name": "HYPOTHERMIA"
@@ -2372,10 +2381,10 @@
       "name": "GRIFF",
       "power": 11,
       "rank": 5,
-      "trophies": 1026,
-      "highestTrophies": 1031,
+      "trophies": 1116,
+      "highestTrophies": 1116,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 3,
       "maxWinStreak": 6,
       "skin": {
         "id": 29000453,
@@ -2584,6 +2593,10 @@
         {
           "id": 23000454,
           "name": "GOTTA GO!"
+        },
+        {
+          "id": 23000455,
+          "name": "MOTHERLY LOVE"
         }
       ],
       "gears": [
@@ -2833,6 +2846,10 @@
         "name": "CHAINSAW BUSTER"
       },
       "gadgets": [
+        {
+          "id": 23000521,
+          "name": "UTILITY BELT"
+        },
         {
           "id": 23000522,
           "name": "SLO-MO REPLAY"
@@ -3197,6 +3214,10 @@
         {
           "id": 23000587,
           "name": "REPLANTING"
+        },
+        {
+          "id": 23000588,
+          "name": "POISON MUSHROOM"
         }
       ],
       "gears": [],
@@ -3533,6 +3554,10 @@
         "name": "HARPY MELODIE"
       },
       "gadgets": [
+        {
+          "id": 23000669,
+          "name": "PERFECT PITCH"
+        },
         {
           "id": 23000670,
           "name": "INTERLUDE"
@@ -4751,6 +4776,10 @@
         {
           "id": 23001253,
           "name": "POWER LEVEL: MAXIMUM"
+        },
+        {
+          "id": 23001254,
+          "name": "MYSTICAL STARR TECHNIQUE"
         }
       ],
       "hyperCharges": [],
