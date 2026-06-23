@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 99225,
-  "highestTrophies": 99227,
+  "trophies": 99617,
+  "highestTrophies": 99622,
   "totalPrestigeLevel": 76,
-  "expLevel": 221,
-  "expPoints": 251844,
+  "expLevel": 222,
+  "expPoints": 252501,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12008,
+  "3vs3Victories": 12048,
   "soloVictories": 1771,
   "duoVictories": 1312,
   "bestRoboRumbleTime": 12,
@@ -753,10 +753,10 @@
       "name": "PIPER",
       "power": 11,
       "rank": 5,
-      "trophies": 1073,
-      "highestTrophies": 1078,
+      "trophies": 1109,
+      "highestTrophies": 1109,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 11,
       "skin": {
         "id": 29001164,
@@ -952,6 +952,10 @@
         {
           "id": 23000099,
           "name": "HEAVY COFFERS"
+        },
+        {
+          "id": 23000142,
+          "name": "MASTER BLASTER"
         }
       ],
       "hyperCharges": [
@@ -1226,10 +1230,10 @@
       "name": "CARL",
       "power": 11,
       "rank": 4,
-      "trophies": 829,
-      "highestTrophies": 831,
+      "trophies": 995,
+      "highestTrophies": 995,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 5,
       "skin": {
         "id": 29000308,
@@ -2053,7 +2057,7 @@
       "name": "EDGAR",
       "power": 11,
       "rank": 5,
-      "trophies": 1398,
+      "trophies": 1393,
       "highestTrophies": 1408,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
@@ -2381,11 +2385,11 @@
       "name": "GRIFF",
       "power": 11,
       "rank": 5,
-      "trophies": 1116,
-      "highestTrophies": 1116,
+      "trophies": 1323,
+      "highestTrophies": 1347,
       "prestigeLevel": 1,
-      "currentWinStreak": 3,
-      "maxWinStreak": 6,
+      "currentWinStreak": 0,
+      "maxWinStreak": 9,
       "skin": {
         "id": 29000453,
         "name": "SLEIGHER GRIFF"
@@ -2803,10 +2807,10 @@
       "name": "GUS",
       "power": 8,
       "rank": 4,
-      "trophies": 807,
+      "trophies": 803,
       "highestTrophies": 807,
       "prestigeLevel": 0,
-      "currentWinStreak": 3,
+      "currentWinStreak": 0,
       "maxWinStreak": 6,
       "skin": {
         "id": 29001231,
@@ -3802,10 +3806,10 @@
       "name": "CLANCY",
       "power": 9,
       "rank": 3,
-      "trophies": 673,
+      "trophies": 670,
       "highestTrophies": 673,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 5,
       "skin": {
         "id": 29001167,
@@ -4573,7 +4577,7 @@
       "name": "GLOWY",
       "power": 11,
       "rank": 5,
-      "trophies": 1021,
+      "trophies": 1016,
       "highestTrophies": 1026,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
