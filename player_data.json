@@ -9,9 +9,9 @@
   "highestTrophies": 99644,
   "totalPrestigeLevel": 76,
   "expLevel": 222,
-  "expPoints": 252653,
+  "expPoints": 252689,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12058,
+  "3vs3Victories": 12060,
   "soloVictories": 1771,
   "duoVictories": 1312,
   "bestRoboRumbleTime": 12,
@@ -19,10 +19,10 @@
   "rankedSeasonId": 46,
   "rankedRank": 11,
   "rankedRankName": "DIAMOND II",
-  "rankedElo": 3518,
+  "rankedElo": 3715,
   "highestSeasonRankedRank": 11,
   "highestSeasonRankedRankName": "DIAMOND II",
-  "highestSeasonRankedElo": 3518,
+  "highestSeasonRankedElo": 3715,
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
@@ -2427,7 +2427,7 @@
       ],
       "buffies": {
         "gadget": false,
-        "starPower": false,
+        "starPower": true,
         "hyperCharge": true
       }
     },
