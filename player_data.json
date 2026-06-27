@@ -9,20 +9,20 @@
   "highestTrophies": 99644,
   "totalPrestigeLevel": 76,
   "expLevel": 222,
-  "expPoints": 252689,
+  "expPoints": 252897,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12060,
+  "3vs3Victories": 12072,
   "soloVictories": 1771,
   "duoVictories": 1312,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
   "rankedSeasonId": 46,
-  "rankedRank": 11,
-  "rankedRankName": "DIAMOND II",
-  "rankedElo": 3715,
-  "highestSeasonRankedRank": 11,
-  "highestSeasonRankedRankName": "DIAMOND II",
-  "highestSeasonRankedElo": 3715,
+  "rankedRank": 12,
+  "rankedRankName": "DIAMOND III",
+  "rankedElo": 4218,
+  "highestSeasonRankedRank": 12,
+  "highestSeasonRankedRankName": "DIAMOND III",
+  "highestSeasonRankedElo": 4305,
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
@@ -178,8 +178,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000837,
-        "name": "SUPER RANGER BROCK RED"
+        "id": 29000840,
+        "name": "SUPER RANGER BROCK PINK"
       },
       "gadgets": [
         {
@@ -743,7 +743,7 @@
         }
       ],
       "buffies": {
-        "gadget": false,
+        "gadget": true,
         "starPower": false,
         "hyperCharge": true
       }
