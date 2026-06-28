@@ -9,9 +9,9 @@
   "highestTrophies": 99644,
   "totalPrestigeLevel": 76,
   "expLevel": 222,
-  "expPoints": 252897,
+  "expPoints": 252961,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12072,
+  "3vs3Victories": 12076,
   "soloVictories": 1771,
   "duoVictories": 1312,
   "bestRoboRumbleTime": 12,
@@ -19,7 +19,7 @@
   "rankedSeasonId": 46,
   "rankedRank": 12,
   "rankedRankName": "DIAMOND III",
-  "rankedElo": 4218,
+  "rankedElo": 4174,
   "highestSeasonRankedRank": 12,
   "highestSeasonRankedRankName": "DIAMOND III",
   "highestSeasonRankedElo": 4305,
@@ -178,8 +178,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000840,
-        "name": "SUPER RANGER BROCK PINK"
+        "id": 29000839,
+        "name": "SUPER RANGER BROCK YELLOW"
       },
       "gadgets": [
         {
@@ -1899,7 +1899,7 @@
       ],
       "buffies": {
         "gadget": false,
-        "starPower": false,
+        "starPower": true,
         "hyperCharge": true
       }
     },
@@ -4516,7 +4516,12 @@
           "name": "SLIP 'N SNIPE"
         }
       ],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23001220,
+          "name": "SECOND WAVE"
+        }
+      ],
       "buffies": {
         "gadget": false,
         "starPower": false,
