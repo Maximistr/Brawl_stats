@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 99644,
-  "highestTrophies": 99644,
+  "trophies": 99659,
+  "highestTrophies": 99665,
   "totalPrestigeLevel": 76,
   "expLevel": 222,
-  "expPoints": 252961,
+  "expPoints": 253057,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12076,
+  "3vs3Victories": 12083,
   "soloVictories": 1771,
   "duoVictories": 1312,
   "bestRoboRumbleTime": 12,
@@ -473,8 +473,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 10,
       "skin": {
-        "id": 29000395,
-        "name": "MOLDY MIKE"
+        "id": 29001050,
+        "name": "ROMANTIC DYNAMIKE"
       },
       "gadgets": [
         {
@@ -2891,10 +2891,10 @@
       "name": "CHESTER",
       "power": 11,
       "rank": 5,
-      "trophies": 1644,
-      "highestTrophies": 1646,
+      "trophies": 1659,
+      "highestTrophies": 1665,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 3,
       "maxWinStreak": 12,
       "skin": {
         "id": 29001133,
@@ -3089,6 +3089,10 @@
         "name": "DEMON WILLOW"
       },
       "gadgets": [
+        {
+          "id": 23000563,
+          "name": "SPELLBOUND"
+        },
         {
           "id": 23000564,
           "name": "DIVE"
