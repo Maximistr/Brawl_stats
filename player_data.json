@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 99659,
-  "highestTrophies": 99665,
+  "trophies": 99691,
+  "highestTrophies": 99691,
   "totalPrestigeLevel": 76,
   "expLevel": 222,
-  "expPoints": 253057,
+  "expPoints": 253295,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12083,
+  "3vs3Victories": 12099,
   "soloVictories": 1771,
   "duoVictories": 1312,
   "bestRoboRumbleTime": 12,
@@ -178,8 +178,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000839,
-        "name": "SUPER RANGER BROCK YELLOW"
+        "id": 29000841,
+        "name": "SUPER RANGER BROCK BLACK"
       },
       "gadgets": [
         {
@@ -195,11 +195,6 @@
         {
           "id": 62000002,
           "name": "DAMAGE",
-          "level": 3
-        },
-        {
-          "id": 62000005,
-          "name": "RELOAD SPEED",
           "level": 3
         }
       ],
@@ -253,11 +248,6 @@
         {
           "id": 62000002,
           "name": "DAMAGE",
-          "level": 3
-        },
-        {
-          "id": 62000005,
-          "name": "RELOAD SPEED",
           "level": 3
         }
       ],
@@ -1814,8 +1804,8 @@
       "currentWinStreak": 5,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000783,
-        "name": "SURGENIE"
+        "id": 29000416,
+        "name": "SURGE KONG"
       },
       "gadgets": [
         {
@@ -1853,7 +1843,7 @@
       "buffies": {
         "gadget": false,
         "starPower": false,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -2891,10 +2881,10 @@
       "name": "CHESTER",
       "power": 11,
       "rank": 5,
-      "trophies": 1659,
-      "highestTrophies": 1665,
+      "trophies": 1691,
+      "highestTrophies": 1691,
       "prestigeLevel": 1,
-      "currentWinStreak": 3,
+      "currentWinStreak": 1,
       "maxWinStreak": 12,
       "skin": {
         "id": 29001133,
@@ -4799,6 +4789,30 @@
           "name": "MYSTICAL STARR TECHNIQUE"
         }
       ],
+      "hyperCharges": [],
+      "buffies": {
+        "gadget": false,
+        "starPower": false,
+        "hyperCharge": false
+      }
+    },
+    {
+      "id": 16000106,
+      "name": "BOLT",
+      "power": 6,
+      "rank": 1,
+      "trophies": 0,
+      "highestTrophies": 0,
+      "prestigeLevel": 0,
+      "currentWinStreak": 0,
+      "maxWinStreak": 0,
+      "skin": {
+        "id": 29001620,
+        "name": "BOLT"
+      },
+      "gadgets": [],
+      "gears": [],
+      "starPowers": [],
       "hyperCharges": [],
       "buffies": {
         "gadget": false,
