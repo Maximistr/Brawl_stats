@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 99765,
-  "highestTrophies": 99765,
+  "trophies": 99804,
+  "highestTrophies": 99827,
   "totalPrestigeLevel": 76,
   "expLevel": 222,
-  "expPoints": 253379,
+  "expPoints": 253453,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12107,
+  "3vs3Victories": 12113,
   "soloVictories": 1771,
   "duoVictories": 1312,
   "bestRoboRumbleTime": 12,
@@ -2492,7 +2492,7 @@
         }
       ],
       "buffies": {
-        "gadget": false,
+        "gadget": true,
         "starPower": false,
         "hyperCharge": false
       }
@@ -2881,10 +2881,10 @@
       "name": "CHESTER",
       "power": 11,
       "rank": 5,
-      "trophies": 1765,
-      "highestTrophies": 1765,
+      "trophies": 1804,
+      "highestTrophies": 1827,
       "prestigeLevel": 1,
-      "currentWinStreak": 4,
+      "currentWinStreak": 0,
       "maxWinStreak": 12,
       "skin": {
         "id": 29001133,
