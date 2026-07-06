@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 99804,
-  "highestTrophies": 99827,
+  "trophies": 99840,
+  "highestTrophies": 99852,
   "totalPrestigeLevel": 76,
   "expLevel": 222,
-  "expPoints": 253453,
+  "expPoints": 253784,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12113,
+  "3vs3Victories": 12131,
   "soloVictories": 1771,
   "duoVictories": 1312,
   "bestRoboRumbleTime": 12,
@@ -829,8 +829,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000509,
-        "name": "TEMPEST TARA"
+        "id": 29000282,
+        "name": "MISFORTUNE TARA"
       },
       "gadgets": [
         {
@@ -1062,8 +1062,8 @@
       "currentWinStreak": 1,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000243,
-        "name": "SNOWMAN TICK"
+        "id": 29001671,
+        "name": "TICKOYAKI"
       },
       "gadgets": [
         {
@@ -2881,8 +2881,8 @@
       "name": "CHESTER",
       "power": 11,
       "rank": 5,
-      "trophies": 1804,
-      "highestTrophies": 1827,
+      "trophies": 1840,
+      "highestTrophies": 1852,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 12,
@@ -4799,7 +4799,7 @@
     {
       "id": 16000106,
       "name": "BOLT",
-      "power": 6,
+      "power": 9,
       "rank": 1,
       "trophies": 0,
       "highestTrophies": 0,
