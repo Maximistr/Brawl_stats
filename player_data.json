@@ -5,14 +5,14 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 99914,
-  "highestTrophies": 99926,
-  "totalPrestigeLevel": 76,
-  "expLevel": 222,
-  "expPoints": 253946,
+  "trophies": 100200,
+  "highestTrophies": 100200,
+  "totalPrestigeLevel": 78,
+  "expLevel": 223,
+  "expPoints": 254355,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12141,
-  "soloVictories": 1772,
+  "3vs3Victories": 12160,
+  "soloVictories": 1776,
   "duoVictories": 1312,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
@@ -823,14 +823,14 @@
       "name": "TARA",
       "power": 11,
       "rank": 5,
-      "trophies": 1142,
-      "highestTrophies": 1148,
+      "trophies": 1152,
+      "highestTrophies": 1152,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000282,
-        "name": "MISFORTUNE TARA"
+        "id": 29000509,
+        "name": "TEMPEST TARA"
       },
       "gadgets": [
         {
@@ -906,7 +906,12 @@
           "name": "ROLLING RELOAD"
         }
       ],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23000859,
+          "name": "BARREL O' BULLETS"
+        }
+      ],
       "buffies": {
         "gadget": false,
         "starPower": false,
@@ -918,14 +923,14 @@
       "name": "PENNY",
       "power": 11,
       "rank": 5,
-      "trophies": 1011,
+      "trophies": 1006,
       "highestTrophies": 1011,
       "prestigeLevel": 1,
-      "currentWinStreak": 9,
+      "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
-        "id": 29000165,
-        "name": "DARK BUNNY PENNY"
+        "id": 29000088,
+        "name": "BUNNY PENNY"
       },
       "gadgets": [
         {
@@ -1219,11 +1224,11 @@
       "id": 16000025,
       "name": "CARL",
       "power": 11,
-      "rank": 4,
-      "trophies": 995,
-      "highestTrophies": 995,
-      "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "rank": 5,
+      "trophies": 1006,
+      "highestTrophies": 1006,
+      "prestigeLevel": 1,
+      "currentWinStreak": 2,
       "maxWinStreak": 5,
       "skin": {
         "id": 29000308,
@@ -1951,10 +1956,10 @@
       "name": "LOU",
       "power": 11,
       "rank": 5,
-      "trophies": 1006,
-      "highestTrophies": 1006,
+      "trophies": 1060,
+      "highestTrophies": 1060,
       "prestigeLevel": 1,
-      "currentWinStreak": 7,
+      "currentWinStreak": 10,
       "maxWinStreak": 12,
       "skin": {
         "id": 29000306,
@@ -2455,10 +2460,10 @@
       "name": "MEG",
       "power": 11,
       "rank": 5,
-      "trophies": 1011,
-      "highestTrophies": 1011,
+      "trophies": 1018,
+      "highestTrophies": 1028,
       "prestigeLevel": 1,
-      "currentWinStreak": 7,
+      "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
         "id": 29000510,
@@ -2880,11 +2885,11 @@
       "id": 16000063,
       "name": "CHESTER",
       "power": 11,
-      "rank": 5,
-      "trophies": 1914,
-      "highestTrophies": 1926,
-      "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "rank": 6,
+      "trophies": 2001,
+      "highestTrophies": 2001,
+      "prestigeLevel": 2,
+      "currentWinStreak": 4,
       "maxWinStreak": 12,
       "skin": {
         "id": 29001133,
@@ -2975,8 +2980,8 @@
       "name": "MANDY",
       "power": 11,
       "rank": 5,
-      "trophies": 1071,
-      "highestTrophies": 1071,
+      "trophies": 1087,
+      "highestTrophies": 1087,
       "prestigeLevel": 1,
       "currentWinStreak": 1,
       "maxWinStreak": 10,
@@ -3379,7 +3384,7 @@
       "name": "CHARLIE",
       "power": 5,
       "rank": 2,
-      "trophies": 458,
+      "trophies": 459,
       "highestTrophies": 462,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
@@ -3804,8 +3809,8 @@
       "name": "CLANCY",
       "power": 9,
       "rank": 3,
-      "trophies": 670,
-      "highestTrophies": 673,
+      "trophies": 684,
+      "highestTrophies": 687,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 5,
@@ -4436,7 +4441,7 @@
     {
       "id": 16000098,
       "name": "ZIGGY",
-      "power": 9,
+      "power": 10,
       "rank": 5,
       "trophies": 1010,
       "highestTrophies": 1010,
@@ -4468,7 +4473,12 @@
           "name": "THE GREAT ZIGGINI"
         }
       ],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23001137,
+          "name": "THE GRAND VORTEX"
+        }
+      ],
       "buffies": {
         "gadget": false,
         "starPower": false,
@@ -4623,10 +4633,10 @@
       "name": "SIRIUS",
       "power": 11,
       "rank": 5,
-      "trophies": 1219,
-      "highestTrophies": 1226,
+      "trophies": 1260,
+      "highestTrophies": 1260,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 3,
       "maxWinStreak": 33,
       "skin": {
         "id": 29001401,
@@ -4759,10 +4769,10 @@
       "name": "STARR NOVA",
       "power": 9,
       "rank": 5,
-      "trophies": 1000,
-      "highestTrophies": 1001,
+      "trophies": 1035,
+      "highestTrophies": 1035,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 3,
       "maxWinStreak": 17,
       "skin": {
         "id": 29001599,
@@ -4801,18 +4811,28 @@
       "name": "BOLT",
       "power": 9,
       "rank": 1,
-      "trophies": 0,
-      "highestTrophies": 0,
+      "trophies": 15,
+      "highestTrophies": 15,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
-      "maxWinStreak": 0,
+      "currentWinStreak": 1,
+      "maxWinStreak": 1,
       "skin": {
         "id": 29001620,
         "name": "BOLT"
       },
-      "gadgets": [],
+      "gadgets": [
+        {
+          "id": 23001282,
+          "name": "BOUNCY BALL"
+        }
+      ],
       "gears": [],
-      "starPowers": [],
+      "starPowers": [
+        {
+          "id": 23001280,
+          "name": "UNSTOPPABALL"
+        }
+      ],
       "hyperCharges": [],
       "buffies": {
         "gadget": false,
