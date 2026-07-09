@@ -5,14 +5,14 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 100200,
-  "highestTrophies": 100200,
+  "trophies": 100584,
+  "highestTrophies": 100590,
   "totalPrestigeLevel": 78,
   "expLevel": 223,
-  "expPoints": 254355,
+  "expPoints": 254870,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12160,
-  "soloVictories": 1776,
+  "3vs3Victories": 12195,
+  "soloVictories": 1778,
   "duoVictories": 1312,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
@@ -116,7 +116,7 @@
       "hyperCharges": [],
       "buffies": {
         "gadget": true,
-        "starPower": false,
+        "starPower": true,
         "hyperCharge": true
       }
     },
@@ -217,7 +217,7 @@
       "buffies": {
         "gadget": false,
         "starPower": false,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -270,7 +270,7 @@
       "buffies": {
         "gadget": false,
         "starPower": false,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -2056,8 +2056,8 @@
       "name": "EDGAR",
       "power": 11,
       "rank": 5,
-      "trophies": 1393,
-      "highestTrophies": 1408,
+      "trophies": 1408,
+      "highestTrophies": 1416,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 12,
@@ -2421,7 +2421,7 @@
         }
       ],
       "buffies": {
-        "gadget": false,
+        "gadget": true,
         "starPower": true,
         "hyperCharge": true
       }
@@ -2980,10 +2980,10 @@
       "name": "MANDY",
       "power": 11,
       "rank": 5,
-      "trophies": 1087,
-      "highestTrophies": 1087,
+      "trophies": 1166,
+      "highestTrophies": 1172,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 10,
       "skin": {
         "id": 29001172,
@@ -4128,7 +4128,7 @@
     {
       "id": 16000091,
       "name": "LUMI",
-      "power": 9,
+      "power": 11,
       "rank": 5,
       "trophies": 1015,
       "highestTrophies": 1020,
@@ -4441,7 +4441,7 @@
     {
       "id": 16000098,
       "name": "ZIGGY",
-      "power": 10,
+      "power": 11,
       "rank": 5,
       "trophies": 1010,
       "highestTrophies": 1010,
@@ -4633,10 +4633,10 @@
       "name": "SIRIUS",
       "power": 11,
       "rank": 5,
-      "trophies": 1260,
-      "highestTrophies": 1260,
+      "trophies": 1288,
+      "highestTrophies": 1292,
       "prestigeLevel": 1,
-      "currentWinStreak": 3,
+      "currentWinStreak": 0,
       "maxWinStreak": 33,
       "skin": {
         "id": 29001401,
@@ -4809,13 +4809,13 @@
     {
       "id": 16000106,
       "name": "BOLT",
-      "power": 9,
-      "rank": 1,
-      "trophies": 15,
-      "highestTrophies": 15,
+      "power": 11,
+      "rank": 2,
+      "trophies": 277,
+      "highestTrophies": 278,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
-      "maxWinStreak": 1,
+      "currentWinStreak": 0,
+      "maxWinStreak": 16,
       "skin": {
         "id": 29001620,
         "name": "BOLT"
