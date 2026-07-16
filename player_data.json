@@ -5,24 +5,24 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 102194,
-  "highestTrophies": 102199,
+  "trophies": 102219,
+  "highestTrophies": 102227,
   "totalPrestigeLevel": 78,
   "expLevel": 224,
-  "expPoints": 257596,
+  "expPoints": 257829,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12370,
-  "soloVictories": 1778,
+  "3vs3Victories": 12382,
+  "soloVictories": 1779,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
-  "rankedSeasonId": 46,
-  "rankedRank": 13,
-  "rankedRankName": "MYTHIC I",
-  "rankedElo": 4653,
-  "highestSeasonRankedRank": 13,
-  "highestSeasonRankedRankName": "MYTHIC I",
-  "highestSeasonRankedElo": 4653,
+  "rankedSeasonId": 47,
+  "rankedRank": 8,
+  "rankedRankName": "GOLD II",
+  "rankedElo": 2364,
+  "highestSeasonRankedRank": 8,
+  "highestSeasonRankedRankName": "GOLD II",
+  "highestSeasonRankedElo": 2462,
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
@@ -628,6 +628,10 @@
         {
           "id": 23000088,
           "name": "EXTRA TOXIC"
+        },
+        {
+          "id": 23000143,
+          "name": "CARRION CROW"
         }
       ],
       "hyperCharges": [
@@ -811,7 +815,12 @@
       ],
       "gears": [],
       "starPowers": [],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23000898,
+          "name": "MAMA'S LOVE"
+        }
+      ],
       "buffies": {
         "gadget": false,
         "starPower": false,
@@ -2806,8 +2815,8 @@
       "name": "GUS",
       "power": 8,
       "rank": 4,
-      "trophies": 803,
-      "highestTrophies": 807,
+      "trophies": 833,
+      "highestTrophies": 836,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 6,
@@ -3809,7 +3818,7 @@
       "name": "CLANCY",
       "power": 9,
       "rank": 3,
-      "trophies": 684,
+      "trophies": 679,
       "highestTrophies": 687,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
