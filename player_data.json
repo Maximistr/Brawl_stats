@@ -5,14 +5,14 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 102229,
-  "highestTrophies": 102229,
+  "trophies": 102667,
+  "highestTrophies": 102676,
   "totalPrestigeLevel": 78,
   "expLevel": 224,
-  "expPoints": 257939,
+  "expPoints": 258343,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12389,
-  "soloVictories": 1779,
+  "3vs3Victories": 12421,
+  "soloVictories": 1780,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
@@ -457,10 +457,10 @@
       "name": "DYNAMIKE",
       "power": 11,
       "rank": 5,
-      "trophies": 1301,
+      "trophies": 1293,
       "highestTrophies": 1301,
       "prestigeLevel": 1,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 10,
       "skin": {
         "id": 29001088,
@@ -2065,8 +2065,8 @@
       "name": "EDGAR",
       "power": 11,
       "rank": 5,
-      "trophies": 1476,
-      "highestTrophies": 1484,
+      "trophies": 1518,
+      "highestTrophies": 1536,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 12,
@@ -3179,6 +3179,10 @@
       },
       "gadgets": [
         {
+          "id": 23000579,
+          "name": "WATER BALLOONS"
+        },
+        {
           "id": 23000580,
           "name": "BARRICADE"
         }
@@ -3469,10 +3473,10 @@
       "name": "KIT",
       "power": 11,
       "rank": 5,
-      "trophies": 1151,
-      "highestTrophies": 1155,
+      "trophies": 1184,
+      "highestTrophies": 1184,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 3,
       "maxWinStreak": 15,
       "skin": {
         "id": 29001076,
@@ -3713,10 +3717,10 @@
       "name": "LILY",
       "power": 11,
       "rank": 5,
-      "trophies": 1300,
-      "highestTrophies": 1308,
+      "trophies": 1305,
+      "highestTrophies": 1319,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 10,
       "skin": {
         "id": 29001223,
@@ -4734,10 +4738,10 @@
     {
       "id": 16000104,
       "name": "DAMIAN",
-      "power": 10,
+      "power": 11,
       "rank": 5,
-      "trophies": 1341,
-      "highestTrophies": 1349,
+      "trophies": 1686,
+      "highestTrophies": 1695,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 26,
@@ -4766,7 +4770,12 @@
           "name": "VULGAR DISPLAY OF PUNCH"
         }
       ],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23001285,
+          "name": "JUMP IN THE FIRE"
+        }
+      ],
       "buffies": {
         "gadget": false,
         "starPower": false,
@@ -4820,10 +4829,10 @@
       "name": "BOLT",
       "power": 11,
       "rank": 3,
-      "trophies": 566,
-      "highestTrophies": 566,
+      "trophies": 587,
+      "highestTrophies": 589,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 16,
       "skin": {
         "id": 29001620,
