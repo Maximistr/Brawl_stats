@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 102667,
-  "highestTrophies": 102676,
+  "trophies": 102720,
+  "highestTrophies": 102725,
   "totalPrestigeLevel": 78,
   "expLevel": 224,
-  "expPoints": 258343,
+  "expPoints": 258447,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12421,
+  "3vs3Victories": 12428,
   "soloVictories": 1780,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
@@ -172,14 +172,14 @@
       "name": "BROCK",
       "power": 11,
       "rank": 5,
-      "trophies": 1086,
-      "highestTrophies": 1091,
+      "trophies": 1091,
+      "highestTrophies": 1096,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000839,
-        "name": "SUPER RANGER BROCK YELLOW"
+        "id": 29000837,
+        "name": "SUPER RANGER BROCK RED"
       },
       "gadgets": [
         {
@@ -457,14 +457,14 @@
       "name": "DYNAMIKE",
       "power": 11,
       "rank": 5,
-      "trophies": 1293,
-      "highestTrophies": 1301,
+      "trophies": 1314,
+      "highestTrophies": 1314,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 2,
       "maxWinStreak": 10,
       "skin": {
-        "id": 29001088,
-        "name": "SUGAR BOMB MIKE"
+        "id": 29001050,
+        "name": "ROMANTIC DYNAMIKE"
       },
       "gadgets": [
         {
@@ -2012,8 +2012,8 @@
       "name": "BYRON",
       "power": 11,
       "rank": 5,
-      "trophies": 1083,
-      "highestTrophies": 1098,
+      "trophies": 1110,
+      "highestTrophies": 1116,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 27,
