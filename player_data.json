@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 102720,
-  "highestTrophies": 102725,
+  "trophies": 102803,
+  "highestTrophies": 102803,
   "totalPrestigeLevel": 78,
   "expLevel": 224,
-  "expPoints": 258447,
+  "expPoints": 258517,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12428,
+  "3vs3Victories": 12436,
   "soloVictories": 1780,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
@@ -178,8 +178,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000837,
-        "name": "SUPER RANGER BROCK RED"
+        "id": 29000839,
+        "name": "SUPER RANGER BROCK YELLOW"
       },
       "gadgets": [
         {
@@ -2203,10 +2203,10 @@
       "name": "BELLE",
       "power": 7,
       "rank": 3,
-      "trophies": 639,
-      "highestTrophies": 642,
+      "trophies": 699,
+      "highestTrophies": 699,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 5,
       "maxWinStreak": 5,
       "skin": {
         "id": 29000972,
@@ -2989,10 +2989,10 @@
       "name": "MANDY",
       "power": 11,
       "rank": 5,
-      "trophies": 1240,
-      "highestTrophies": 1241,
+      "trophies": 1263,
+      "highestTrophies": 1263,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 3,
       "maxWinStreak": 10,
       "skin": {
         "id": 29001172,
