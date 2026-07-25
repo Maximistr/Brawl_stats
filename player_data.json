@@ -6,12 +6,12 @@
     "id": 28000566
   },
   "trophies": 102889,
-  "highestTrophies": 102893,
+  "highestTrophies": 102894,
   "totalPrestigeLevel": 78,
   "expLevel": 225,
-  "expPoints": 258768,
+  "expPoints": 258792,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12445,
+  "3vs3Victories": 12448,
   "soloVictories": 1783,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
@@ -178,8 +178,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000839,
-        "name": "SUPER RANGER BROCK YELLOW"
+        "id": 29000864,
+        "name": "GOLD HACKER\nBROCK"
       },
       "gadgets": [
         {
@@ -278,7 +278,7 @@
       "name": "SPIKE",
       "power": 11,
       "rank": 5,
-      "trophies": 1017,
+      "trophies": 1022,
       "highestTrophies": 1029,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
@@ -1070,10 +1070,10 @@
       "name": "TICK",
       "power": 11,
       "rank": 5,
-      "trophies": 1021,
+      "trophies": 1016,
       "highestTrophies": 1026,
       "prestigeLevel": 1,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
         "id": 29001671,
