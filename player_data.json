@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 102889,
-  "highestTrophies": 102894,
+  "trophies": 102913,
+  "highestTrophies": 102913,
   "totalPrestigeLevel": 78,
   "expLevel": 225,
-  "expPoints": 258916,
+  "expPoints": 259018,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12457,
+  "3vs3Victories": 12461,
   "soloVictories": 1783,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
@@ -178,8 +178,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000837,
-        "name": "SUPER RANGER BROCK RED"
+        "id": 29000839,
+        "name": "SUPER RANGER BROCK YELLOW"
       },
       "gadgets": [
         {
@@ -1281,10 +1281,10 @@
       "name": "BIBI",
       "power": 11,
       "rank": 5,
-      "trophies": 1442,
-      "highestTrophies": 1450,
+      "trophies": 1454,
+      "highestTrophies": 1454,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 11,
       "skin": {
         "id": 29000682,
@@ -4315,10 +4315,10 @@
       "name": "ALLI",
       "power": 9,
       "rank": 5,
-      "trophies": 1018,
-      "highestTrophies": 1018,
+      "trophies": 1030,
+      "highestTrophies": 1030,
       "prestigeLevel": 1,
-      "currentWinStreak": 2,
+      "currentWinStreak": 3,
       "maxWinStreak": 16,
       "skin": {
         "id": 29001414,
