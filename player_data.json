@@ -9,9 +9,9 @@
   "highestTrophies": 102913,
   "totalPrestigeLevel": 78,
   "expLevel": 225,
-  "expPoints": 259018,
+  "expPoints": 259026,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12461,
+  "3vs3Victories": 12462,
   "soloVictories": 1783,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
@@ -178,8 +178,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000839,
-        "name": "SUPER RANGER BROCK YELLOW"
+        "id": 29000864,
+        "name": "GOLD HACKER\nBROCK"
       },
       "gadgets": [
         {
