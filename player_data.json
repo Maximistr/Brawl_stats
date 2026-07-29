@@ -5,14 +5,14 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 102913,
-  "highestTrophies": 102913,
+  "trophies": 102946,
+  "highestTrophies": 102946,
   "totalPrestigeLevel": 78,
   "expLevel": 225,
-  "expPoints": 259026,
+  "expPoints": 259109,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12462,
-  "soloVictories": 1783,
+  "3vs3Victories": 12467,
+  "soloVictories": 1784,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
@@ -125,8 +125,8 @@
       "name": "BULL",
       "power": 11,
       "rank": 5,
-      "trophies": 1075,
-      "highestTrophies": 1080,
+      "trophies": 1082,
+      "highestTrophies": 1088,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 6,
@@ -164,7 +164,7 @@
       "buffies": {
         "gadget": true,
         "starPower": false,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -172,14 +172,14 @@
       "name": "BROCK",
       "power": 11,
       "rank": 5,
-      "trophies": 1087,
-      "highestTrophies": 1101,
+      "trophies": 1113,
+      "highestTrophies": 1113,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 2,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000864,
-        "name": "GOLD HACKER\nBROCK"
+        "id": 29000837,
+        "name": "SUPER RANGER BROCK RED"
       },
       "gadgets": [
         {
@@ -463,8 +463,8 @@
       "currentWinStreak": 2,
       "maxWinStreak": 10,
       "skin": {
-        "id": 29000775,
-        "name": "DYNASTY MIKE"
+        "id": 29001050,
+        "name": "ROMANTIC DYNAMIKE"
       },
       "gadgets": [
         {
