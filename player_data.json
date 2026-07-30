@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 102946,
-  "highestTrophies": 102946,
+  "trophies": 102951,
+  "highestTrophies": 102956,
   "totalPrestigeLevel": 78,
   "expLevel": 225,
-  "expPoints": 259109,
+  "expPoints": 259125,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12467,
+  "3vs3Victories": 12468,
   "soloVictories": 1784,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
@@ -178,8 +178,8 @@
       "currentWinStreak": 2,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000837,
-        "name": "SUPER RANGER BROCK RED"
+        "id": 29000864,
+        "name": "GOLD HACKER\nBROCK"
       },
       "gadgets": [
         {
@@ -4456,10 +4456,10 @@
       "name": "ZIGGY",
       "power": 11,
       "rank": 5,
-      "trophies": 1010,
-      "highestTrophies": 1010,
+      "trophies": 1015,
+      "highestTrophies": 1020,
       "prestigeLevel": 1,
-      "currentWinStreak": 5,
+      "currentWinStreak": 0,
       "maxWinStreak": 10,
       "skin": {
         "id": 29001321,
