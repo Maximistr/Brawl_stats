@@ -5,24 +5,24 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 102951,
-  "highestTrophies": 102956,
+  "trophies": 102952,
+  "highestTrophies": 102965,
   "totalPrestigeLevel": 78,
   "expLevel": 225,
-  "expPoints": 259125,
+  "expPoints": 259459,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12468,
+  "3vs3Victories": 12489,
   "soloVictories": 1784,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
   "rankedSeasonId": 47,
-  "rankedRank": 8,
-  "rankedRankName": "GOLD II",
-  "rankedElo": 2364,
-  "highestSeasonRankedRank": 8,
-  "highestSeasonRankedRankName": "GOLD II",
-  "highestSeasonRankedElo": 2462,
+  "rankedRank": 11,
+  "rankedRankName": "DIAMOND II",
+  "rankedElo": 3611,
+  "highestSeasonRankedRank": 11,
+  "highestSeasonRankedRankName": "DIAMOND II",
+  "highestSeasonRankedElo": 3671,
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
@@ -315,7 +315,7 @@
         }
       ],
       "buffies": {
-        "gadget": false,
+        "gadget": true,
         "starPower": true,
         "hyperCharge": true
       }
@@ -604,10 +604,10 @@
       "name": "CROW",
       "power": 11,
       "rank": 5,
-      "trophies": 1101,
-      "highestTrophies": 1106,
+      "trophies": 1111,
+      "highestTrophies": 1111,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 9,
       "skin": {
         "id": 29000095,
@@ -747,7 +747,7 @@
       "name": "PIPER",
       "power": 11,
       "rank": 5,
-      "trophies": 1131,
+      "trophies": 1125,
       "highestTrophies": 1137,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
@@ -1134,8 +1134,8 @@
       "currentWinStreak": 2,
       "maxWinStreak": 8,
       "skin": {
-        "id": 29000771,
-        "name": "MECHA LEON"
+        "id": 29000801,
+        "name": "RADIANT MECHA\nLEON"
       },
       "gadgets": [
         {
@@ -1281,10 +1281,10 @@
       "name": "BIBI",
       "power": 11,
       "rank": 5,
-      "trophies": 1454,
-      "highestTrophies": 1454,
+      "trophies": 1457,
+      "highestTrophies": 1465,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 11,
       "skin": {
         "id": 29000682,
@@ -1512,7 +1512,12 @@
           "name": "HYPE"
         }
       ],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23000778,
+          "name": "OVERHYPED HAZE"
+        }
+      ],
       "buffies": {
         "gadget": true,
         "starPower": true,
@@ -2777,7 +2782,7 @@
       "name": "SAM",
       "power": 7,
       "rank": 3,
-      "trophies": 545,
+      "trophies": 541,
       "highestTrophies": 547,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
@@ -2848,8 +2853,8 @@
       "name": "BUSTER",
       "power": 11,
       "rank": 5,
-      "trophies": 1054,
-      "highestTrophies": 1059,
+      "trophies": 1053,
+      "highestTrophies": 1064,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 10,
@@ -3432,8 +3437,8 @@
       "currentWinStreak": 4,
       "maxWinStreak": 9,
       "skin": {
-        "id": 29000752,
-        "name": "GROUCH MICO"
+        "id": 29001664,
+        "name": "EARTH MASTER MICO"
       },
       "gadgets": [
         {
@@ -4614,6 +4619,10 @@
       },
       "gadgets": [
         {
+          "id": 23001183,
+          "name": "SLIPPERY SAVIOR"
+        },
+        {
           "id": 23001184,
           "name": "MORE LUMENS!"
         }
@@ -4829,7 +4838,7 @@
       "name": "BOLT",
       "power": 11,
       "rank": 3,
-      "trophies": 587,
+      "trophies": 586,
       "highestTrophies": 589,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
