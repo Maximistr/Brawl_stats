@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 103977,
-  "highestTrophies": 103977,
+  "trophies": 104266,
+  "highestTrophies": 104267,
   "totalPrestigeLevel": 78,
-  "expLevel": 225,
-  "expPoints": 260875,
+  "expLevel": 226,
+  "expPoints": 261315,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12578,
+  "3vs3Victories": 12605,
   "soloVictories": 1792,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
@@ -877,7 +877,7 @@
     {
       "id": 16000018,
       "name": "DARRYL",
-      "power": 10,
+      "power": 11,
       "rank": 5,
       "trophies": 1077,
       "highestTrophies": 1077,
@@ -1368,7 +1368,7 @@
       ],
       "buffies": {
         "gadget": false,
-        "starPower": false,
+        "starPower": true,
         "hyperCharge": true
       }
     },
@@ -1480,7 +1480,7 @@
     {
       "id": 16000030,
       "name": "EMZ",
-      "power": 9,
+      "power": 10,
       "rank": 5,
       "trophies": 1000,
       "highestTrophies": 1002,
@@ -4870,6 +4870,48 @@
           "name": "BOWLING BOLT"
         }
       ],
+      "buffies": {
+        "gadget": false,
+        "starPower": false,
+        "hyperCharge": false
+      }
+    },
+    {
+      "id": 16000107,
+      "name": "NORI",
+      "power": 9,
+      "rank": 2,
+      "trophies": 289,
+      "highestTrophies": 290,
+      "prestigeLevel": 0,
+      "currentWinStreak": 0,
+      "maxWinStreak": 10,
+      "skin": {
+        "id": 29001640,
+        "name": "NORI"
+      },
+      "gadgets": [
+        {
+          "id": 23001297,
+          "name": "SUSHI SNACK"
+        },
+        {
+          "id": 23001298,
+          "name": "GONNA NEED A BIGGER NET"
+        }
+      ],
+      "gears": [],
+      "starPowers": [
+        {
+          "id": 23001295,
+          "name": "BIG HAUL"
+        },
+        {
+          "id": 23001296,
+          "name": "HIS MOTHER’S SON"
+        }
+      ],
+      "hyperCharges": [],
       "buffies": {
         "gadget": false,
         "starPower": false,
