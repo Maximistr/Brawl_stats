@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 104633,
-  "highestTrophies": 104633,
+  "trophies": 104742,
+  "highestTrophies": 104747,
   "totalPrestigeLevel": 78,
   "expLevel": 226,
-  "expPoints": 261887,
+  "expPoints": 262125,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12640,
+  "3vs3Victories": 12659,
   "soloVictories": 1792,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
@@ -81,7 +81,7 @@
     {
       "id": 16000001,
       "name": "COLT",
-      "power": 9,
+      "power": 10,
       "rank": 5,
       "trophies": 1085,
       "highestTrophies": 1085,
@@ -113,7 +113,12 @@
           "name": "MAGNUM SPECIAL"
         }
       ],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23000614,
+          "name": "DUAL WIELDING"
+        }
+      ],
       "buffies": {
         "gadget": true,
         "starPower": true,
@@ -457,14 +462,14 @@
       "name": "DYNAMIKE",
       "power": 11,
       "rank": 5,
-      "trophies": 1332,
-      "highestTrophies": 1332,
+      "trophies": 1344,
+      "highestTrophies": 1344,
       "prestigeLevel": 1,
-      "currentWinStreak": 2,
+      "currentWinStreak": 3,
       "maxWinStreak": 10,
       "skin": {
-        "id": 29001088,
-        "name": "SUGAR BOMB MIKE"
+        "id": 29000775,
+        "name": "DYNASTY MIKE"
       },
       "gadgets": [
         {
@@ -938,8 +943,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
-        "id": 29000088,
-        "name": "BUNNY PENNY"
+        "id": 29000165,
+        "name": "DARK BUNNY PENNY"
       },
       "gadgets": [
         {
@@ -2474,8 +2479,8 @@
       "name": "MEG",
       "power": 11,
       "rank": 5,
-      "trophies": 1056,
-      "highestTrophies": 1061,
+      "trophies": 1088,
+      "highestTrophies": 1093,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 9,
@@ -2841,7 +2846,12 @@
       ],
       "gears": [],
       "starPowers": [],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23000919,
+          "name": "SPOOKY POP"
+        }
+      ],
       "buffies": {
         "gadget": false,
         "starPower": false,
@@ -3652,7 +3662,12 @@
           "name": "FLOW"
         }
       ],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23000759,
+          "name": "IN MY ELEMENT"
+        }
+      ],
       "buffies": {
         "gadget": false,
         "starPower": false,
@@ -3918,14 +3933,14 @@
       "name": "KENJI",
       "power": 11,
       "rank": 5,
-      "trophies": 1054,
+      "trophies": 1059,
       "highestTrophies": 1071,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 15,
       "skin": {
-        "id": 29001189,
-        "name": "ONI KENJI"
+        "id": 29001252,
+        "name": "MANGA KENJI"
       },
       "gadgets": [
         {
@@ -4826,7 +4841,12 @@
           "name": "MYSTICAL STARR TECHNIQUE"
         }
       ],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23001284,
+          "name": "STARR NOVA: THE HYPERCHARGE"
+        }
+      ],
       "buffies": {
         "gadget": false,
         "starPower": false,
@@ -4881,10 +4901,10 @@
       "name": "NORI",
       "power": 9,
       "rank": 3,
-      "trophies": 561,
-      "highestTrophies": 565,
+      "trophies": 621,
+      "highestTrophies": 621,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 5,
       "maxWinStreak": 11,
       "skin": {
         "id": 29001640,
