@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 104742,
-  "highestTrophies": 104747,
+  "trophies": 104800,
+  "highestTrophies": 104806,
   "totalPrestigeLevel": 78,
   "expLevel": 226,
-  "expPoints": 262125,
+  "expPoints": 262191,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12659,
+  "3vs3Victories": 12665,
   "soloVictories": 1792,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
@@ -984,10 +984,10 @@
       "name": "FRANK",
       "power": 11,
       "rank": 5,
-      "trophies": 1044,
-      "highestTrophies": 1044,
+      "trophies": 1102,
+      "highestTrophies": 1108,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
         "id": 29000045,
@@ -3939,8 +3939,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 15,
       "skin": {
-        "id": 29001252,
-        "name": "MANGA KENJI"
+        "id": 29001251,
+        "name": "KIZU KENJI"
       },
       "gadgets": [
         {
@@ -4142,6 +4142,10 @@
         {
           "id": 23000885,
           "name": "REGULATE"
+        },
+        {
+          "id": 23000886,
+          "name": "ALL EYEZ ON ME"
         }
       ],
       "gears": [],
