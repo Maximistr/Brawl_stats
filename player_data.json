@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 104795,
-  "highestTrophies": 104806,
+  "trophies": 105010,
+  "highestTrophies": 105010,
   "totalPrestigeLevel": 78,
   "expLevel": 226,
-  "expPoints": 262195,
+  "expPoints": 262583,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12666,
+  "3vs3Victories": 12696,
   "soloVictories": 1792,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
@@ -26,6 +26,17 @@
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
+  "bestBossFightSpeedrunTimes": [
+    {
+      "event": {
+        "id": 0,
+        "modeId": 0
+      },
+      "bestTimeInSeconds": 140,
+      "difficulty": 6,
+      "difficultyName": "Impossible II"
+    }
+  ],
   "club": {
     "tag": "#2PGGYUP22",
     "name": "Druhá Šance"
@@ -81,7 +92,7 @@
     {
       "id": 16000001,
       "name": "COLT",
-      "power": 10,
+      "power": 11,
       "rank": 5,
       "trophies": 1085,
       "highestTrophies": 1085,
@@ -2479,10 +2490,10 @@
       "name": "MEG",
       "power": 11,
       "rank": 5,
-      "trophies": 1083,
-      "highestTrophies": 1093,
+      "trophies": 1109,
+      "highestTrophies": 1109,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 2,
       "maxWinStreak": 9,
       "skin": {
         "id": 29000510,
@@ -4904,11 +4915,11 @@
       "id": 16000107,
       "name": "NORI",
       "power": 9,
-      "rank": 3,
-      "trophies": 621,
-      "highestTrophies": 621,
+      "rank": 4,
+      "trophies": 810,
+      "highestTrophies": 810,
       "prestigeLevel": 0,
-      "currentWinStreak": 5,
+      "currentWinStreak": 2,
       "maxWinStreak": 11,
       "skin": {
         "id": 29001640,
