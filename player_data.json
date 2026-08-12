@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 105010,
-  "highestTrophies": 105010,
+  "trophies": 105022,
+  "highestTrophies": 105022,
   "totalPrestigeLevel": 78,
   "expLevel": 226,
-  "expPoints": 262583,
+  "expPoints": 262645,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12696,
+  "3vs3Victories": 12702,
   "soloVictories": 1792,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
@@ -26,17 +26,6 @@
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
-  "bestBossFightSpeedrunTimes": [
-    {
-      "event": {
-        "id": 0,
-        "modeId": 0
-      },
-      "bestTimeInSeconds": 140,
-      "difficulty": 6,
-      "difficultyName": "Impossible II"
-    }
-  ],
   "club": {
     "tag": "#2PGGYUP22",
     "name": "Druhá Šance"
@@ -1361,8 +1350,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 8,
       "skin": {
-        "id": 29000849,
-        "name": "PIANO 8-BIT"
+        "id": 29001226,
+        "name": "ASCENDED 8-BIT"
       },
       "gadgets": [
         {
@@ -4916,10 +4905,10 @@
       "name": "NORI",
       "power": 9,
       "rank": 4,
-      "trophies": 810,
-      "highestTrophies": 810,
+      "trophies": 822,
+      "highestTrophies": 822,
       "prestigeLevel": 0,
-      "currentWinStreak": 2,
+      "currentWinStreak": 3,
       "maxWinStreak": 11,
       "skin": {
         "id": 29001640,
