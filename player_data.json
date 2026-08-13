@@ -9,9 +9,9 @@
   "highestTrophies": 105022,
   "totalPrestigeLevel": 78,
   "expLevel": 226,
-  "expPoints": 262645,
+  "expPoints": 262815,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12702,
+  "3vs3Victories": 12717,
   "soloVictories": 1792,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
@@ -3447,8 +3447,8 @@
       "currentWinStreak": 1,
       "maxWinStreak": 9,
       "skin": {
-        "id": 29001664,
-        "name": "EARTH MASTER MICO"
+        "id": 29001662,
+        "name": "MASTER MICO"
       },
       "gadgets": [
         {
