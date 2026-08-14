@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 105022,
-  "highestTrophies": 105022,
+  "trophies": 105426,
+  "highestTrophies": 105426,
   "totalPrestigeLevel": 78,
   "expLevel": 226,
-  "expPoints": 262815,
+  "expPoints": 263267,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12717,
+  "3vs3Victories": 12756,
   "soloVictories": 1792,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
@@ -462,10 +462,10 @@
       "name": "DYNAMIKE",
       "power": 11,
       "rank": 5,
-      "trophies": 1344,
-      "highestTrophies": 1344,
+      "trophies": 1371,
+      "highestTrophies": 1371,
       "prestigeLevel": 1,
-      "currentWinStreak": 3,
+      "currentWinStreak": 5,
       "maxWinStreak": 10,
       "skin": {
         "id": 29000775,
@@ -1139,8 +1139,8 @@
       "currentWinStreak": 2,
       "maxWinStreak": 8,
       "skin": {
-        "id": 29000801,
-        "name": "RADIANT MECHA\nLEON"
+        "id": 29000771,
+        "name": "MECHA LEON"
       },
       "gadgets": [
         {
@@ -3447,8 +3447,8 @@
       "currentWinStreak": 1,
       "maxWinStreak": 9,
       "skin": {
-        "id": 29001662,
-        "name": "MASTER MICO"
+        "id": 29001663,
+        "name": "FIRE MASTER MICO"
       },
       "gadgets": [
         {
@@ -4813,7 +4813,7 @@
     {
       "id": 16000105,
       "name": "STARR NOVA",
-      "power": 9,
+      "power": 11,
       "rank": 5,
       "trophies": 1062,
       "highestTrophies": 1067,
@@ -4933,6 +4933,40 @@
         {
           "id": 23001296,
           "name": "HIS MOTHER’S SON"
+        }
+      ],
+      "hyperCharges": [],
+      "buffies": {
+        "gadget": false,
+        "starPower": false,
+        "hyperCharge": false
+      }
+    },
+    {
+      "id": 16000108,
+      "name": "WENDY",
+      "power": 9,
+      "rank": 2,
+      "trophies": 377,
+      "highestTrophies": 377,
+      "prestigeLevel": 0,
+      "currentWinStreak": 9,
+      "maxWinStreak": 14,
+      "skin": {
+        "id": 29001653,
+        "name": "WENDY"
+      },
+      "gadgets": [
+        {
+          "id": 23001320,
+          "name": "WIND-POWERED"
+        }
+      ],
+      "gears": [],
+      "starPowers": [
+        {
+          "id": 23001319,
+          "name": "SOLAR SHIELD"
         }
       ],
       "hyperCharges": [],
