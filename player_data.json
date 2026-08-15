@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 105426,
-  "highestTrophies": 105426,
+  "trophies": 105503,
+  "highestTrophies": 105503,
   "totalPrestigeLevel": 78,
-  "expLevel": 226,
-  "expPoints": 263267,
+  "expLevel": 227,
+  "expPoints": 263415,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12756,
+  "3vs3Victories": 12767,
   "soloVictories": 1792,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
@@ -183,8 +183,8 @@
       "currentWinStreak": 2,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000864,
-        "name": "GOLD HACKER\nBROCK"
+        "id": 29000841,
+        "name": "SUPER RANGER BROCK BLACK"
       },
       "gadgets": [
         {
@@ -4905,10 +4905,10 @@
       "name": "NORI",
       "power": 9,
       "rank": 4,
-      "trophies": 822,
-      "highestTrophies": 822,
+      "trophies": 860,
+      "highestTrophies": 860,
       "prestigeLevel": 0,
-      "currentWinStreak": 3,
+      "currentWinStreak": 1,
       "maxWinStreak": 11,
       "skin": {
         "id": 29001640,
@@ -4947,10 +4947,10 @@
       "name": "WENDY",
       "power": 9,
       "rank": 2,
-      "trophies": 377,
-      "highestTrophies": 377,
+      "trophies": 416,
+      "highestTrophies": 416,
       "prestigeLevel": 0,
-      "currentWinStreak": 9,
+      "currentWinStreak": 11,
       "maxWinStreak": 14,
       "skin": {
         "id": 29001653,
