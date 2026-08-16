@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 105503,
-  "highestTrophies": 105503,
+  "trophies": 105554,
+  "highestTrophies": 105562,
   "totalPrestigeLevel": 78,
   "expLevel": 227,
-  "expPoints": 263415,
+  "expPoints": 263533,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12767,
+  "3vs3Victories": 12775,
   "soloVictories": 1792,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
@@ -1139,8 +1139,8 @@
       "currentWinStreak": 2,
       "maxWinStreak": 8,
       "skin": {
-        "id": 29000771,
-        "name": "MECHA LEON"
+        "id": 29000801,
+        "name": "RADIANT MECHA\nLEON"
       },
       "gadgets": [
         {
@@ -1350,8 +1350,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 8,
       "skin": {
-        "id": 29001226,
-        "name": "ASCENDED 8-BIT"
+        "id": 29000849,
+        "name": "PIANO 8-BIT"
       },
       "gadgets": [
         {
@@ -2479,10 +2479,10 @@
       "name": "MEG",
       "power": 11,
       "rank": 5,
-      "trophies": 1109,
-      "highestTrophies": 1109,
+      "trophies": 1162,
+      "highestTrophies": 1168,
       "prestigeLevel": 1,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
         "id": 29000510,
@@ -4947,10 +4947,10 @@
       "name": "WENDY",
       "power": 9,
       "rank": 2,
-      "trophies": 416,
+      "trophies": 414,
       "highestTrophies": 416,
       "prestigeLevel": 0,
-      "currentWinStreak": 11,
+      "currentWinStreak": 0,
       "maxWinStreak": 14,
       "skin": {
         "id": 29001653,
