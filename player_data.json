@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 105554,
-  "highestTrophies": 105562,
+  "trophies": 105806,
+  "highestTrophies": 105806,
   "totalPrestigeLevel": 78,
   "expLevel": 227,
-  "expPoints": 263533,
+  "expPoints": 263743,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12775,
+  "3vs3Victories": 12794,
   "soloVictories": 1792,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
@@ -136,8 +136,8 @@
       "currentWinStreak": 3,
       "maxWinStreak": 6,
       "skin": {
-        "id": 29000625,
-        "name": "ALLEYCAT BULL"
+        "id": 29001230,
+        "name": "HELLBULL"
       },
       "gadgets": [
         {
@@ -468,8 +468,8 @@
       "currentWinStreak": 5,
       "maxWinStreak": 10,
       "skin": {
-        "id": 29000775,
-        "name": "DYNASTY MIKE"
+        "id": 29000395,
+        "name": "MOLDY MIKE"
       },
       "gadgets": [
         {
@@ -515,8 +515,8 @@
       "currentWinStreak": 2,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29001603,
-        "name": "ALL MIGHT: EL PRIMO"
+        "id": 29000359,
+        "name": "EL DRAGÓN ROSADO"
       },
       "gadgets": [
         {
@@ -2409,8 +2409,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
-        "id": 29000453,
-        "name": "SLEIGHER GRIFF"
+        "id": 29000570,
+        "name": "TRUE GOLD GRIFF"
       },
       "gadgets": [
         {
@@ -3743,8 +3743,8 @@
       "currentWinStreak": 1,
       "maxWinStreak": 10,
       "skin": {
-        "id": 29001223,
-        "name": "KNIGHT LILY"
+        "id": 29000999,
+        "name": "ANGEL LILY"
       },
       "gadgets": [
         {
@@ -4862,10 +4862,10 @@
       "name": "BOLT",
       "power": 11,
       "rank": 3,
-      "trophies": 654,
-      "highestTrophies": 657,
+      "trophies": 675,
+      "highestTrophies": 675,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 2,
       "maxWinStreak": 16,
       "skin": {
         "id": 29001620,
@@ -4946,9 +4946,9 @@
       "id": 16000108,
       "name": "WENDY",
       "power": 9,
-      "rank": 2,
-      "trophies": 414,
-      "highestTrophies": 416,
+      "rank": 3,
+      "trophies": 645,
+      "highestTrophies": 648,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 14,
@@ -4964,6 +4964,10 @@
       ],
       "gears": [],
       "starPowers": [
+        {
+          "id": 23001318,
+          "name": "SLOWING SHIELD"
+        },
         {
           "id": 23001319,
           "name": "SOLAR SHIELD"
