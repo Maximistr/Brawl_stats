@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 105806,
+  "trophies": 105800,
   "highestTrophies": 105806,
   "totalPrestigeLevel": 78,
   "expLevel": 227,
-  "expPoints": 263743,
+  "expPoints": 263803,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12794,
+  "3vs3Victories": 12800,
   "soloVictories": 1792,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
@@ -26,6 +26,17 @@
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
+  "bestBossFightSpeedrunTimes": [
+    {
+      "event": {
+        "id": 0,
+        "modeId": 0
+      },
+      "bestTimeInSeconds": 241,
+      "difficulty": 6,
+      "difficultyName": "Impossible II"
+    }
+  ],
   "club": {
     "tag": "#2PGGYUP22",
     "name": "Druhá Šance"
@@ -136,8 +147,8 @@
       "currentWinStreak": 3,
       "maxWinStreak": 6,
       "skin": {
-        "id": 29001230,
-        "name": "HELLBULL"
+        "id": 29000625,
+        "name": "ALLEYCAT BULL"
       },
       "gadgets": [
         {
@@ -168,7 +179,7 @@
       ],
       "buffies": {
         "gadget": true,
-        "starPower": false,
+        "starPower": true,
         "hyperCharge": true
       }
     },
@@ -656,10 +667,10 @@
       "name": "POCO",
       "power": 11,
       "rank": 5,
-      "trophies": 1148,
+      "trophies": 1142,
       "highestTrophies": 1148,
       "prestigeLevel": 1,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 8,
       "skin": {
         "id": 29001336,
