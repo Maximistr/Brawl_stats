@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 105800,
-  "highestTrophies": 105806,
+  "trophies": 105917,
+  "highestTrophies": 105932,
   "totalPrestigeLevel": 78,
   "expLevel": 227,
-  "expPoints": 263803,
+  "expPoints": 264087,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12800,
+  "3vs3Victories": 12824,
   "soloVictories": 1792,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
@@ -32,9 +32,9 @@
         "id": 0,
         "modeId": 0
       },
-      "bestTimeInSeconds": 241,
-      "difficulty": 6,
-      "difficultyName": "Impossible II"
+      "bestTimeInSeconds": 175,
+      "difficulty": 7,
+      "difficultyName": "Impossible III"
     }
   ],
   "club": {
@@ -379,10 +379,10 @@
       "name": "JESSIE",
       "power": 11,
       "rank": 5,
-      "trophies": 1000,
-      "highestTrophies": 1000,
+      "trophies": 1030,
+      "highestTrophies": 1035,
       "prestigeLevel": 1,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 6,
       "skin": {
         "id": 29001357,
@@ -473,10 +473,10 @@
       "name": "DYNAMIKE",
       "power": 11,
       "rank": 5,
-      "trophies": 1371,
-      "highestTrophies": 1371,
+      "trophies": 1378,
+      "highestTrophies": 1386,
       "prestigeLevel": 1,
-      "currentWinStreak": 5,
+      "currentWinStreak": 0,
       "maxWinStreak": 10,
       "skin": {
         "id": 29000395,
@@ -854,8 +854,8 @@
       "currentWinStreak": 1,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000509,
-        "name": "TEMPEST TARA"
+        "id": 29001163,
+        "name": "SHUKUTEKI TARA"
       },
       "gadgets": [
         {
@@ -1297,10 +1297,10 @@
       "name": "BIBI",
       "power": 11,
       "rank": 5,
-      "trophies": 1457,
-      "highestTrophies": 1465,
+      "trophies": 1467,
+      "highestTrophies": 1467,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 11,
       "skin": {
         "id": 29000682,
@@ -3015,7 +3015,7 @@
       "name": "MANDY",
       "power": 11,
       "rank": 5,
-      "trophies": 1285,
+      "trophies": 1278,
       "highestTrophies": 1300,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
@@ -4873,10 +4873,10 @@
       "name": "BOLT",
       "power": 11,
       "rank": 3,
-      "trophies": 675,
-      "highestTrophies": 675,
+      "trophies": 687,
+      "highestTrophies": 687,
       "prestigeLevel": 0,
-      "currentWinStreak": 2,
+      "currentWinStreak": 3,
       "maxWinStreak": 16,
       "skin": {
         "id": 29001620,
@@ -4916,10 +4916,10 @@
       "name": "NORI",
       "power": 9,
       "rank": 4,
-      "trophies": 860,
-      "highestTrophies": 860,
+      "trophies": 925,
+      "highestTrophies": 929,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 11,
       "skin": {
         "id": 29001640,
