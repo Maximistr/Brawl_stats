@@ -9,34 +9,23 @@
   "highestTrophies": 105932,
   "totalPrestigeLevel": 78,
   "expLevel": 227,
-  "expPoints": 264087,
+  "expPoints": 264317,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12824,
+  "3vs3Victories": 12842,
   "soloVictories": 1792,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
-  "rankedSeasonId": 47,
-  "rankedRank": 12,
-  "rankedRankName": "DIAMOND III",
-  "rankedElo": 4112,
-  "highestSeasonRankedRank": 12,
-  "highestSeasonRankedRankName": "DIAMOND III",
-  "highestSeasonRankedElo": 4112,
+  "rankedSeasonId": 48,
+  "rankedRank": 8,
+  "rankedRankName": "GOLD II",
+  "rankedElo": 2095,
+  "highestSeasonRankedRank": 8,
+  "highestSeasonRankedRankName": "GOLD II",
+  "highestSeasonRankedElo": 2194,
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
-  "bestBossFightSpeedrunTimes": [
-    {
-      "event": {
-        "id": 0,
-        "modeId": 0
-      },
-      "bestTimeInSeconds": 175,
-      "difficulty": 7,
-      "difficultyName": "Impossible III"
-    }
-  ],
   "club": {
     "tag": "#2PGGYUP22",
     "name": "Druhá Šance"
@@ -2420,8 +2409,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
-        "id": 29000570,
-        "name": "TRUE GOLD GRIFF"
+        "id": 29000453,
+        "name": "SLEIGHER GRIFF"
       },
       "gadgets": [
         {
@@ -3068,8 +3057,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 13,
       "skin": {
-        "id": 29001283,
-        "name": "GARGOYLE R-T"
+        "id": 29000636,
+        "name": "CRIMSON R-T"
       },
       "gadgets": [
         {
@@ -4883,6 +4872,10 @@
         "name": "BOLT"
       },
       "gadgets": [
+        {
+          "id": 23001281,
+          "name": "OIL CHANGE"
+        },
         {
           "id": 23001282,
           "name": "BOUNCY BALL"
