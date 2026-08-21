@@ -5,24 +5,24 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 105917,
-  "highestTrophies": 105932,
-  "totalPrestigeLevel": 78,
+  "trophies": 106007,
+  "highestTrophies": 106007,
+  "totalPrestigeLevel": 79,
   "expLevel": 227,
-  "expPoints": 264317,
+  "expPoints": 264811,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12842,
-  "soloVictories": 1792,
+  "3vs3Victories": 12864,
+  "soloVictories": 1799,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
   "rankedSeasonId": 48,
-  "rankedRank": 8,
-  "rankedRankName": "GOLD II",
-  "rankedElo": 2095,
-  "highestSeasonRankedRank": 8,
-  "highestSeasonRankedRankName": "GOLD II",
-  "highestSeasonRankedElo": 2194,
+  "rankedRank": 10,
+  "rankedRankName": "DIAMOND I",
+  "rankedElo": 3040,
+  "highestSeasonRankedRank": 10,
+  "highestSeasonRankedRankName": "DIAMOND I",
+  "highestSeasonRankedElo": 3040,
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
@@ -462,10 +462,10 @@
       "name": "DYNAMIKE",
       "power": 11,
       "rank": 5,
-      "trophies": 1378,
-      "highestTrophies": 1386,
+      "trophies": 1391,
+      "highestTrophies": 1391,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 2,
       "maxWinStreak": 10,
       "skin": {
         "id": 29000395,
@@ -1139,8 +1139,8 @@
       "currentWinStreak": 2,
       "maxWinStreak": 8,
       "skin": {
-        "id": 29000801,
-        "name": "RADIANT MECHA\nLEON"
+        "id": 29000771,
+        "name": "MECHA LEON"
       },
       "gadgets": [
         {
@@ -1822,14 +1822,14 @@
       "name": "SURGE",
       "power": 11,
       "rank": 5,
-      "trophies": 1165,
-      "highestTrophies": 1171,
+      "trophies": 1167,
+      "highestTrophies": 1174,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000836,
-        "name": "SCARLET PALADIN SURGE"
+        "id": 29000416,
+        "name": "SURGE KONG"
       },
       "gadgets": [
         {
@@ -1866,7 +1866,7 @@
       ],
       "buffies": {
         "gadget": true,
-        "starPower": false,
+        "starPower": true,
         "hyperCharge": true
       }
     },
@@ -3342,8 +3342,8 @@
       "currentWinStreak": 1,
       "maxWinStreak": 11,
       "skin": {
-        "id": 29000709,
-        "name": "VINTAGE PEARL"
+        "id": 29000711,
+        "name": "PERISCOPE PEARL"
       },
       "gadgets": [],
       "gears": [],
@@ -3939,8 +3939,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 15,
       "skin": {
-        "id": 29001251,
-        "name": "KIZU KENJI"
+        "id": 29001189,
+        "name": "ONI KENJI"
       },
       "gadgets": [
         {
@@ -4908,11 +4908,11 @@
       "id": 16000107,
       "name": "NORI",
       "power": 9,
-      "rank": 4,
-      "trophies": 925,
-      "highestTrophies": 929,
-      "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "rank": 5,
+      "trophies": 1000,
+      "highestTrophies": 1000,
+      "prestigeLevel": 1,
+      "currentWinStreak": 1,
       "maxWinStreak": 11,
       "skin": {
         "id": 29001640,
