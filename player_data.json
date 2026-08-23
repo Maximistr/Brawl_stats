@@ -9,9 +9,9 @@
   "highestTrophies": 106272,
   "totalPrestigeLevel": 79,
   "expLevel": 227,
-  "expPoints": 265345,
+  "expPoints": 265523,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12906,
+  "3vs3Victories": 12921,
   "soloVictories": 1799,
   "duoVictories": 1313,
   "bestRoboRumbleTime": 12,
@@ -19,10 +19,10 @@
   "rankedSeasonId": 48,
   "rankedRank": 10,
   "rankedRankName": "DIAMOND I",
-  "rankedElo": 3040,
+  "rankedElo": 3192,
   "highestSeasonRankedRank": 10,
   "highestSeasonRankedRankName": "DIAMOND I",
-  "highestSeasonRankedElo": 3040,
+  "highestSeasonRankedElo": 3192,
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
@@ -32,9 +32,9 @@
         "id": 0,
         "modeId": 0
       },
-      "bestTimeInSeconds": 162,
-      "difficulty": 6,
-      "difficultyName": "Impossible II"
+      "bestTimeInSeconds": 42,
+      "difficulty": 8,
+      "difficultyName": "Impossible IV"
     }
   ],
   "club": {
