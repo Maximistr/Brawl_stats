@@ -5,15 +5,15 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 106266,
-  "highestTrophies": 106272,
+  "trophies": 106615,
+  "highestTrophies": 106622,
   "totalPrestigeLevel": 79,
-  "expLevel": 227,
-  "expPoints": 265523,
+  "expLevel": 228,
+  "expPoints": 265845,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12921,
+  "3vs3Victories": 12942,
   "soloVictories": 1799,
-  "duoVictories": 1313,
+  "duoVictories": 1318,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
   "rankedSeasonId": 48,
@@ -26,17 +26,6 @@
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
-  "bestBossFightSpeedrunTimes": [
-    {
-      "event": {
-        "id": 0,
-        "modeId": 0
-      },
-      "bestTimeInSeconds": 42,
-      "difficulty": 8,
-      "difficultyName": "Impossible IV"
-    }
-  ],
   "club": {
     "tag": "#2PGGYUP22",
     "name": "Druhá Šance"
@@ -473,10 +462,10 @@
       "name": "DYNAMIKE",
       "power": 11,
       "rank": 5,
-      "trophies": 1391,
-      "highestTrophies": 1391,
+      "trophies": 1416,
+      "highestTrophies": 1416,
       "prestigeLevel": 1,
-      "currentWinStreak": 2,
+      "currentWinStreak": 4,
       "maxWinStreak": 10,
       "skin": {
         "id": 29000395,
@@ -567,8 +556,8 @@
       "name": "MORTIS",
       "power": 11,
       "rank": 5,
-      "trophies": 1426,
-      "highestTrophies": 1434,
+      "trophies": 1420,
+      "highestTrophies": 1436,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 8,
@@ -1297,10 +1286,10 @@
       "name": "BIBI",
       "power": 11,
       "rank": 5,
-      "trophies": 1467,
-      "highestTrophies": 1467,
+      "trophies": 1490,
+      "highestTrophies": 1490,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 3,
       "maxWinStreak": 11,
       "skin": {
         "id": 29000682,
@@ -1498,11 +1487,11 @@
       "name": "EMZ",
       "power": 11,
       "rank": 5,
-      "trophies": 1000,
-      "highestTrophies": 1002,
+      "trophies": 1218,
+      "highestTrophies": 1225,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
-      "maxWinStreak": 5,
+      "maxWinStreak": 14,
       "skin": {
         "id": 29000657,
         "name": "HARAJUKU EMZ"
@@ -4350,10 +4339,10 @@
       "name": "ALLI",
       "power": 9,
       "rank": 5,
-      "trophies": 1030,
-      "highestTrophies": 1030,
+      "trophies": 1125,
+      "highestTrophies": 1129,
       "prestigeLevel": 1,
-      "currentWinStreak": 3,
+      "currentWinStreak": 0,
       "maxWinStreak": 16,
       "skin": {
         "id": 29001414,
@@ -4491,7 +4480,7 @@
       "name": "ZIGGY",
       "power": 11,
       "rank": 5,
-      "trophies": 1127,
+      "trophies": 1121,
       "highestTrophies": 1133,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
