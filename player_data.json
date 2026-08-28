@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 107235,
-  "highestTrophies": 107239,
+  "trophies": 107274,
+  "highestTrophies": 107274,
   "totalPrestigeLevel": 79,
   "expLevel": 228,
-  "expPoints": 266731,
+  "expPoints": 266835,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 12977,
+  "3vs3Victories": 12986,
   "soloVictories": 1808,
   "duoVictories": 1318,
   "bestRoboRumbleTime": 12,
@@ -1139,8 +1139,8 @@
       "currentWinStreak": 2,
       "maxWinStreak": 8,
       "skin": {
-        "id": 29000771,
-        "name": "MECHA LEON"
+        "id": 29000801,
+        "name": "RADIANT MECHA\nLEON"
       },
       "gadgets": [
         {
@@ -2825,10 +2825,10 @@
       "name": "GUS",
       "power": 8,
       "rank": 4,
-      "trophies": 851,
-      "highestTrophies": 859,
+      "trophies": 861,
+      "highestTrophies": 861,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 6,
       "skin": {
         "id": 29001231,
@@ -4951,8 +4951,8 @@
       "name": "WENDY",
       "power": 9,
       "rank": 4,
-      "trophies": 816,
-      "highestTrophies": 820,
+      "trophies": 845,
+      "highestTrophies": 849,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 14,
