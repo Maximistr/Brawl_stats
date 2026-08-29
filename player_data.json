@@ -9,9 +9,9 @@
   "highestTrophies": 107406,
   "totalPrestigeLevel": 79,
   "expLevel": 228,
-  "expPoints": 267145,
+  "expPoints": 267211,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13008,
+  "3vs3Victories": 13012,
   "soloVictories": 1808,
   "duoVictories": 1318,
   "bestRoboRumbleTime": 12,
@@ -3057,8 +3057,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 13,
       "skin": {
-        "id": 29000636,
-        "name": "CRIMSON R-T"
+        "id": 29001283,
+        "name": "GARGOYLE R-T"
       },
       "gadgets": [
         {
@@ -4287,8 +4287,8 @@
       "currentWinStreak": 3,
       "maxWinStreak": 16,
       "skin": {
-        "id": 29001208,
-        "name": "FRUITY KAZE"
+        "id": 29001409,
+        "name": "CLOCKWORK KAZE"
       },
       "gadgets": [
         {
