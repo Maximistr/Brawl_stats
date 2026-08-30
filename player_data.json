@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 107406,
-  "highestTrophies": 107406,
+  "trophies": 107567,
+  "highestTrophies": 107572,
   "totalPrestigeLevel": 79,
   "expLevel": 228,
-  "expPoints": 267211,
+  "expPoints": 267463,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13012,
+  "3vs3Victories": 13030,
   "soloVictories": 1808,
   "duoVictories": 1318,
   "bestRoboRumbleTime": 12,
@@ -799,10 +799,10 @@
       "name": "PAM",
       "power": 8,
       "rank": 3,
-      "trophies": 636,
-      "highestTrophies": 636,
+      "trophies": 656,
+      "highestTrophies": 656,
       "prestigeLevel": 0,
-      "currentWinStreak": 3,
+      "currentWinStreak": 1,
       "maxWinStreak": 4,
       "skin": {
         "id": 29000556,
@@ -843,8 +843,8 @@
       "currentWinStreak": 1,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29001163,
-        "name": "SHUKUTEKI TARA"
+        "id": 29000509,
+        "name": "TEMPEST TARA"
       },
       "gadgets": [
         {
@@ -1075,7 +1075,7 @@
       "name": "TICK",
       "power": 11,
       "rank": 5,
-      "trophies": 1098,
+      "trophies": 1093,
       "highestTrophies": 1104,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
@@ -2518,7 +2518,7 @@
       "buffies": {
         "gadget": true,
         "starPower": false,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -3364,11 +3364,11 @@
       "id": 16000073,
       "name": "CHUCK",
       "power": 9,
-      "rank": 3,
-      "trophies": 711,
-      "highestTrophies": 711,
+      "rank": 4,
+      "trophies": 779,
+      "highestTrophies": 785,
       "prestigeLevel": 0,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 10,
       "skin": {
         "id": 29001097,
@@ -3541,10 +3541,10 @@
       "name": "LARRY & LAWRIE",
       "power": 8,
       "rank": 4,
-      "trophies": 761,
+      "trophies": 758,
       "highestTrophies": 761,
       "prestigeLevel": 0,
-      "currentWinStreak": 11,
+      "currentWinStreak": 0,
       "maxWinStreak": 11,
       "skin": {
         "id": 29000819,
@@ -4281,10 +4281,10 @@
       "name": "KAZE",
       "power": 11,
       "rank": 5,
-      "trophies": 1512,
-      "highestTrophies": 1512,
+      "trophies": 1519,
+      "highestTrophies": 1525,
       "prestigeLevel": 1,
-      "currentWinStreak": 3,
+      "currentWinStreak": 0,
       "maxWinStreak": 16,
       "skin": {
         "id": 29001409,
@@ -4480,8 +4480,8 @@
       "name": "ZIGGY",
       "power": 11,
       "rank": 5,
-      "trophies": 1121,
-      "highestTrophies": 1133,
+      "trophies": 1175,
+      "highestTrophies": 1181,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 10,
@@ -4527,10 +4527,10 @@
       "name": "PIERCE",
       "power": 11,
       "rank": 4,
-      "trophies": 784,
-      "highestTrophies": 787,
+      "trophies": 794,
+      "highestTrophies": 794,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 9,
       "skin": {
         "id": 29001432,
@@ -4862,10 +4862,10 @@
       "name": "BOLT",
       "power": 11,
       "rank": 4,
-      "trophies": 827,
-      "highestTrophies": 831,
+      "trophies": 837,
+      "highestTrophies": 837,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 16,
       "skin": {
         "id": 29001620,
