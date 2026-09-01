@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 107567,
-  "highestTrophies": 107572,
+  "trophies": 107612,
+  "highestTrophies": 107612,
   "totalPrestigeLevel": 79,
   "expLevel": 228,
-  "expPoints": 267463,
+  "expPoints": 267505,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13030,
+  "3vs3Victories": 13034,
   "soloVictories": 1808,
   "duoVictories": 1318,
   "bestRoboRumbleTime": 12,
@@ -515,8 +515,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000359,
-        "name": "EL DRAGÓN ROSADO"
+        "id": 29001603,
+        "name": "ALL MIGHT: EL PRIMO"
       },
       "gadgets": [
         {
@@ -2863,10 +2863,10 @@
       "name": "BUSTER",
       "power": 11,
       "rank": 5,
-      "trophies": 1058,
-      "highestTrophies": 1064,
+      "trophies": 1091,
+      "highestTrophies": 1091,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 3,
       "maxWinStreak": 10,
       "skin": {
         "id": 29000594,
@@ -3895,10 +3895,10 @@
       "name": "MOE",
       "power": 7,
       "rank": 2,
-      "trophies": 294,
-      "highestTrophies": 294,
+      "trophies": 306,
+      "highestTrophies": 306,
       "prestigeLevel": 0,
-      "currentWinStreak": 2,
+      "currentWinStreak": 3,
       "maxWinStreak": 9,
       "skin": {
         "id": 29001062,
