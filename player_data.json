@@ -5,14 +5,14 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 107612,
-  "highestTrophies": 107612,
+  "trophies": 107672,
+  "highestTrophies": 107672,
   "totalPrestigeLevel": 79,
   "expLevel": 228,
-  "expPoints": 267505,
+  "expPoints": 267555,
   "isQualifiedFromChampionshipChallenge": false,
   "3vs3Victories": 13034,
-  "soloVictories": 1808,
+  "soloVictories": 1811,
   "duoVictories": 1318,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
@@ -246,7 +246,7 @@
         },
         {
           "id": 23000409,
-          "name": "BOUNCY CASTLE"
+          "name": "MULTIBALL"
         }
       ],
       "gears": [
@@ -646,7 +646,7 @@
         }
       ],
       "buffies": {
-        "gadget": false,
+        "gadget": true,
         "starPower": true,
         "hyperCharge": true
       }
@@ -1941,13 +1941,7 @@
           "name": "DANCING FLAMES"
         }
       ],
-      "gears": [
-        {
-          "id": 62000013,
-          "name": "STICKY OIL",
-          "level": 3
-        }
-      ],
+      "gears": [],
       "starPowers": [
         {
           "id": 23000307,
@@ -2495,7 +2489,7 @@
         },
         {
           "id": 23000489,
-          "name": "TOOLBOX"
+          "name": "REPURPOSE"
         }
       ],
       "gears": [],
@@ -2841,7 +2835,7 @@
         },
         {
           "id": 23000514,
-          "name": "SOUL SWITCHER"
+          "name": "KNOCKBACK SPIRIT"
         }
       ],
       "gears": [],
@@ -3363,12 +3357,12 @@
     {
       "id": 16000073,
       "name": "CHUCK",
-      "power": 9,
+      "power": 11,
       "rank": 4,
-      "trophies": 779,
-      "highestTrophies": 785,
+      "trophies": 841,
+      "highestTrophies": 841,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 10,
       "skin": {
         "id": 29001097,
@@ -3402,7 +3396,7 @@
         }
       ],
       "buffies": {
-        "gadget": false,
+        "gadget": true,
         "starPower": false,
         "hyperCharge": false
       }
@@ -3895,10 +3889,10 @@
       "name": "MOE",
       "power": 7,
       "rank": 2,
-      "trophies": 306,
+      "trophies": 304,
       "highestTrophies": 306,
       "prestigeLevel": 0,
-      "currentWinStreak": 3,
+      "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
         "id": 29001062,
@@ -4936,7 +4930,7 @@
         },
         {
           "id": 23001296,
-          "name": "HIS MOTHER’S SON"
+          "name": "HIS MOTHER'S SON"
         }
       ],
       "hyperCharges": [],
