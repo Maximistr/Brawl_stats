@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 107823,
-  "highestTrophies": 107823,
+  "trophies": 107885,
+  "highestTrophies": 107885,
   "totalPrestigeLevel": 79,
   "expLevel": 228,
-  "expPoints": 267752,
+  "expPoints": 267860,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13047,
+  "3vs3Victories": 13054,
   "soloVictories": 1813,
   "duoVictories": 1318,
   "bestRoboRumbleTime": 12,
@@ -177,14 +177,14 @@
       "name": "BROCK",
       "power": 11,
       "rank": 5,
-      "trophies": 1119,
+      "trophies": 1113,
       "highestTrophies": 1125,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000841,
-        "name": "SUPER RANGER BROCK BLACK"
+        "id": 29000864,
+        "name": "GOLD HACKER\nBROCK"
       },
       "gadgets": [
         {
@@ -1334,7 +1334,7 @@
         }
       ],
       "buffies": {
-        "gadget": false,
+        "gadget": true,
         "starPower": true,
         "hyperCharge": true
       }
@@ -3359,10 +3359,10 @@
       "name": "CHUCK",
       "power": 11,
       "rank": 4,
-      "trophies": 912,
-      "highestTrophies": 912,
+      "trophies": 976,
+      "highestTrophies": 976,
       "prestigeLevel": 0,
-      "currentWinStreak": 2,
+      "currentWinStreak": 1,
       "maxWinStreak": 10,
       "skin": {
         "id": 29001097,
@@ -4903,8 +4903,8 @@
       "name": "NORI",
       "power": 9,
       "rank": 5,
-      "trophies": 1149,
-      "highestTrophies": 1156,
+      "trophies": 1153,
+      "highestTrophies": 1159,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 11,
