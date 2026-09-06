@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 108196,
+  "trophies": 108193,
   "highestTrophies": 108196,
   "totalPrestigeLevel": 80,
   "fame": 81036,
   "fameTierName": "SOLAR FAME III",
   "expLevel": 229,
-  "expPoints": 268329,
+  "expPoints": 268331,
   "isQualifiedFromChampionshipChallenge": false,
   "3vs3Victories": 13079,
   "soloVictories": 1818,
@@ -2446,10 +2446,10 @@
       "name": "ASH",
       "power": 4,
       "rank": 2,
-      "trophies": 323,
+      "trophies": 320,
       "highestTrophies": 323,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 4,
       "skin": {
         "id": 29001198,
