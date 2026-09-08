@@ -5,16 +5,16 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 108254,
-  "highestTrophies": 108258,
-  "totalPrestigeLevel": 80,
-  "fame": 81036,
+  "trophies": 108497,
+  "highestTrophies": 108511,
+  "totalPrestigeLevel": 82,
+  "fame": 81191,
   "fameTierName": "SOLAR FAME III",
   "expLevel": 229,
-  "expPoints": 268473,
+  "expPoints": 268800,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13087,
-  "soloVictories": 1819,
+  "3vs3Victories": 13107,
+  "soloVictories": 1820,
   "duoVictories": 1318,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
@@ -658,7 +658,7 @@
       "name": "POCO",
       "power": 11,
       "rank": 5,
-      "trophies": 1142,
+      "trophies": 1136,
       "highestTrophies": 1148,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
@@ -2820,12 +2820,12 @@
       "id": 16000061,
       "name": "GUS",
       "power": 11,
-      "rank": 4,
-      "trophies": 922,
-      "highestTrophies": 926,
-      "prestigeLevel": 0,
-      "currentWinStreak": 0,
-      "maxWinStreak": 6,
+      "rank": 5,
+      "trophies": 1030,
+      "highestTrophies": 1030,
+      "prestigeLevel": 1,
+      "currentWinStreak": 8,
+      "maxWinStreak": 8,
       "skin": {
         "id": 29001231,
         "name": "GRIM GUS"
@@ -2841,7 +2841,12 @@
         }
       ],
       "gears": [],
-      "starPowers": [],
+      "starPowers": [
+        {
+          "id": 23000511,
+          "name": "HEALTH BONANZA"
+        }
+      ],
       "hyperCharges": [
         {
           "id": 23000919,
@@ -3837,11 +3842,11 @@
       "id": 16000083,
       "name": "CLANCY",
       "power": 9,
-      "rank": 4,
-      "trophies": 904,
-      "highestTrophies": 904,
-      "prestigeLevel": 0,
-      "currentWinStreak": 2,
+      "rank": 5,
+      "trophies": 1009,
+      "highestTrophies": 1009,
+      "prestigeLevel": 1,
+      "currentWinStreak": 4,
       "maxWinStreak": 8,
       "skin": {
         "id": 29001167,
@@ -4085,7 +4090,7 @@
     {
       "id": 16000089,
       "name": "MEEPLE",
-      "power": 7,
+      "power": 9,
       "rank": 4,
       "trophies": 768,
       "highestTrophies": 771,
@@ -4523,10 +4528,10 @@
       "name": "PIERCE",
       "power": 11,
       "rank": 4,
-      "trophies": 853,
+      "trophies": 845,
       "highestTrophies": 853,
       "prestigeLevel": 0,
-      "currentWinStreak": 4,
+      "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
         "id": 29001432,
@@ -4947,10 +4952,10 @@
       "name": "WENDY",
       "power": 9,
       "rank": 4,
-      "trophies": 864,
-      "highestTrophies": 864,
+      "trophies": 908,
+      "highestTrophies": 912,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 14,
       "skin": {
         "id": 29001653,
@@ -4960,6 +4965,10 @@
         {
           "id": 23001320,
           "name": "WIND-POWERED"
+        },
+        {
+          "id": 23001321,
+          "name": "GREEN GRENADE"
         }
       ],
       "gears": [],
