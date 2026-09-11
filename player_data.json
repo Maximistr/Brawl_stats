@@ -5,15 +5,15 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 108607,
-  "highestTrophies": 108607,
+  "trophies": 108659,
+  "highestTrophies": 108663,
   "totalPrestigeLevel": 83,
-  "fame": 81225,
+  "fame": 81260,
   "fameTierName": "SOLAR FAME III",
   "expLevel": 229,
-  "expPoints": 269005,
+  "expPoints": 269181,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13113,
+  "3vs3Victories": 13127,
   "soloVictories": 1825,
   "duoVictories": 1318,
   "bestRoboRumbleTime": 12,
@@ -4035,7 +4035,7 @@
         }
       ],
       "buffies": {
-        "gadget": false,
+        "gadget": true,
         "starPower": false,
         "hyperCharge": false
       }
@@ -4528,10 +4528,10 @@
       "name": "PIERCE",
       "power": 11,
       "rank": 4,
-      "trophies": 845,
-      "highestTrophies": 853,
+      "trophies": 880,
+      "highestTrophies": 880,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 9,
       "skin": {
         "id": 29001432,
@@ -4863,8 +4863,8 @@
       "name": "BOLT",
       "power": 11,
       "rank": 4,
-      "trophies": 844,
-      "highestTrophies": 848,
+      "trophies": 861,
+      "highestTrophies": 865,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 16,
