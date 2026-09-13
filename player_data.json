@@ -5,16 +5,16 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 108659,
-  "highestTrophies": 108663,
+  "trophies": 108785,
+  "highestTrophies": 108790,
   "totalPrestigeLevel": 83,
-  "fame": 81427,
+  "fame": 82032,
   "fameTierName": "SOLAR FAME III",
   "expLevel": 229,
-  "expPoints": 269203,
+  "expPoints": 269570,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13128,
-  "soloVictories": 1825,
+  "3vs3Victories": 13147,
+  "soloVictories": 1828,
   "duoVictories": 1318,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
@@ -185,8 +185,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000864,
-        "name": "GOLD HACKER\nBROCK"
+        "id": 29000841,
+        "name": "SUPER RANGER BROCK BLACK"
       },
       "gadgets": [
         {
@@ -3419,8 +3419,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 6,
       "skin": {
-        "id": 29000728,
-        "name": "ROSIE CHARLIE"
+        "id": 29000815,
+        "name": "VIRUS CHARLIE"
       },
       "gadgets": [],
       "gears": [],
@@ -4045,10 +4045,10 @@
       "name": "JUJU",
       "power": 9,
       "rank": 4,
-      "trophies": 781,
-      "highestTrophies": 781,
+      "trophies": 800,
+      "highestTrophies": 800,
       "prestigeLevel": 0,
-      "currentWinStreak": 2,
+      "currentWinStreak": 1,
       "maxWinStreak": 22,
       "skin": {
         "id": 29001104,
@@ -4112,7 +4112,12 @@
         }
       ],
       "gears": [],
-      "starPowers": [],
+      "starPowers": [
+        {
+          "id": 23000876,
+          "name": "RULE BENDING"
+        }
+      ],
       "hyperCharges": [
         {
           "id": 23001055,
@@ -4528,10 +4533,10 @@
       "name": "PIERCE",
       "power": 11,
       "rank": 4,
-      "trophies": 880,
-      "highestTrophies": 880,
+      "trophies": 987,
+      "highestTrophies": 992,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
         "id": 29001432,
