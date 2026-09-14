@@ -5,17 +5,17 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 108785,
-  "highestTrophies": 108790,
-  "totalPrestigeLevel": 83,
-  "fame": 82032,
+  "trophies": 109000,
+  "highestTrophies": 109006,
+  "totalPrestigeLevel": 84,
+  "fame": 82187,
   "fameTierName": "SOLAR FAME III",
   "expLevel": 229,
-  "expPoints": 269570,
+  "expPoints": 269979,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13147,
-  "soloVictories": 1828,
-  "duoVictories": 1318,
+  "3vs3Victories": 13162,
+  "soloVictories": 1830,
+  "duoVictories": 1325,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
   "rankedSeasonId": 48,
@@ -2845,6 +2845,10 @@
         {
           "id": 23000511,
           "name": "HEALTH BONANZA"
+        },
+        {
+          "id": 23000512,
+          "name": "SPIRIT ANIMAL"
         }
       ],
       "hyperCharges": [
@@ -3796,7 +3800,7 @@
       "name": "BERRY",
       "power": 9,
       "rank": 3,
-      "trophies": 690,
+      "trophies": 687,
       "highestTrophies": 693,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
@@ -4092,8 +4096,8 @@
       "name": "MEEPLE",
       "power": 9,
       "rank": 4,
-      "trophies": 768,
-      "highestTrophies": 771,
+      "trophies": 800,
+      "highestTrophies": 802,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 9,
@@ -4287,8 +4291,8 @@
       "name": "KAZE",
       "power": 11,
       "rank": 5,
-      "trophies": 1560,
-      "highestTrophies": 1575,
+      "trophies": 1737,
+      "highestTrophies": 1743,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 16,
@@ -4532,11 +4536,11 @@
       "id": 16000099,
       "name": "PIERCE",
       "power": 11,
-      "rank": 4,
-      "trophies": 987,
-      "highestTrophies": 992,
-      "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "rank": 5,
+      "trophies": 1000,
+      "highestTrophies": 1000,
+      "prestigeLevel": 1,
+      "currentWinStreak": 1,
       "maxWinStreak": 9,
       "skin": {
         "id": 29001432,
@@ -4868,7 +4872,7 @@
       "name": "BOLT",
       "power": 11,
       "rank": 4,
-      "trophies": 861,
+      "trophies": 857,
       "highestTrophies": 865,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
@@ -4987,7 +4991,12 @@
           "name": "SOLAR SHIELD"
         }
       ],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23001473,
+          "name": "GREEN ENERGY"
+        }
+      ],
       "buffies": {
         "gadget": false,
         "starPower": false,
