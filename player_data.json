@@ -5,15 +5,15 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 109038,
-  "highestTrophies": 109051,
+  "trophies": 109084,
+  "highestTrophies": 109086,
   "totalPrestigeLevel": 84,
   "fame": 82351,
   "fameTierName": "SOLAR FAME III",
-  "expLevel": 229,
-  "expPoints": 270126,
+  "expLevel": 230,
+  "expPoints": 270240,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13168,
+  "3vs3Victories": 13177,
   "soloVictories": 1834,
   "duoVictories": 1325,
   "bestRoboRumbleTime": 12,
@@ -179,14 +179,14 @@
       "name": "BROCK",
       "power": 11,
       "rank": 5,
-      "trophies": 1113,
+      "trophies": 1117,
       "highestTrophies": 1125,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000841,
-        "name": "SUPER RANGER BROCK BLACK"
+        "id": 29000864,
+        "name": "GOLD HACKER\nBROCK"
       },
       "gadgets": [
         {
@@ -3294,8 +3294,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 11,
       "skin": {
-        "id": 29001221,
-        "name": "KNIGHT DOUG"
+        "id": 29001768,
+        "name": "JÖRMUNGANDR DOUG"
       },
       "gadgets": [
         {
@@ -3900,10 +3900,10 @@
       "name": "MOE",
       "power": 7,
       "rank": 2,
-      "trophies": 383,
+      "trophies": 381,
       "highestTrophies": 383,
       "prestigeLevel": 0,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
         "id": 29001669,
@@ -4096,10 +4096,10 @@
       "name": "MEEPLE",
       "power": 9,
       "rank": 4,
-      "trophies": 800,
-      "highestTrophies": 802,
+      "trophies": 844,
+      "highestTrophies": 844,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 9,
       "skin": {
         "id": 29001106,
