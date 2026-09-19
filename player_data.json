@@ -5,29 +5,40 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 109419,
-  "highestTrophies": 109426,
+  "trophies": 109536,
+  "highestTrophies": 109540,
   "totalPrestigeLevel": 85,
-  "fame": 82442,
+  "fame": 83102,
   "fameTierName": "SOLAR FAME III",
   "expLevel": 230,
-  "expPoints": 270750,
+  "expPoints": 271166,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13208,
+  "3vs3Victories": 13240,
   "soloVictories": 1838,
   "duoVictories": 1325,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
   "rankedSeasonId": 49,
-  "rankedRank": 5,
-  "rankedRankName": "SILVER II",
-  "rankedElo": 1000,
-  "highestSeasonRankedRank": 5,
-  "highestSeasonRankedRankName": "SILVER II",
-  "highestSeasonRankedElo": 1000,
+  "rankedRank": 8,
+  "rankedRankName": "GOLD II",
+  "rankedElo": 2170,
+  "highestSeasonRankedRank": 8,
+  "highestSeasonRankedRankName": "GOLD II",
+  "highestSeasonRankedElo": 2170,
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
+  "bestBossFightSpeedrunTimes": [
+    {
+      "event": {
+        "id": 0,
+        "modeId": 0
+      },
+      "bestTimeInSeconds": 132,
+      "difficulty": 0,
+      "difficultyName": "Normal"
+    }
+  ],
   "club": {
     "tag": "#2PGGYUP22",
     "name": "Druhá Šance"
@@ -716,14 +727,14 @@
       "name": "BO",
       "power": 7,
       "rank": 3,
-      "trophies": 551,
-      "highestTrophies": 551,
+      "trophies": 578,
+      "highestTrophies": 580,
       "prestigeLevel": 0,
-      "currentWinStreak": 4,
-      "maxWinStreak": 4,
+      "currentWinStreak": 0,
+      "maxWinStreak": 6,
       "skin": {
-        "id": 29001049,
-        "name": "CUPID BO"
+        "id": 29000441,
+        "name": "HO HO HO BO"
       },
       "gadgets": [
         {
@@ -1288,7 +1299,7 @@
       "name": "BIBI",
       "power": 11,
       "rank": 5,
-      "trophies": 1488,
+      "trophies": 1490,
       "highestTrophies": 1503,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
@@ -2399,10 +2410,10 @@
       "name": "GRIFF",
       "power": 11,
       "rank": 5,
-      "trophies": 1372,
-      "highestTrophies": 1376,
+      "trophies": 1379,
+      "highestTrophies": 1387,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
         "id": 29000453,
@@ -3798,12 +3809,12 @@
     {
       "id": 16000082,
       "name": "BERRY",
-      "power": 9,
+      "power": 10,
       "rank": 3,
-      "trophies": 687,
-      "highestTrophies": 693,
+      "trophies": 726,
+      "highestTrophies": 726,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 2,
       "maxWinStreak": 6,
       "skin": {
         "id": 29001059,
@@ -4047,10 +4058,10 @@
     {
       "id": 16000087,
       "name": "JUJU",
-      "power": 10,
+      "power": 11,
       "rank": 4,
-      "trophies": 913,
-      "highestTrophies": 917,
+      "trophies": 955,
+      "highestTrophies": 959,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 22,
