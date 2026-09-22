@@ -5,15 +5,15 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 109666,
-  "highestTrophies": 109666,
+  "trophies": 109817,
+  "highestTrophies": 109817,
   "totalPrestigeLevel": 86,
-  "fame": 83122,
+  "fame": 83272,
   "fameTierName": "SOLAR FAME III",
   "expLevel": 230,
-  "expPoints": 271316,
+  "expPoints": 271502,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13254,
+  "3vs3Victories": 13275,
   "soloVictories": 1838,
   "duoVictories": 1325,
   "bestRoboRumbleTime": 12,
@@ -34,7 +34,7 @@
         "id": 0,
         "modeId": 0
       },
-      "bestTimeInSeconds": 132,
+      "bestTimeInSeconds": 175,
       "difficulty": 0,
       "difficultyName": "Normal"
     }
@@ -342,12 +342,12 @@
       "id": 16000006,
       "name": "BARLEY",
       "power": 8,
-      "rank": 3,
-      "trophies": 716,
-      "highestTrophies": 716,
+      "rank": 4,
+      "trophies": 789,
+      "highestTrophies": 789,
       "prestigeLevel": 0,
-      "currentWinStreak": 5,
-      "maxWinStreak": 7,
+      "currentWinStreak": 1,
+      "maxWinStreak": 9,
       "skin": {
         "id": 29000356,
         "name": "UNICORN KNIGHT BARLEY"
@@ -3811,11 +3811,11 @@
       "name": "BERRY",
       "power": 11,
       "rank": 4,
-      "trophies": 810,
-      "highestTrophies": 810,
+      "trophies": 867,
+      "highestTrophies": 867,
       "prestigeLevel": 0,
-      "currentWinStreak": 6,
-      "maxWinStreak": 6,
+      "currentWinStreak": 1,
+      "maxWinStreak": 9,
       "skin": {
         "id": 29001059,
         "name": "STARRHORSE BERRY"
@@ -3909,12 +3909,12 @@
     {
       "id": 16000084,
       "name": "MOE",
-      "power": 7,
+      "power": 8,
       "rank": 2,
-      "trophies": 381,
-      "highestTrophies": 383,
+      "trophies": 402,
+      "highestTrophies": 402,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 2,
       "maxWinStreak": 9,
       "skin": {
         "id": 29001669,
@@ -4964,7 +4964,12 @@
           "name": "HIS MOTHER'S SON"
         }
       ],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23001472,
+          "name": "MASTER FISHERMAN"
+        }
+      ],
       "buffies": {
         "gadget": false,
         "starPower": false,
