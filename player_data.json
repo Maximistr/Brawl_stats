@@ -5,15 +5,15 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 109830,
-  "highestTrophies": 109834,
+  "trophies": 109946,
+  "highestTrophies": 109950,
   "totalPrestigeLevel": 86,
-  "fame": 83272,
+  "fame": 83282,
   "fameTierName": "SOLAR FAME III",
   "expLevel": 230,
-  "expPoints": 271534,
+  "expPoints": 271828,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13278,
+  "3vs3Victories": 13302,
   "soloVictories": 1838,
   "duoVictories": 1325,
   "bestRoboRumbleTime": 12,
@@ -34,7 +34,7 @@
         "id": 0,
         "modeId": 0
       },
-      "bestTimeInSeconds": 175,
+      "bestTimeInSeconds": 127,
       "difficulty": 0,
       "difficultyName": "Normal"
     }
@@ -2135,10 +2135,10 @@
       "name": "RUFFS",
       "power": 7,
       "rank": 3,
-      "trophies": 672,
-      "highestTrophies": 675,
+      "trophies": 682,
+      "highestTrophies": 682,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 7,
       "skin": {
         "id": 29001284,
@@ -2466,7 +2466,12 @@
         "id": 29001198,
         "name": "SHINOBI ASH"
       },
-      "gadgets": [],
+      "gadgets": [
+        {
+          "id": 23000416,
+          "name": "CHILL PILL"
+        }
+      ],
       "gears": [],
       "starPowers": [],
       "hyperCharges": [
@@ -3811,8 +3816,8 @@
       "name": "BERRY",
       "power": 11,
       "rank": 4,
-      "trophies": 886,
-      "highestTrophies": 890,
+      "trophies": 992,
+      "highestTrophies": 996,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 9,
