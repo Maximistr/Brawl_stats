@@ -8,12 +8,12 @@
   "trophies": 109946,
   "highestTrophies": 109950,
   "totalPrestigeLevel": 86,
-  "fame": 83287,
+  "fame": 83352,
   "fameTierName": "SOLAR FAME III",
   "expLevel": 230,
-  "expPoints": 271828,
+  "expPoints": 271876,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13302,
+  "3vs3Victories": 13307,
   "soloVictories": 1838,
   "duoVictories": 1325,
   "bestRoboRumbleTime": 12,
@@ -28,17 +28,6 @@
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
-  "bestBossFightSpeedrunTimes": [
-    {
-      "event": {
-        "id": 0,
-        "modeId": 0
-      },
-      "bestTimeInSeconds": 127,
-      "difficulty": 0,
-      "difficultyName": "Normal"
-    }
-  ],
   "club": {
     "tag": "#2PGGYUP22",
     "name": "Druhá Šance"
