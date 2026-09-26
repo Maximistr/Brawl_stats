@@ -5,15 +5,15 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 109946,
-  "highestTrophies": 109950,
-  "totalPrestigeLevel": 86,
-  "fame": 83352,
+  "trophies": 109974,
+  "highestTrophies": 109974,
+  "totalPrestigeLevel": 87,
+  "fame": 84507,
   "fameTierName": "SOLAR FAME III",
   "expLevel": 230,
-  "expPoints": 271876,
+  "expPoints": 272109,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13307,
+  "3vs3Victories": 13326,
   "soloVictories": 1838,
   "duoVictories": 1325,
   "bestRoboRumbleTime": 12,
@@ -28,6 +28,26 @@
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
+  "bestBossFightSpeedrunTimes": [
+    {
+      "event": {
+        "id": 0,
+        "modeId": 0
+      },
+      "bestTimeInSeconds": 133,
+      "difficulty": 5,
+      "difficultyName": "Impossible"
+    },
+    {
+      "event": {
+        "id": 0,
+        "modeId": 0
+      },
+      "bestTimeInSeconds": 117,
+      "difficulty": 0,
+      "difficultyName": "Normal"
+    }
+  ],
   "club": {
     "tag": "#2PGGYUP22",
     "name": "Druhá Šance"
@@ -132,10 +152,10 @@
       "name": "BULL",
       "power": 11,
       "rank": 5,
-      "trophies": 1281,
-      "highestTrophies": 1288,
+      "trophies": 1289,
+      "highestTrophies": 1289,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 6,
       "skin": {
         "id": 29000625,
@@ -2562,8 +2582,8 @@
       "currentWinStreak": 7,
       "maxWinStreak": 10,
       "skin": {
-        "id": 29000540,
-        "name": "OCTO FANG"
+        "id": 29001229,
+        "name": "INFERNAL FANG"
       },
       "gadgets": [
         {
@@ -3414,7 +3434,7 @@
       "buffies": {
         "gadget": true,
         "starPower": false,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -3804,11 +3824,11 @@
       "id": 16000082,
       "name": "BERRY",
       "power": 11,
-      "rank": 4,
-      "trophies": 992,
-      "highestTrophies": 996,
-      "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "rank": 5,
+      "trophies": 1002,
+      "highestTrophies": 1002,
+      "prestigeLevel": 1,
+      "currentWinStreak": 1,
       "maxWinStreak": 9,
       "skin": {
         "id": 29001059,
@@ -4405,10 +4425,10 @@
       "name": "TRUNK",
       "power": 9,
       "rank": 3,
-      "trophies": 505,
-      "highestTrophies": 507,
+      "trophies": 515,
+      "highestTrophies": 515,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 10,
       "skin": {
         "id": 29001501,
@@ -4973,7 +4993,7 @@
     {
       "id": 16000108,
       "name": "WENDY",
-      "power": 9,
+      "power": 11,
       "rank": 5,
       "trophies": 1018,
       "highestTrophies": 1018,
