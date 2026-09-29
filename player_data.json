@@ -5,15 +5,15 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 110034,
-  "highestTrophies": 110034,
+  "trophies": 110276,
+  "highestTrophies": 110280,
   "totalPrestigeLevel": 87,
-  "fame": 84517,
+  "fame": 85017,
   "fameTierName": "SOLAR FAME III",
-  "expLevel": 230,
-  "expPoints": 272315,
+  "expLevel": 231,
+  "expPoints": 272555,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13344,
+  "3vs3Victories": 13364,
   "soloVictories": 1838,
   "duoVictories": 1325,
   "bestRoboRumbleTime": 12,
@@ -37,15 +37,6 @@
       "bestTimeInSeconds": 128,
       "difficulty": 0,
       "difficultyName": "Normal"
-    },
-    {
-      "event": {
-        "id": 0,
-        "modeId": 0
-      },
-      "bestTimeInSeconds": 133,
-      "difficulty": 5,
-      "difficultyName": "Impossible"
     }
   ],
   "club": {
@@ -2946,8 +2937,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 12,
       "skin": {
-        "id": 29001133,
-        "name": "UNO CHESTER"
+        "id": 29000595,
+        "name": "CHESTER"
       },
       "gadgets": [
         {
@@ -3923,12 +3914,12 @@
     {
       "id": 16000084,
       "name": "MOE",
-      "power": 8,
-      "rank": 2,
-      "trophies": 402,
-      "highestTrophies": 402,
+      "power": 10,
+      "rank": 3,
+      "trophies": 615,
+      "highestTrophies": 618,
       "prestigeLevel": 0,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
         "id": 29001669,
@@ -3945,7 +3936,16 @@
         }
       ],
       "gears": [],
-      "starPowers": [],
+      "starPowers": [
+        {
+          "id": 23000804,
+          "name": "SKIPPING STONES"
+        },
+        {
+          "id": 23000805,
+          "name": "SPEEDING TICKET"
+        }
+      ],
       "hyperCharges": [
         {
           "id": 23001002,
@@ -4901,8 +4901,8 @@
       "name": "BOLT",
       "power": 11,
       "rank": 4,
-      "trophies": 874,
-      "highestTrophies": 878,
+      "trophies": 903,
+      "highestTrophies": 907,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 16,
