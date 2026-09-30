@@ -5,15 +5,15 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 110276,
+  "trophies": 110272,
   "highestTrophies": 110280,
   "totalPrestigeLevel": 87,
-  "fame": 85017,
+  "fame": 85047,
   "fameTierName": "SOLAR FAME III",
   "expLevel": 231,
-  "expPoints": 272555,
+  "expPoints": 272567,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13364,
+  "3vs3Victories": 13365,
   "soloVictories": 1838,
   "duoVictories": 1325,
   "bestRoboRumbleTime": 12,
@@ -28,17 +28,6 @@
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
-  "bestBossFightSpeedrunTimes": [
-    {
-      "event": {
-        "id": 0,
-        "modeId": 0
-      },
-      "bestTimeInSeconds": 128,
-      "difficulty": 0,
-      "difficultyName": "Normal"
-    }
-  ],
   "club": {
     "tag": "#2PGGYUP22",
     "name": "Druhá Šance"
@@ -196,8 +185,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000839,
-        "name": "SUPER RANGER BROCK YELLOW"
+        "id": 29000838,
+        "name": "SUPER RANGER BROCK BLUE"
       },
       "gadgets": [
         {
@@ -2470,6 +2459,10 @@
         {
           "id": 23000416,
           "name": "CHILL PILL"
+        },
+        {
+          "id": 23000465,
+          "name": "ROTTEN BANANA"
         }
       ],
       "gears": [],
@@ -2547,7 +2540,16 @@
         "id": 29000568,
         "name": "LAWLESS LOLA"
       },
-      "gadgets": [],
+      "gadgets": [
+        {
+          "id": 23000433,
+          "name": "FREEZE FRAME"
+        },
+        {
+          "id": 23000456,
+          "name": "STUNT DOUBLE"
+        }
+      ],
       "gears": [],
       "starPowers": [],
       "hyperCharges": [
@@ -4901,7 +4903,7 @@
       "name": "BOLT",
       "power": 11,
       "rank": 4,
-      "trophies": 903,
+      "trophies": 899,
       "highestTrophies": 907,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
