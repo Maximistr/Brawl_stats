@@ -5,15 +5,15 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 110272,
-  "highestTrophies": 110280,
+  "trophies": 110607,
+  "highestTrophies": 110608,
   "totalPrestigeLevel": 87,
-  "fame": 85547,
+  "fame": 85647,
   "fameTierName": "SOLAR FAME III",
   "expLevel": 231,
-  "expPoints": 272663,
+  "expPoints": 272965,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13370,
+  "3vs3Victories": 13392,
   "soloVictories": 1838,
   "duoVictories": 1325,
   "bestRoboRumbleTime": 12,
@@ -28,17 +28,6 @@
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
-  "bestBossFightSpeedrunTimes": [
-    {
-      "event": {
-        "id": 0,
-        "modeId": 0
-      },
-      "bestTimeInSeconds": 175,
-      "difficulty": 0,
-      "difficultyName": "Normal"
-    }
-  ],
   "club": {
     "tag": "#2PGGYUP22",
     "name": "Druhá Šance"
@@ -96,10 +85,10 @@
       "name": "COLT",
       "power": 11,
       "rank": 5,
-      "trophies": 1125,
+      "trophies": 1118,
       "highestTrophies": 1125,
       "prestigeLevel": 1,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 10,
       "skin": {
         "id": 29000789,
@@ -343,10 +332,10 @@
       "name": "BARLEY",
       "power": 8,
       "rank": 4,
-      "trophies": 789,
+      "trophies": 786,
       "highestTrophies": 789,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
         "id": 29000356,
@@ -2410,10 +2399,10 @@
       "name": "GRIFF",
       "power": 11,
       "rank": 5,
-      "trophies": 1379,
-      "highestTrophies": 1387,
+      "trophies": 1389,
+      "highestTrophies": 1389,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 9,
       "skin": {
         "id": 29000453,
@@ -2887,7 +2876,7 @@
         }
       ],
       "buffies": {
-        "gadget": false,
+        "gadget": true,
         "starPower": false,
         "hyperCharge": false
       }
@@ -3381,6 +3370,10 @@
       },
       "gadgets": [
         {
+          "id": 23000603,
+          "name": "OVERCOOKED"
+        },
+        {
           "id": 23000604,
           "name": "MADE WITH LOVE"
         }
@@ -3460,7 +3453,12 @@
         "id": 29000815,
         "name": "VIRUS CHARLIE"
       },
-      "gadgets": [],
+      "gadgets": [
+        {
+          "id": 23000625,
+          "name": "SPIDERS"
+        }
+      ],
       "gears": [],
       "starPowers": [],
       "hyperCharges": [
@@ -3480,10 +3478,10 @@
       "name": "MICO",
       "power": 11,
       "rank": 5,
-      "trophies": 1032,
+      "trophies": 1027,
       "highestTrophies": 1032,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 9,
       "skin": {
         "id": 29001663,
@@ -3776,10 +3774,10 @@
       "name": "LILY",
       "power": 11,
       "rank": 5,
-      "trophies": 1305,
-      "highestTrophies": 1319,
+      "trophies": 1416,
+      "highestTrophies": 1416,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 10,
       "skin": {
         "id": 29001223,
@@ -4084,7 +4082,7 @@
       "buffies": {
         "gadget": true,
         "starPower": false,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -4307,7 +4305,7 @@
     {
       "id": 16000093,
       "name": "JAE-YONG",
-      "power": 5,
+      "power": 7,
       "rank": 2,
       "trophies": 371,
       "highestTrophies": 375,
@@ -4443,10 +4441,10 @@
       "name": "TRUNK",
       "power": 9,
       "rank": 3,
-      "trophies": 580,
-      "highestTrophies": 580,
+      "trophies": 596,
+      "highestTrophies": 596,
       "prestigeLevel": 0,
-      "currentWinStreak": 6,
+      "currentWinStreak": 7,
       "maxWinStreak": 10,
       "skin": {
         "id": 29001501,
@@ -4919,10 +4917,10 @@
       "name": "BOLT",
       "power": 11,
       "rank": 4,
-      "trophies": 899,
-      "highestTrophies": 907,
+      "trophies": 909,
+      "highestTrophies": 909,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 16,
       "skin": {
         "id": 29001620,
@@ -5049,6 +5047,35 @@
           "name": "GREEN ENERGY"
         }
       ],
+      "buffies": {
+        "gadget": false,
+        "starPower": false,
+        "hyperCharge": false
+      }
+    },
+    {
+      "id": 16000109,
+      "name": "COSMO",
+      "power": 9,
+      "rank": 1,
+      "trophies": 203,
+      "highestTrophies": 204,
+      "prestigeLevel": 0,
+      "currentWinStreak": 0,
+      "maxWinStreak": 12,
+      "skin": {
+        "id": 29001756,
+        "name": "COSMO"
+      },
+      "gadgets": [],
+      "gears": [],
+      "starPowers": [
+        {
+          "id": 23001443,
+          "name": "AMMO ATTRACTOR"
+        }
+      ],
+      "hyperCharges": [],
       "buffies": {
         "gadget": false,
         "starPower": false,
