@@ -5,15 +5,15 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 110607,
-  "highestTrophies": 110608,
+  "trophies": 110883,
+  "highestTrophies": 110885,
   "totalPrestigeLevel": 87,
-  "fame": 85647,
+  "fame": 86107,
   "fameTierName": "SOLAR FAME III",
   "expLevel": 231,
-  "expPoints": 272965,
+  "expPoints": 273205,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13392,
+  "3vs3Victories": 13414,
   "soloVictories": 1838,
   "duoVictories": 1325,
   "bestRoboRumbleTime": 12,
@@ -716,10 +716,10 @@
       "name": "BO",
       "power": 7,
       "rank": 3,
-      "trophies": 578,
-      "highestTrophies": 580,
+      "trophies": 588,
+      "highestTrophies": 588,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 6,
       "skin": {
         "id": 29000441,
@@ -3457,6 +3457,10 @@
         {
           "id": 23000625,
           "name": "SPIDERS"
+        },
+        {
+          "id": 23000626,
+          "name": "PERSONAL SPACE"
         }
       ],
       "gears": [],
@@ -4316,7 +4320,12 @@
         "id": 29001199,
         "name": "JAMMIN' JAE"
       },
-      "gadgets": [],
+      "gadgets": [
+        {
+          "id": 23000932,
+          "name": "TIME FOR A SLOW SONG"
+        }
+      ],
       "gears": [],
       "starPowers": [],
       "hyperCharges": [
@@ -5057,9 +5066,9 @@
       "id": 16000109,
       "name": "COSMO",
       "power": 9,
-      "rank": 1,
-      "trophies": 203,
-      "highestTrophies": 204,
+      "rank": 2,
+      "trophies": 469,
+      "highestTrophies": 471,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 12,
@@ -5067,7 +5076,16 @@
         "id": 29001756,
         "name": "COSMO"
       },
-      "gadgets": [],
+      "gadgets": [
+        {
+          "id": 23001444,
+          "name": "PLANETARY PUSHBACK"
+        },
+        {
+          "id": 23001445,
+          "name": "TELESCOPE TRAP"
+        }
+      ],
       "gears": [],
       "starPowers": [
         {
