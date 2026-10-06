@@ -5,15 +5,15 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 110946,
-  "highestTrophies": 110946,
+  "trophies": 111006,
+  "highestTrophies": 111006,
   "totalPrestigeLevel": 87,
-  "fame": 86257,
+  "fame": 86267,
   "fameTierName": "SOLAR FAME III",
   "expLevel": 231,
-  "expPoints": 273327,
+  "expPoints": 273427,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13420,
+  "3vs3Victories": 13426,
   "soloVictories": 1838,
   "duoVictories": 1325,
   "bestRoboRumbleTime": 12,
@@ -4322,6 +4322,10 @@
       },
       "gadgets": [
         {
+          "id": 23000931,
+          "name": "WEEKEND WARRIOR"
+        },
+        {
           "id": 23000932,
           "name": "TIME FOR A SLOW SONG"
         }
@@ -5067,8 +5071,8 @@
       "name": "COSMO",
       "power": 9,
       "rank": 3,
-      "trophies": 502,
-      "highestTrophies": 502,
+      "trophies": 562,
+      "highestTrophies": 562,
       "prestigeLevel": 0,
       "currentWinStreak": 3,
       "maxWinStreak": 12,
