@@ -5,15 +5,15 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 111006,
-  "highestTrophies": 111006,
+  "trophies": 111127,
+  "highestTrophies": 111131,
   "totalPrestigeLevel": 87,
-  "fame": 86267,
+  "fame": 86452,
   "fameTierName": "SOLAR FAME III",
   "expLevel": 231,
-  "expPoints": 273427,
+  "expPoints": 273551,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13426,
+  "3vs3Victories": 13437,
   "soloVictories": 1838,
   "duoVictories": 1325,
   "bestRoboRumbleTime": 12,
@@ -658,10 +658,10 @@
       "name": "POCO",
       "power": 11,
       "rank": 5,
-      "trophies": 1136,
+      "trophies": 1146,
       "highestTrophies": 1148,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 8,
       "skin": {
         "id": 29001336,
@@ -4930,10 +4930,10 @@
       "name": "BOLT",
       "power": 11,
       "rank": 4,
-      "trophies": 909,
-      "highestTrophies": 909,
+      "trophies": 970,
+      "highestTrophies": 974,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 16,
       "skin": {
         "id": 29001620,
@@ -5071,10 +5071,10 @@
       "name": "COSMO",
       "power": 9,
       "rank": 3,
-      "trophies": 562,
-      "highestTrophies": 562,
+      "trophies": 612,
+      "highestTrophies": 612,
       "prestigeLevel": 0,
-      "currentWinStreak": 3,
+      "currentWinStreak": 4,
       "maxWinStreak": 12,
       "skin": {
         "id": 29001756,
@@ -5092,6 +5092,10 @@
       ],
       "gears": [],
       "starPowers": [
+        {
+          "id": 23001442,
+          "name": "PRECESSION"
+        },
         {
           "id": 23001443,
           "name": "AMMO ATTRACTOR"
