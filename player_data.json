@@ -5,26 +5,26 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 111949,
-  "highestTrophies": 111957,
+  "trophies": 112041,
+  "highestTrophies": 112041,
   "totalPrestigeLevel": 89,
-  "fame": 89327,
+  "fame": 89477,
   "fameTierName": "METEORIC FAME I",
-  "expLevel": 231,
-  "expPoints": 274802,
+  "expLevel": 232,
+  "expPoints": 275074,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13519,
+  "3vs3Victories": 13534,
   "soloVictories": 1841,
-  "duoVictories": 1327,
+  "duoVictories": 1328,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
   "rankedSeasonId": 50,
-  "rankedRank": 4,
-  "rankedRankName": "SILVER I",
-  "rankedElo": 750,
-  "highestSeasonRankedRank": 4,
-  "highestSeasonRankedRankName": "SILVER I",
-  "highestSeasonRankedElo": 750,
+  "rankedRank": 7,
+  "rankedRankName": "GOLD I",
+  "rankedElo": 1613,
+  "highestSeasonRankedRank": 7,
+  "highestSeasonRankedRankName": "GOLD I",
+  "highestSeasonRankedElo": 1640,
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
@@ -2939,8 +2939,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 12,
       "skin": {
-        "id": 29000595,
-        "name": "CHESTER"
+        "id": 29001133,
+        "name": "UNO CHESTER"
       },
       "gadgets": [
         {
@@ -3580,12 +3580,12 @@
     {
       "id": 16000077,
       "name": "LARRY & LAWRIE",
-      "power": 8,
+      "power": 9,
       "rank": 4,
-      "trophies": 758,
-      "highestTrophies": 761,
+      "trophies": 777,
+      "highestTrophies": 777,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 2,
       "maxWinStreak": 11,
       "skin": {
         "id": 29000819,
@@ -3602,7 +3602,12 @@
         }
       ],
       "gears": [],
-      "starPowers": [],
+      "starPowers": [
+        {
+          "id": 23000659,
+          "name": "PROTOCOL: PROTECT"
+        }
+      ],
       "hyperCharges": [
         {
           "id": 23001053,
@@ -5071,8 +5076,8 @@
       "name": "COSMO",
       "power": 9,
       "rank": 4,
-      "trophies": 855,
-      "highestTrophies": 863,
+      "trophies": 928,
+      "highestTrophies": 932,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 12,
