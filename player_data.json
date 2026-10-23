@@ -8,7 +8,7 @@
   "trophies": 112079,
   "highestTrophies": 112089,
   "totalPrestigeLevel": 89,
-  "fame": 91835,
+  "fame": 91840,
   "fameTierName": "METEORIC FAME I",
   "expLevel": 232,
   "expPoints": 275395,
@@ -707,7 +707,7 @@
       ],
       "buffies": {
         "gadget": false,
-        "starPower": false,
+        "starPower": true,
         "hyperCharge": true
       }
     },
@@ -1961,7 +1961,7 @@
         }
       ],
       "buffies": {
-        "gadget": false,
+        "gadget": true,
         "starPower": false,
         "hyperCharge": false
       }
@@ -2115,7 +2115,7 @@
       ],
       "buffies": {
         "gadget": false,
-        "starPower": false,
+        "starPower": true,
         "hyperCharge": true
       }
     },
