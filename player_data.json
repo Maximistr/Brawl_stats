@@ -5,15 +5,15 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 112079,
+  "trophies": 112080,
   "highestTrophies": 112089,
   "totalPrestigeLevel": 89,
-  "fame": 91840,
+  "fame": 91860,
   "fameTierName": "METEORIC FAME I",
   "expLevel": 232,
-  "expPoints": 275395,
+  "expPoints": 275421,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13558,
+  "3vs3Victories": 13559,
   "soloVictories": 1841,
   "duoVictories": 1328,
   "bestRoboRumbleTime": 12,
@@ -1241,8 +1241,8 @@
       "name": "CARL",
       "power": 11,
       "rank": 5,
-      "trophies": 1001,
-      "highestTrophies": 1006,
+      "trophies": 1006,
+      "highestTrophies": 1011,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 5,
@@ -4095,7 +4095,7 @@
       ],
       "buffies": {
         "gadget": true,
-        "starPower": false,
+        "starPower": true,
         "hyperCharge": true
       }
     },
@@ -5081,7 +5081,7 @@
       "name": "COSMO",
       "power": 9,
       "rank": 4,
-      "trophies": 928,
+      "trophies": 924,
       "highestTrophies": 932,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
