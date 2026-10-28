@@ -5,15 +5,15 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 112200,
-  "highestTrophies": 112200,
+  "trophies": 112190,
+  "highestTrophies": 112210,
   "totalPrestigeLevel": 89,
-  "fame": 92076,
+  "fame": 92106,
   "fameTierName": "METEORIC FAME I",
   "expLevel": 232,
-  "expPoints": 275773,
+  "expPoints": 275841,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13580,
+  "3vs3Victories": 13583,
   "soloVictories": 1844,
   "duoVictories": 1328,
   "bestRoboRumbleTime": 12,
@@ -2845,8 +2845,8 @@
       "currentWinStreak": 8,
       "maxWinStreak": 8,
       "skin": {
-        "id": 29000560,
-        "name": "GUS"
+        "id": 29001231,
+        "name": "GRIM GUS"
       },
       "gadgets": [
         {
@@ -2878,7 +2878,7 @@
       "buffies": {
         "gadget": true,
         "starPower": true,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -4799,7 +4799,7 @@
       "name": "NAJIA",
       "power": 11,
       "rank": 6,
-      "trophies": 2154,
+      "trophies": 2148,
       "highestTrophies": 2176,
       "prestigeLevel": 2,
       "currentWinStreak": 0,
@@ -5081,10 +5081,10 @@
       "name": "COSMO",
       "power": 9,
       "rank": 4,
-      "trophies": 975,
+      "trophies": 971,
       "highestTrophies": 975,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 12,
       "skin": {
         "id": 29001756,
