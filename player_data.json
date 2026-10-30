@@ -5,15 +5,15 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 112320,
-  "highestTrophies": 112320,
+  "trophies": 112321,
+  "highestTrophies": 112331,
   "totalPrestigeLevel": 90,
-  "fame": 92297,
+  "fame": 92347,
   "fameTierName": "METEORIC FAME I",
   "expLevel": 232,
-  "expPoints": 276081,
+  "expPoints": 276149,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13599,
+  "3vs3Victories": 13603,
   "soloVictories": 1844,
   "duoVictories": 1328,
   "bestRoboRumbleTime": 12,
@@ -3311,8 +3311,8 @@
       "name": "DOUG",
       "power": 11,
       "rank": 5,
-      "trophies": 1856,
-      "highestTrophies": 1866,
+      "trophies": 1857,
+      "highestTrophies": 1867,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 11,
@@ -3616,6 +3616,10 @@
         {
           "id": 23000659,
           "name": "PROTOCOL: PROTECT"
+        },
+        {
+          "id": 23000660,
+          "name": "PROTOCOL: ASSIST"
         }
       ],
       "hyperCharges": [
