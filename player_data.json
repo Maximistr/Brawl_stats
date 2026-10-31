@@ -5,15 +5,15 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 112321,
-  "highestTrophies": 112331,
+  "trophies": 112367,
+  "highestTrophies": 112374,
   "totalPrestigeLevel": 90,
-  "fame": 92347,
+  "fame": 92857,
   "fameTierName": "METEORIC FAME I",
   "expLevel": 232,
-  "expPoints": 276149,
+  "expPoints": 276255,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13603,
+  "3vs3Victories": 13609,
   "soloVictories": 1844,
   "duoVictories": 1328,
   "bestRoboRumbleTime": 12,
@@ -1829,14 +1829,14 @@
       "name": "SURGE",
       "power": 11,
       "rank": 5,
-      "trophies": 1178,
-      "highestTrophies": 1179,
+      "trophies": 1224,
+      "highestTrophies": 1231,
       "prestigeLevel": 1,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000836,
-        "name": "SCARLET PALADIN SURGE"
+        "id": 29000416,
+        "name": "SURGE KONG"
       },
       "gadgets": [
         {
