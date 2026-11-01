@@ -5,15 +5,15 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 112367,
-  "highestTrophies": 112374,
+  "trophies": 112884,
+  "highestTrophies": 112884,
   "totalPrestigeLevel": 90,
-  "fame": 92857,
+  "fame": 92887,
   "fameTierName": "METEORIC FAME I",
   "expLevel": 232,
-  "expPoints": 276255,
+  "expPoints": 276941,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13609,
+  "3vs3Victories": 13666,
   "soloVictories": 1844,
   "duoVictories": 1328,
   "bestRoboRumbleTime": 12,
@@ -28,6 +28,17 @@
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
+  "bestBossFightSpeedrunTimes": [
+    {
+      "event": {
+        "id": 0,
+        "modeId": 0
+      },
+      "bestTimeInSeconds": 208,
+      "difficulty": 7,
+      "difficultyName": "Impossible III"
+    }
+  ],
   "club": {
     "tag": "#2PGGYUP22",
     "name": "Druhá Šance"
@@ -185,8 +196,8 @@
       "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000864,
-        "name": "GOLD HACKER\nBROCK"
+        "id": 29000058,
+        "name": "BOOM BOX BROCK"
       },
       "gadgets": [
         {
@@ -801,10 +812,10 @@
       "name": "PAM",
       "power": 8,
       "rank": 3,
-      "trophies": 656,
-      "highestTrophies": 656,
+      "trophies": 664,
+      "highestTrophies": 667,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 4,
       "skin": {
         "id": 29000556,
@@ -1293,10 +1304,10 @@
       "name": "BIBI",
       "power": 11,
       "rank": 5,
-      "trophies": 1482,
-      "highestTrophies": 1503,
+      "trophies": 1626,
+      "highestTrophies": 1626,
       "prestigeLevel": 1,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 11,
       "skin": {
         "id": 29000682,
@@ -1829,14 +1840,14 @@
       "name": "SURGE",
       "power": 11,
       "rank": 5,
-      "trophies": 1224,
-      "highestTrophies": 1231,
+      "trophies": 1231,
+      "highestTrophies": 1238,
       "prestigeLevel": 1,
       "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
-        "id": 29000416,
-        "name": "SURGE KONG"
+        "id": 29001079,
+        "name": "SURGE LIGHTYEAR"
       },
       "gadgets": [
         {
@@ -2128,11 +2139,11 @@
       "id": 16000044,
       "name": "RUFFS",
       "power": 7,
-      "rank": 3,
-      "trophies": 682,
-      "highestTrophies": 682,
+      "rank": 4,
+      "trophies": 761,
+      "highestTrophies": 764,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 7,
       "skin": {
         "id": 29001284,
@@ -2214,11 +2225,11 @@
       "name": "BELLE",
       "power": 7,
       "rank": 3,
-      "trophies": 699,
-      "highestTrophies": 699,
+      "trophies": 730,
+      "highestTrophies": 730,
       "prestigeLevel": 0,
-      "currentWinStreak": 5,
-      "maxWinStreak": 5,
+      "currentWinStreak": 7,
+      "maxWinStreak": 7,
       "skin": {
         "id": 29000972,
         "name": "DRAGOON BELLE"
@@ -2574,10 +2585,10 @@
       "name": "FANG",
       "power": 11,
       "rank": 5,
-      "trophies": 1147,
-      "highestTrophies": 1147,
+      "trophies": 1164,
+      "highestTrophies": 1164,
       "prestigeLevel": 1,
-      "currentWinStreak": 7,
+      "currentWinStreak": 8,
       "maxWinStreak": 10,
       "skin": {
         "id": 29001229,
@@ -2719,13 +2730,13 @@
     {
       "id": 16000058,
       "name": "BONNIE",
-      "power": 7,
+      "power": 10,
       "rank": 3,
-      "trophies": 531,
-      "highestTrophies": 535,
+      "trophies": 693,
+      "highestTrophies": 696,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
-      "maxWinStreak": 5,
+      "maxWinStreak": 8,
       "skin": {
         "id": 29000892,
         "name": "TENTACLE BONNIE"
@@ -2740,8 +2751,19 @@
           "name": "CRASH TEST"
         }
       ],
-      "gears": [],
-      "starPowers": [],
+      "gears": [
+        {
+          "id": 62000006,
+          "name": "SUPER CHARGE",
+          "level": 3
+        }
+      ],
+      "starPowers": [
+        {
+          "id": 23000478,
+          "name": "BLACK POWDER"
+        }
+      ],
       "hyperCharges": [
         {
           "id": 23001003,
@@ -3592,10 +3614,10 @@
       "name": "LARRY & LAWRIE",
       "power": 9,
       "rank": 4,
-      "trophies": 799,
-      "highestTrophies": 799,
+      "trophies": 831,
+      "highestTrophies": 835,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 0,
       "maxWinStreak": 11,
       "skin": {
         "id": 29000819,
@@ -4290,12 +4312,12 @@
     {
       "id": 16000092,
       "name": "FINX",
-      "power": 8,
-      "rank": 3,
-      "trophies": 720,
-      "highestTrophies": 723,
+      "power": 9,
+      "rank": 4,
+      "trophies": 757,
+      "highestTrophies": 757,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 1,
       "maxWinStreak": 10,
       "skin": {
         "id": 29001612,
@@ -4312,7 +4334,12 @@
         }
       ],
       "gears": [],
-      "starPowers": [],
+      "starPowers": [
+        {
+          "id": 23000915,
+          "name": "HIEROGLYPH HALT"
+        }
+      ],
       "hyperCharges": [
         {
           "id": 23001051,
