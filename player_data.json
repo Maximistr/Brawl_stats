@@ -5,16 +5,16 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 112934,
-  "highestTrophies": 112934,
+  "trophies": 112947,
+  "highestTrophies": 112947,
   "totalPrestigeLevel": 90,
-  "fame": 92997,
+  "fame": 93997,
   "fameTierName": "METEORIC FAME I",
   "expLevel": 232,
-  "expPoints": 277034,
+  "expPoints": 277049,
   "isQualifiedFromChampionshipChallenge": false,
   "3vs3Victories": 13668,
-  "soloVictories": 1846,
+  "soloVictories": 1847,
   "duoVictories": 1328,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
@@ -745,7 +745,7 @@
       ],
       "buffies": {
         "gadget": true,
-        "starPower": false,
+        "starPower": true,
         "hyperCharge": true
       }
     },
@@ -1700,7 +1700,7 @@
       "gadgets": [
         {
           "id": 23000277,
-          "name": "SPRING EJECTOR"
+          "name": "NORTH WIND WALL"
         },
         {
           "id": 23000407,
@@ -1721,7 +1721,7 @@
       "hyperCharges": [
         {
           "id": 23000756,
-          "name": "BLIZZARD"
+          "name": "RAGING BLIZZARD"
         }
       ],
       "buffies": {
@@ -1868,7 +1868,7 @@
       "hyperCharges": [
         {
           "id": 23000826,
-          "name": "STAGE 5"
+          "name": "JUICED UP!"
         }
       ],
       "buffies": {
@@ -1992,14 +1992,14 @@
         },
         {
           "id": 23000400,
-          "name": "CRYO SYRUP"
+          "name": "AVALANCHE"
         }
       ],
       "gears": [],
       "starPowers": [
         {
           "id": 23000324,
-          "name": "SUPERCOOL"
+          "name": "COLD SNAP"
         },
         {
           "id": 23000325,
@@ -2961,7 +2961,7 @@
       "gadgets": [
         {
           "id": 23000529,
-          "name": "SPICY DICE"
+          "name": "PRANKSTER'S SURPRISE"
         },
         {
           "id": 23000530,
@@ -2976,7 +2976,7 @@
         },
         {
           "id": 23000528,
-          "name": "SNEAK PEEK"
+          "name": "JESTER'S PRIVILEGE"
         }
       ],
       "hyperCharges": [
@@ -3070,7 +3070,7 @@
         },
         {
           "id": 23000544,
-          "name": "HARD CANDY"
+          "name": "GOBSTOPPER"
         }
       ],
       "hyperCharges": [
@@ -3882,7 +3882,7 @@
         },
         {
           "id": 23000767,
-          "name": "HEALTHY ADDITIVES"
+          "name": "SECRET FORMULA"
         }
       ],
       "gears": [],
@@ -3893,7 +3893,7 @@
         },
         {
           "id": 23000765,
-          "name": "MAKING A MESS"
+          "name": "STICKY TOPPINGS"
         }
       ],
       "hyperCharges": [
@@ -5136,6 +5136,35 @@
           "name": "AMMO ATTRACTOR"
         }
       ],
+      "hyperCharges": [],
+      "buffies": {
+        "gadget": false,
+        "starPower": false,
+        "hyperCharge": false
+      }
+    },
+    {
+      "id": 16000110,
+      "name": "VINCE",
+      "power": 7,
+      "rank": 1,
+      "trophies": 13,
+      "highestTrophies": 13,
+      "prestigeLevel": 0,
+      "currentWinStreak": 1,
+      "maxWinStreak": 1,
+      "skin": {
+        "id": 29001757,
+        "name": "VINCE"
+      },
+      "gadgets": [
+        {
+          "id": 23001453,
+          "name": "METAMOTHOSIS"
+        }
+      ],
+      "gears": [],
+      "starPowers": [],
       "hyperCharges": [],
       "buffies": {
         "gadget": false,
