@@ -5,13 +5,13 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 113182,
-  "highestTrophies": 113182,
+  "trophies": 113196,
+  "highestTrophies": 113203,
   "totalPrestigeLevel": 90,
   "fame": 94027,
   "fameTierName": "METEORIC FAME I",
   "expLevel": 232,
-  "expPoints": 277205,
+  "expPoints": 277228,
   "isQualifiedFromChampionshipChallenge": false,
   "3vs3Victories": 13682,
   "soloVictories": 1847,
@@ -2076,10 +2076,10 @@
       "name": "EDGAR",
       "power": 11,
       "rank": 5,
-      "trophies": 1539,
+      "trophies": 1532,
       "highestTrophies": 1539,
       "prestigeLevel": 1,
-      "currentWinStreak": 2,
+      "currentWinStreak": 0,
       "maxWinStreak": 12,
       "skin": {
         "id": 29000997,
@@ -3082,7 +3082,7 @@
       "buffies": {
         "gadget": false,
         "starPower": false,
-        "hyperCharge": false
+        "hyperCharge": true
       }
     },
     {
@@ -5146,13 +5146,13 @@
     {
       "id": 16000110,
       "name": "VINCE",
-      "power": 8,
-      "rank": 1,
-      "trophies": 248,
-      "highestTrophies": 248,
+      "power": 9,
+      "rank": 2,
+      "trophies": 269,
+      "highestTrophies": 269,
       "prestigeLevel": 0,
-      "currentWinStreak": 15,
-      "maxWinStreak": 15,
+      "currentWinStreak": 16,
+      "maxWinStreak": 16,
       "skin": {
         "id": 29001757,
         "name": "VINCE"
@@ -5164,7 +5164,12 @@
         }
       ],
       "gears": [],
-      "starPowers": [],
+      "starPowers": [
+        {
+          "id": 23001451,
+          "name": "BUG BANDAGE"
+        }
+      ],
       "hyperCharges": [],
       "buffies": {
         "gadget": false,
