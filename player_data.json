@@ -5,17 +5,17 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 113212,
-  "highestTrophies": 113220,
+  "trophies": 113323,
+  "highestTrophies": 113325,
   "totalPrestigeLevel": 90,
-  "fame": 94027,
+  "fame": 94057,
   "fameTierName": "METEORIC FAME I",
   "expLevel": 233,
-  "expPoints": 277284,
+  "expPoints": 277448,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13682,
+  "3vs3Victories": 13683,
   "soloVictories": 1847,
-  "duoVictories": 1329,
+  "duoVictories": 1333,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
   "rankedSeasonId": 50,
@@ -5148,16 +5148,20 @@
       "name": "VINCE",
       "power": 9,
       "rank": 2,
-      "trophies": 269,
-      "highestTrophies": 269,
+      "trophies": 380,
+      "highestTrophies": 382,
       "prestigeLevel": 0,
-      "currentWinStreak": 16,
-      "maxWinStreak": 16,
+      "currentWinStreak": 0,
+      "maxWinStreak": 17,
       "skin": {
         "id": 29001757,
         "name": "VINCE"
       },
       "gadgets": [
+        {
+          "id": 23001452,
+          "name": "HOT COFFEE"
+        },
         {
           "id": 23001453,
           "name": "METAMOTHOSIS"
