@@ -5,17 +5,17 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 113421,
-  "highestTrophies": 113423,
+  "trophies": 113551,
+  "highestTrophies": 113551,
   "totalPrestigeLevel": 90,
   "fame": 94342,
   "fameTierName": "METEORIC FAME I",
   "expLevel": 233,
-  "expPoints": 277579,
+  "expPoints": 277823,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13691,
+  "3vs3Victories": 13701,
   "soloVictories": 1847,
-  "duoVictories": 1334,
+  "duoVictories": 1335,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
   "rankedSeasonId": 50,
@@ -5146,12 +5146,12 @@
     {
       "id": 16000110,
       "name": "VINCE",
-      "power": 9,
-      "rank": 2,
-      "trophies": 478,
-      "highestTrophies": 480,
+      "power": 11,
+      "rank": 3,
+      "trophies": 608,
+      "highestTrophies": 608,
       "prestigeLevel": 0,
-      "currentWinStreak": 0,
+      "currentWinStreak": 2,
       "maxWinStreak": 17,
       "skin": {
         "id": 29001757,
@@ -5170,11 +5170,20 @@
       "gears": [],
       "starPowers": [
         {
+          "id": 23001450,
+          "name": "COME TO PAPA"
+        },
+        {
           "id": 23001451,
           "name": "BUG BANDAGE"
         }
       ],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23001528,
+          "name": "BUG SWARM"
+        }
+      ],
       "buffies": {
         "gadget": false,
         "starPower": false,
