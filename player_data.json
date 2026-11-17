@@ -5,15 +5,15 @@
   "icon": {
     "id": 28000566
   },
-  "trophies": 114249,
-  "highestTrophies": 114249,
+  "trophies": 114278,
+  "highestTrophies": 114281,
   "totalPrestigeLevel": 91,
-  "fame": 94647,
+  "fame": 94662,
   "fameTierName": "METEORIC FAME I",
   "expLevel": 233,
-  "expPoints": 278694,
+  "expPoints": 278732,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13756,
+  "3vs3Victories": 13759,
   "soloVictories": 1848,
   "duoVictories": 1337,
   "bestRoboRumbleTime": 12,
@@ -455,7 +455,7 @@
       ],
       "buffies": {
         "gadget": true,
-        "starPower": false,
+        "starPower": true,
         "hyperCharge": true
       }
     },
@@ -2721,8 +2721,8 @@
       "name": "BONNIE",
       "power": 10,
       "rank": 3,
-      "trophies": 698,
-      "highestTrophies": 702,
+      "trophies": 716,
+      "highestTrophies": 719,
       "prestigeLevel": 0,
       "currentWinStreak": 0,
       "maxWinStreak": 8,
@@ -3603,10 +3603,10 @@
       "name": "LARRY & LAWRIE",
       "power": 9,
       "rank": 4,
-      "trophies": 836,
-      "highestTrophies": 836,
+      "trophies": 847,
+      "highestTrophies": 847,
       "prestigeLevel": 0,
-      "currentWinStreak": 1,
+      "currentWinStreak": 2,
       "maxWinStreak": 11,
       "skin": {
         "id": 29000819,
@@ -5136,7 +5136,12 @@
           "name": "AMMO ATTRACTOR"
         }
       ],
-      "hyperCharges": [],
+      "hyperCharges": [
+        {
+          "id": 23001527,
+          "name": "COSMIC CAPTURE"
+        }
+      ],
       "buffies": {
         "gadget": false,
         "starPower": false,
