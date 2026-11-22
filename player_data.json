@@ -8,23 +8,23 @@
   "trophies": 114336,
   "highestTrophies": 114336,
   "totalPrestigeLevel": 91,
-  "fame": 94767,
+  "fame": 95984,
   "fameTierName": "METEORIC FAME I",
   "expLevel": 233,
-  "expPoints": 278829,
+  "expPoints": 279577,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13765,
+  "3vs3Victories": 13812,
   "soloVictories": 1848,
   "duoVictories": 1337,
   "bestRoboRumbleTime": 12,
   "bestTimeAsBigBrawler": 0,
   "rankedSeasonId": 51,
-  "rankedRank": 6,
-  "rankedRankName": "SILVER III",
-  "rankedElo": 1250,
-  "highestSeasonRankedRank": 6,
-  "highestSeasonRankedRankName": "SILVER III",
-  "highestSeasonRankedElo": 1250,
+  "rankedRank": 11,
+  "rankedRankName": "DIAMOND II",
+  "rankedElo": 3771,
+  "highestSeasonRankedRank": 11,
+  "highestSeasonRankedRankName": "DIAMOND II",
+  "highestSeasonRankedElo": 3886,
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
@@ -2719,7 +2719,7 @@
     {
       "id": 16000058,
       "name": "BONNIE",
-      "power": 10,
+      "power": 11,
       "rank": 4,
       "trophies": 774,
       "highestTrophies": 774,
@@ -4327,6 +4327,10 @@
         {
           "id": 23000915,
           "name": "HIEROGLYPH HALT"
+        },
+        {
+          "id": 23000916,
+          "name": "PRIMER"
         }
       ],
       "hyperCharges": [
