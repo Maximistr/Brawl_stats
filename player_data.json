@@ -10,10 +10,10 @@
   "totalPrestigeLevel": 91,
   "fame": 95984,
   "fameTierName": "METEORIC FAME I",
-  "expLevel": 233,
-  "expPoints": 279595,
+  "expLevel": 234,
+  "expPoints": 279621,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13813,
+  "3vs3Victories": 13814,
   "soloVictories": 1848,
   "duoVictories": 1337,
   "bestRoboRumbleTime": 12,
@@ -1060,6 +1060,10 @@
       ],
       "gears": [],
       "starPowers": [
+        {
+          "id": 23000109,
+          "name": "MAGIC PUFFS"
+        },
         {
           "id": 23000159,
           "name": "SPIRIT SLAP"
