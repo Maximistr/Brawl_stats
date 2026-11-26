@@ -8,12 +8,12 @@
   "trophies": 114336,
   "highestTrophies": 114336,
   "totalPrestigeLevel": 91,
-  "fame": 96029,
+  "fame": 96168,
   "fameTierName": "METEORIC FAME I",
   "expLevel": 234,
-  "expPoints": 279673,
+  "expPoints": 279737,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13817,
+  "3vs3Victories": 13822,
   "soloVictories": 1848,
   "duoVictories": 1337,
   "bestRoboRumbleTime": 12,
@@ -2755,6 +2755,10 @@
         {
           "id": 23000478,
           "name": "BLACK POWDER"
+        },
+        {
+          "id": 23000479,
+          "name": "WISDOM TOOTH"
         }
       ],
       "hyperCharges": [
