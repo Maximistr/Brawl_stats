@@ -8,12 +8,12 @@
   "trophies": 114336,
   "highestTrophies": 114336,
   "totalPrestigeLevel": 91,
-  "fame": 96668,
+  "fame": 96708,
   "fameTierName": "METEORIC FAME I",
   "expLevel": 234,
-  "expPoints": 279793,
+  "expPoints": 279829,
   "isQualifiedFromChampionshipChallenge": false,
-  "3vs3Victories": 13829,
+  "3vs3Victories": 13833,
   "soloVictories": 1848,
   "duoVictories": 1337,
   "bestRoboRumbleTime": 12,
@@ -28,17 +28,6 @@
   "highestAllTimeRankedRank": 14,
   "highestAllTimeRankedRankName": "MYTHIC II",
   "highestAllTimeRankedElo": 5307,
-  "bestBossFightSpeedrunTimes": [
-    {
-      "event": {
-        "id": 0,
-        "modeId": 0
-      },
-      "bestTimeInSeconds": 160,
-      "difficulty": 5,
-      "difficultyName": "Impossible"
-    }
-  ],
   "club": {
     "tag": "#2PGGYUP22",
     "name": "Druhá Šance"
